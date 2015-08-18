@@ -1,0 +1,1 @@
+All of the collected data is made available under a public domain data license. All are encouraged to download and reuse the data. For more information on the data and research methodology, please [see this page](/research-and-methodology "Research and Methodology").
