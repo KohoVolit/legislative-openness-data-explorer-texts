@@ -1,0 +1,1 @@
+Všechna data jsou zveřejněna pod veřejnou licencí. Kdokoliv si je může stáhnout a pracovat s nimi. Více informací o metodologii výzkumu je [popsáno zde](/research-and-methodology "Research and Methodology").
