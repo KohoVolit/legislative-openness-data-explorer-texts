@@ -5,3 +5,7 @@ choose_categories,Choose categories
 close,Close
 explore,Explore!
 select_individual_questions,Select individual questions
+data,Data
+details,Details
+rotate,Rotate table
+reset_rotate,Reset to smart rotation
