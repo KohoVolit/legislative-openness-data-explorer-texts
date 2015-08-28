@@ -1,4 +1,4 @@
-code,text
+code,text,link
 title,Explore
 choose_chambers,Choose chambers
 choose_categories,Choose categories
@@ -9,3 +9,8 @@ data,Data
 details,Details
 rotate,Rotate table
 reset_rotate,Reset to smart rotation
+suggest_edits_google_form,-,https://docs.google.com/forms/d/17sr702IWQu6DR7-ApQk5rApv_Na0XVb124KGBXDoeQ0/viewform?embedded=true
+suggest_edits_button,Suggest edits to the data,
+suggest_edits_form_hide,Hide form
+best_practices,Best practices
+read_more,Read more on best practices...
