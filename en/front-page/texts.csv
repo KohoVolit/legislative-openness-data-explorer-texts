@@ -3,9 +3,9 @@ title,Legislative Openness Data Explorer
 under_map,Click on a country to explore available data or to contribute where data is not yet available.
 under_categories,Click on an issue to see a global comparison and best practices in this area.
 explore,Explore
-explore_description,Filter the data by country or topic. Create your own unique tables.
+explore_description,Filter the data by chamber or topic to create unique tables and maps.
 download,Download
-download_description,"Download the data in CSV. Analyze, visualize, compare."
+download_description,"Download all the data in CSV to create your own analysis, visualization, or comparison."
 contribute,Contribute
-contribute_description,Add data for your parliament. Suggest changes to the data. 
+contribute_description,Add data for a missing chamber of parliament and suggested changes to the data. 
 
