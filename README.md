@@ -42,10 +42,10 @@ and their "master file" (containg weight and categories of the example) is
             	examples.csv
 
 ### Adding a new best practice example (for English, i.e. 'en')
-1. Create a new .md file, e.g. `/en/best-practices/examples/my_new_example.md`
-2. Add its name (without .md), weight and categories (to which the new example belongs) into: `/en/best-practices/examples.csv`.  
+1. Create a new .md file, e.g. `/en/best-practices/examples/my_new_example.md` with a new "best practice" example  
+2. Add its name (without .md), weight and categories (to which the new example belongs) into the CSV file: `/en/best-practices/examples.csv`.  
 E.g., by adding a row `my_new_example,5,citizen-participation` to the CSV file.  
-More categories for a single example may be added separated by semicolon, e.g. `citizen-participation;accessibility`
+More categories for a single example may be added separated by semicolon, e.g. `my_new_example,5,citizen-participation;accessibility`
 
 
 
