@@ -1,5 +1,0 @@
-# Example 1
-
-A parliament is a legislature. More specifically, "parliament" may refer only to a democratic government's legislature. The term is derived from the French parlement, the action of parler ("to speak"): a parlement is a discussion. In around 1300 the term came to mean a meeting at which such a discussion took place. It acquired its modern meaning, in the mid-14th century, as it came to be used for the body of people (in an institutional sense) who would meet to discuss matters of state.
-
-Since ancient times, when societies were tribal, there were councils or a headman whose decisions were assessed by village elders. This is called tribalism. Some scholars suggest that in ancient Mesopotamia there was a primitive democratic government where the kings were assessed by council. The same has been said about ancient India, where some form of deliberative assemblies existed, and therefore there was some form of democracy. However, these claims are not accepted by most scholars, who see these forms of government as oligarchies.
