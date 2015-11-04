@@ -16,7 +16,7 @@ Note: **All editing described below requires writing rights for this GitHub proj
 These files may be easily edited using prose.io application here: [http://prose.io/#KohoVolit/legislative-openness-data-explorer-texts](http://prose.io/#KohoVolit/legislative-openness-data-explorer-texts)
 
 ## Editing comma separated values/CSV (.csv) files
-These files may be edited:
+These files may be edited:  
 1. directly on GitHub (e.g., [https://github.com/KohoVolit/legislative-openness-data-explorer-texts/edit/master/en/about/texts.csv](https://github.com/KohoVolit/legislative-openness-data-explorer-texts/edit/master/en/about/texts.csv))  
 2. using prose.io application ([http://prose.io/#KohoVolit/legislative-openness-data-explorer-texts](http://prose.io/#KohoVolit/legislative-openness-data-explorer-texts))  
 3. using OO Calc, Excel or similar spreadsheet tool + synchronizing through Git (requires previous cloning of the project to a local repository)
