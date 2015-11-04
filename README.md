@@ -16,9 +16,11 @@ The texts for each language versions are in their own directories named by [http
 Note: **All editing described below requires writing rights for this GitHub project!**
 
 ## Editing markdown (.md) files
+These files contain longer texts with possibility of formatting, links, etc.
 These files may be easily edited using prose.io application here: [http://prose.io/#KohoVolit/legislative-openness-data-explorer-texts](http://prose.io/#KohoVolit/legislative-openness-data-explorer-texts)
 
 ## Editing comma separated values/CSV (.csv) files
+These files containg short bits of text without any formatting.
 These files may be edited:  
 1. directly on GitHub (e.g., [https://github.com/KohoVolit/legislative-openness-data-explorer-texts/edit/master/en/about/texts.csv](https://github.com/KohoVolit/legislative-openness-data-explorer-texts/edit/master/en/about/texts.csv))  
 2. using prose.io application ([http://prose.io/#KohoVolit/legislative-openness-data-explorer-texts](http://prose.io/#KohoVolit/legislative-openness-data-explorer-texts))  
