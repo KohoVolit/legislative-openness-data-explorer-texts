@@ -1,6 +1,7 @@
 # Legislative Openness Data Explorer - texts
 Texts for the [Legislative Openness Data Explorer project](https://github.com/KohoVolit/legislative-openness-data-explorer).
 
+## File structure
 The texts for each language versions are in their own directories named by [https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes](ISO 639-1 codes). The texts are orginized be their respective page of the website.
 
 	/
