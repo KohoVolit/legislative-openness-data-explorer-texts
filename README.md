@@ -1,12 +1,12 @@
 # Legislative Openness Data Explorer - texts
 The texts for each language versions are in their own directories named by [https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes](ISO 639-1 codes). The texts are orginized be their respective page of the website.
 
-	root
-    	cs
+	/
+    	cs/
         	...
-        en
-        	about
-            best-practices
+        en/
+        	about/
+            best-practices/
             ...
         ...
 
