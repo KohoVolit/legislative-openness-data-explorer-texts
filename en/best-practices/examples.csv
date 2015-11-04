@@ -1,4 +1,8 @@
 code,weight,categories
 example-1,10,plenary;committees;error
-italian-parliament-akoma-ntoso,1,administration;plenary
+italian-parliament-akoma-ntoso,0,administration;plenary
 example-0,0,
+brazils-e-democracia,1,participation
+dominican-republic-uruguay-suriname-ecuador-bungeni,2,accessibility
+finland-e-petition-platform,1,participation
+ghana-south-africa-uganda-legislative-process,2,participation
