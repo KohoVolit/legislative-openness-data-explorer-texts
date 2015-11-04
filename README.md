@@ -17,8 +17,8 @@ These files may be easily edited using prose.io application here: [http://prose.
 
 ## Editing comma separated values/CSV (.csv) files
 These files may be edited:
-1. directly on GitHub (e.g., [https://github.com/KohoVolit/legislative-openness-data-explorer-texts/edit/master/en/about/texts.csv](https://github.com/KohoVolit/legislative-openness-data-explorer-texts/edit/master/en/about/texts.csv))
-2. using prose.io application ([http://prose.io/#KohoVolit/legislative-openness-data-explorer-texts](http://prose.io/#KohoVolit/legislative-openness-data-explorer-texts))
+1. directly on GitHub (e.g., [https://github.com/KohoVolit/legislative-openness-data-explorer-texts/edit/master/en/about/texts.csv](https://github.com/KohoVolit/legislative-openness-data-explorer-texts/edit/master/en/about/texts.csv))  
+2. using prose.io application ([http://prose.io/#KohoVolit/legislative-openness-data-explorer-texts](http://prose.io/#KohoVolit/legislative-openness-data-explorer-texts))  
 3. using OO Calc, Excel or similar spreadsheet tool + synchronizing through Git (requires previous cloning of the project to a local repository)
 
 Note: **Do NOT translate first row and first column of the CSV files**, they contain codes of the texts.
