@@ -25,7 +25,7 @@ Civil society organizations may find this site to be a valuable advocacy tool. B
 <br>
 ###### How reliable is the Legislative Openness Data Explorer? 
 
-As this information was crowdsourced, no assurance of accuracy can be given and data may contain errors or be incomplete. By using this data in any way, the user must acknowledge this limitation. Users are encouraged to contribute to the data to ensure the site reflects the most up to date information on parliamentary openness practices.
+As this information was crowdsourced, no assurance of accuracy can be given and data may contain errors or be incomplete. By using this data in any way, the user must acknowledge this limitation. Users are encouraged to contribute to the data to ensure the site reflects the most up to date information on parliamentary openness practices.  
 <br>
 ###### Will translation be available? 
 
@@ -50,7 +50,7 @@ In instances when multiple actors completed the survey for the same chamber of p
 
 At the [Explore](http://beta.openparldata.org/explore/) page of this site, users can generate unique data tables and maps to easily analyze the information. In both instances, you will see that chambers of parliament are given either a red, green, or yellow icon for each question. Typically, green indicates that the data is available in open formats, yellow that the data is available but not in open formats, and red that the data is not available. These colored icons are intended to provide a general overview of data availability, and should not be considered to be a score or indication of performance. 
 
-To learn more about each data point, users may click on the green, yellow, or red icon. Doing so will produce a dialogue box with detailed information, including: the survey questions and answer, contextual information about that specific data point, and other helpful information to help understand parliamentary performance on this specific issue.   
+To learn more about each data point, users may click on the green, yellow, or red icon. Doing so will produce a dialogue box with detailed information, including: the survey questions and answer, contextual information about that specific data point, and other helpful information to help understand parliamentary performance on this specific issue.
 <br>
 <br>
 #### Site Administration
