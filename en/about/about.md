@@ -1,9 +1,9 @@
 # About the Legislative Openness Data Explorer
 <br>
 <br>
-#### Background and General
+### Background and General
 <br>
-###### Why global, comparative data on parliamentary openness? 
+##### Why global, comparative data on parliamentary openness? 
 
 Around the world, an increasing number of parliaments are embracing the principles of parliamentary openness: ensuring public access to legislative information, providing opportunities for meaningful citizen participation, and embracing the possibilities presented by new technologies. The [Open Government Partnership](http://www.opengovpartnership.org/) (OGP) has provided an international platform for these parliaments to exchange experience, share good practice, and, in some cases, advance reform. OGP’s [Legislative Openness Working Group](http://www.opengovpartnership.org/groups/legislative) compiled the data featured on this site.
 
@@ -11,7 +11,7 @@ Despite growing interest in the topic of legislative openness around the world, 
 
 It is important to capture comparative information on legislative openness at a global scale because innovation and good practice can originate anywhere. This site is an effort to ensure that global good practice is being effectively captured and shared.  
 <br>
-###### Can I reuse the data on this site?*
+###### Can I reuse the data on this site?
 
 Yes! Reuse is strongly encouraged, and all the data is freely available for download. The site and all data is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
 <br>
@@ -31,7 +31,7 @@ As this information was crowdsourced, no assurance of accuracy can be given and 
 
 The site administrators would welcome volunteer support to develop translated versions of the site. If interested, please contact the site administrators at admin@openparldata.org. 
 
-It is also important to note that the survey was circulated in English only, due in part to the Working Group’s limited capacity. Given the highly technical nature of the survey, it is possible that circulating in English created limited data quality issues. To help address any such issues, see the [Contribute](http://beta.openparldata.org/contribute/) page. 
+It is also important to note that the survey was circulated in English only, due in part to the Working Group’s limited capacity. Given the highly technical nature of the survey, it is possible that circulating in English created limited data quality issues. To help address any such issues, see the [Contribute](http://beta.openparldata.org/contribute/) page.   
 <br>
 <br>
 #### Methodology
@@ -50,7 +50,7 @@ In instances when multiple actors completed the survey for the same chamber of p
 
 At the [Explore](http://beta.openparldata.org/explore/) page of this site, users can generate unique data tables and maps to easily analyze the information. In both instances, you will see that chambers of parliament are given either a red, green, or yellow icon for each question. Typically, green indicates that the data is available in open formats, yellow that the data is available but not in open formats, and red that the data is not available. These colored icons are intended to provide a general overview of data availability, and should not be considered to be a score or indication of performance. 
 
-To learn more about each data point, users may click on the green, yellow, or red icon. Doing so will produce a dialogue box with detailed information, including: the survey questions and answer, contextual information about that specific data point, and other helpful information to help understand parliamentary performance on this specific issue.
+To learn more about each data point, users may click on the green, yellow, or red icon. Doing so will produce a dialogue box with detailed information, including: the survey questions and answer, contextual information about that specific data point, and other helpful information to help understand parliamentary performance on this specific issue.  
 <br>
 <br>
 #### Site Administration
@@ -65,6 +65,4 @@ As a community project, the Legislative Openness Data Explorer relies on contrib
 <br>
 ###### How can I contact the site administrators? 
 
-To contact the site administrators directly, please email admin@openparldata.org. 
-
-
+To contact the site administrators directly, please email admin@openparldata.org.
