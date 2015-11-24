@@ -1,7 +1,7 @@
 # About the Legislative Openness Data Explorer
 
 
-### Background and General
+#### Background and General
 
 
 ###### Why global, comparative data on parliamentary openness? 
@@ -13,7 +13,7 @@ Despite growing interest in the topic of legislative openness around the world, 
 It is important to capture comparative information on legislative openness at a global scale because innovation and good practice can originate anywhere. This site is an effort to ensure that global good practice is being effectively captured and shared. 
 
 
-*Can I reuse the data on this site?*
+###### Can I reuse the data on this site?*
 
 Yes! Reuse is strongly encouraged, and all the data is freely available for download. The site and all data is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
 
