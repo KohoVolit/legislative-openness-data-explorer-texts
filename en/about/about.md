@@ -1,6 +1,9 @@
 # About Legislative Openness Data Explorer
 
+
+# Background and General
 **BACKGROUND AND GENERAL** 
+
 
 *Why global, comparative data on parliamentary openness?* 
 
@@ -9,6 +12,7 @@ Around the world, an increasing number of parliaments are embracing the principl
 Despite growing interest in the topic of legislative openness around the world, relatively few global studies have been conducted. The Global Centre for ICT in Parliament’s [World e-Parliament Report 2012](http://www.ictparliament.org/WePReport2012.html) collected some of this information, though that report does not focus exclusively on openness and covers a broader range of issues related to parliament and technology. Civil society groups have also conducted strong regional studies, such as the work of [KohoVolit](http://kohovolit.eu/) and the [Latin American Legislative Transparency Network](http://www.transparencialegislativa.org/). Regional studies are important, but it can also be valuable for civil society groups and parliaments to compare performance with countries around the world. 
 
 It is important to capture comparative information on legislative openness at a global scale because innovation and good practice can originate anywhere. This site is an effort to ensure that global good practice is being effectively captured and shared. 
+
 
 *Can I reuse the data on this site?*
 
