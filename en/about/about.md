@@ -1,7 +1,7 @@
-## About Legislative Openness Data Explorer
+### About Legislative Openness Data Explorer
 
 
-# Background and General
+#### Background and General
 **BACKGROUND AND GENERAL** 
 
 
