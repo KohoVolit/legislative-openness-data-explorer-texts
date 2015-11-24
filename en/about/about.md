@@ -1,11 +1,10 @@
-### About Legislative Openness Data Explorer
+# About the Legislative Openness Data Explorer
 
 
-#### Background and General
-**BACKGROUND AND GENERAL** 
+### Background and General
 
 
-*Why global, comparative data on parliamentary openness?* 
+###### Why global, comparative data on parliamentary openness? 
 
 Around the world, an increasing number of parliaments are embracing the principles of parliamentary openness: ensuring public access to legislative information, providing opportunities for meaningful citizen participation, and embracing the possibilities presented by new technologies. The [Open Government Partnership](http://www.opengovpartnership.org/) (OGP) has provided an international platform for these parliaments to exchange experience, share good practice, and, in some cases, advance reform. OGP’s [Legislative Openness Working Group] (http://www.opengovpartnership.org/groups/legislative) compiled the data featured on this site.
 
