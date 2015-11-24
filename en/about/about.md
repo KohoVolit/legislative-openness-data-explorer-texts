@@ -44,7 +44,7 @@ The initial survey was based in part on the [Declaration on Parliamentary Openne
 
 All the data displayed on this site was collected through an open survey research process. The site administrators are relying on the expertise of external experts to complete the survey and provide the necessary information. As such, it is expected that not all of the information on this site is accurate. Users are encouraged to either complete the survey themselves or suggest changes to the information as it is displayed. Both civil society groups and parliaments completed the survey and provided data for the site. 
 
-In instances when multiple actors completed the survey for the same chamber of parliament, the site administrators have worked to resolve inconsistencies or disagreements in as fair a manner as possible. That being said, community involvement is essential to ensure the most accurate information. For more information on how you can get involved, see the CONTRIBUTE page.  
+In instances when multiple actors completed the survey for the same chamber of parliament, the site administrators have worked to resolve inconsistencies or disagreements in as fair a manner as possible. That being said, community involvement is essential to ensure the most accurate information. For more information on how you can get involved, see the [Contribute](http://beta.openparldata.org/contribute/) page.  
 <br>
 ##### What do the green, yellow, and red icon represent? 
 
