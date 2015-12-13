@@ -1,15 +1,16 @@
 code,text,link
 title,Explore
-choose_chambers,Select Chambers of Parliament
+choose_chambers,Select Chambers
 choose_categories,Select Categories
 close,Close
 explore,Explore
 select_individual_questions,Select individual questions
 data,Data
 details,Details
+click_more_details,Click for more details
 rotate,Rotate table
 reset_rotate,Reset to smart rotation
-suggest_edits_google_form,-,https://docs.google.com/forms/d/17sr702IWQu6DR7-ApQk5rApv_Na0XVb124KGBXDoeQ0/viewform?embedded=true
+suggest_edits_google_form,-,https://docs.google.com/forms/d/1_RpRTjV3RffgmZOOXZZPgY2e312QP2KpAE0i5asN2j4/viewform?embedded=true
 suggest_edits_button,Suggest edits to the data,
 suggest_edits_form_hide,Hide form
 best_practices,Best practices
