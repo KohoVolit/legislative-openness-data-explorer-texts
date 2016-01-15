@@ -11,4 +11,4 @@ The platform enables multiple modes of interaction for citizens and lawmakers, i
 
 The e-Democracia platform was launched in June 2009 and, as of August 2013, the portal had about 3,000 debates (forum threads), 17,400 contributions, and 27,400 registered participants. 
 
-Source: [http://blog.openingparliament.org/post/60749859717/case-study-5-brazils-e-democracia-project](http://blog.openingparliament.org/post/60749859717/case-study-5-brazils-e-democracia-project)
+Source: [blog.openingparliament.org/post/60749859717/case-study-5-brazils-e-democracia-project](http://blog.openingparliament.org/post/60749859717/case-study-5-brazils-e-democracia-project)

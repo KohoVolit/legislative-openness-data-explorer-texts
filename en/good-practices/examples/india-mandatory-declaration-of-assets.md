@@ -4,4 +4,4 @@ In India, the voter has the fundamental right to know the financial background o
 
 After a candidate wins elections to either House of Parliament it becomes mandatory for him/her to declare their assets (movable and immovable property for self, spouse and dependent children) within 90 days of taking oath of office as an MP. Liabilities to public financial institutions and the Central and any State Government are also required to be disclosed.
 
-Source: [http://www.humanrightsinitiative.org/publications/rti/parl_citizens_bridging_gap_thro_greater_transparency.pdf](http://www.humanrightsinitiative.org/publications/rti/parl_citizens_bridging_gap_thro_greater_transparency.pdf)
+Source: [www.humanrightsinitiative.org/publications/rti/parl_citizens_bridging_gap_thro_greater_transparency.pdf](http://www.humanrightsinitiative.org/publications/rti/parl_citizens_bridging_gap_thro_greater_transparency.pdf)

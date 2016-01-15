@@ -6,6 +6,6 @@ Following emerging experience, debates and a campaign led by the Sunlight Founda
 
 While there is no overall social media policy, the House and Senate rules now makes clear that Federal law and House Rules on communication apply to all  ‘official content of material posted by the Member on any website’, but not to the broader social media platform itself.
 
-Source: [http://sunlightfoundation.com/blog/2008/10/03/web-use-reform-happy-ending/], [http:// http://cha.house.gov/member-services/handbooks], 
-[http://www.senate.gov/usage/internetpolicy.htm].
+Source: [sunlightfoundation.com/blog/2008/10/03/web-use-reform-happy-ending/](http://sunlightfoundation.com/blog/2008/10/03/web-use-reform-happy-ending/), [cha.house.gov/member-services/handbooks](http://cha.house.gov/member-services/handbooks), 
+[www.senate.gov/usage/internetpolicy.htm](http://www.senate.gov/usage/internetpolicy.htm).
 

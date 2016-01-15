@@ -4,5 +4,5 @@ In Oregon, the Citizens’ Initiative Review was established in 2009 to improve 
 
 A 2012 evaluation found the citizen statements to be “highly deliberative”, “high level of factual accuracy”, and insightful from the perspective of two-thirds of citizens who read them.
 
-Source: [http://www.healthydemocracyoregon.org/citizens-initiative-review], [http://www.la1.psu.edu/cas/jgastil/CIR/ReportToCIRCommission2012.pdf].
+Source: [www.healthydemocracyoregon.org/citizens-initiative-review](http://www.healthydemocracyoregon.org/citizens-initiative-review), [www.la1.psu.edu/cas/jgastil/CIR/ReportToCIRCommission2012.pdf](http://www.la1.psu.edu/cas/jgastil/CIR/ReportToCIRCommission2012.pdf).
 

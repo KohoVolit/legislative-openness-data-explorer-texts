@@ -2,4 +2,4 @@
 
 Legislation.gov.uk carries most types of legislation and their accompanying explanatory documents.
 
-Source: [http://www.legislation.gov.uk].
+Source: [www.legislation.gov.uk](http://www.legislation.gov.uk)
