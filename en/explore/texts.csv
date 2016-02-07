@@ -16,3 +16,5 @@ suggest_edits_form_hide,Hide form
 best_practices,Good practice examples
 read_more,Read more on best practices...
 generate_map,Generate Map
+select_all,Select All
+deselect_all,Deselect All
