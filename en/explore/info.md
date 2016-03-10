@@ -1,2 +1,1 @@
-To create a **custom data table**, select **chambers of parliament** and **categories**, or **generate a map** of a single question.
-For more detailed information on each data point, **click the colored icon**. 
+Select chambers of parliament and/or categories to create a custom data table. For more, either click the colored icon to access detailed information or generate a map of the data.  
