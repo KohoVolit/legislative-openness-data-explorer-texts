@@ -1,7 +1,7 @@
 # About the Legislative Openness Data Explorer
 <br>
 <br>
-### Background and General
+### Background and General.
 <br>
 ##### Why global, comparative data on parliamentary openness? 
 
