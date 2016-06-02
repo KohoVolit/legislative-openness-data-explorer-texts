@@ -1,0 +1,15 @@
+code,text,link
+title,Contribute,
+add_data,Add Data
+add_data_text,"Is data on your chamber of parliament missing? Complete the survey to add data.",
+add_data_button,Complete the Survey,http://www.surveygizmo.com/s3/1766975/Global-Legislative-Openness-Survey-Part-1
+suggest_edits,Refine the Data,
+suggest_edits_text,"Is some of the data inaccurate? Suggest edits, additions, or changes to the data.",
+suggest_edits_button,Suggest Edits to the Data,
+suggest_edits_google_form,-,https://docs.google.com/forms/d/1_RpRTjV3RffgmZOOXZZPgY2e312QP2KpAE0i5asN2j4/viewform?embedded=true
+suggest_edits_form_hide,Hide form
+add_best_practices,Add Good Practice Examples,
+add_best_practices_text,"What are parliaments in your country or region doing to expand legislative openness? Add good practices to a growing, global collection of examples.",
+add_best_practices_button,Contribute Good Practices,
+add_best_practices_google_form,-,https://docs.google.com/forms/d/1zxUs8OgNoFLtzKZmCVGmoNmktICQck5IiwnDdXzOT9s/viewform?embedded=true
+add_best_practices_form_hide,Hide form
