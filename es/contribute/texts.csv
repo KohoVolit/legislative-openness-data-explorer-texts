@@ -1,30 +1,15 @@
-code,text,link
 código, texto, enlance
-title,Contribute,
-título, Contribución
-add_data,Add Data
-agregar_data,Agregar Data
-add_data_text,"Is data on your chamber of parliament missing? Complete the survey to add data.",
-agregar_datos_texto,"Faltan datos de tu cámara del parlamento? Rellena la encuesta para agregar los data.",
-add_data_button,Complete the Survey,http://www.surveygizmo.com/s3/1766975/Global-Legislative-Openness-Survey-Part-1
-agregar_datos_botón,Completa la Encuesta,http://www.surveygizmo.com/s3/1766975/Global-Legislative-Openness-Survey-Part-1
-suggest_edits,Refine the Data,
-sugiere_cambio,Refina_los_Data,
-suggest_edits_text,"Is some of the data inaccurate? Suggest edits, additions, or changes to the data.",
-sugiere_cambio_texto,"Son algunos de los data incorrectos? Sugiere editaciones, adiciones o cambios a los data.", 
-suggest_edits_button,Suggest Edits to the Data,
-sugiere_cambio_botón,Sugiere editaciones a los data,
+title, Contribución
+add_data,Agregar Dato
+add_data_text,"¿Faltan datos de la cámara del parlamento de tu país? Rellena la encuesta para agregar los datos.",
+add_data_button,Completa la Encuesta,http://www.surveygizmo.com/s3/1766975/Global-Legislative-Openness-Survey-Part-1
+suggest_edits,Refina_los_Datos,
+suggest_edits_text,"¿Son algunos de estos datos incorrectos? Sugerir ediciones, adiciones o cambios de los datos.", 
+suggest_edits_button,Sugerir ediciones de los datos,
 suggest_edits_google_form,-,https://docs.google.com/forms/d/1_RpRTjV3RffgmZOOXZZPgY2e312QP2KpAE0i5asN2j4/viewform?embedded=true
-sugiere_editaciones_google_formulario, -, https://docs.google.com/forms/d/1_RpRTjV3RffgmZOOXZZPgY2e312QP2KpAE0i5asN2j4/viewform?embedded=true
-suggest_edits_form_hide,Hide form
-sugiere_editaciones_formulario_esconder,Esconde formulario
-add_best_practices,Add Good Practice Examples,
-agregar_mejores_prácticas,Agrega ejemplos de buenas prácticas,
-add_best_practices_text,"What are parliaments in your country or region doing to expand legislative openness? Add good practices to a growing, global collection of examples.",
-agregar_mejores_prácticas,"¿Qué hacen los parlamentos en tu país para expandir la franqueza del proceso legislativo? Agrega buenas prácticas a una colección de los ejemplos a nivel global.",
-add_best_practices_button,Contribute Good Practices,
-agregar_mejores_prácticas_botón,Contribuye a las buenas prácticas,
+ssuggest_edits_form_hide,Esconder formulario
+add_best_practices,Agregar ejemplos de buenas prácticas,
+add_best_practices_text,"¿Qué hacen los parlamentos en su país o región para expandir la transparencia del proceso legislativo? Agrega buenas prácticas a una colección de los ejemplos a nivel global.",
+add_best_practices_button,Contribuye a las buenas prácticas,
 add_best_practices_google_form,-,https://docs.google.com/forms/d/1zxUs8OgNoFLtzKZmCVGmoNmktICQck5IiwnDdXzOT9s/viewform?embedded=true
-agregar_mejores_practicas_google_form,-,https://docs.google.com/forms/d/1zxUs8OgNoFLtzKZmCVGmoNmktICQck5IiwnDdXzOT9s/viewform?embedded=true
-add_best_practices_form_hide,Hide form
-agrega_mejores_prácticas_formulario_esconder, Esconde formulario
+add_best_practices_form_hide,Esconder formulario
