@@ -1,4 +1,4 @@
-code,texto
+code,text
 : http://main.knesset.gov.il/News/Broadcast/Pages/CommitteeBroadcastArchive.aspx,: http://main.knesset.gov.il/News/Broadcast/Pages/CommitteeBroadcastArchive.aspx
 : http://main.knesset.gov.il/News/Broadcast/Pages/default.aspx,: http://main.knesset.gov.il/News/Broadcast/Pages/default.aspx
 : http://www.knesset.gov.il/vote/heb/vote_search.asp,: http://www.knesset.gov.il/vote/heb/vote_search.asp
@@ -137,7 +137,7 @@ Does the parliament require payment for access to certain information?,¿Se nece
 Does the parliament's website have a publicly posted privacy policy?,¿Tienen las páginas del parlamento información pública sobre la política de privacidad?
 "Does the parliamentary website have a publicly available privacy policy that allows website users to know what personal information is being collected and how that information is being used? If yes, please provide a link.","¿Tienen las páginas del parlamento información p´blica sobre la política de privacidad que permite a los usuarios de web saber si se está colectando su información personal y cómo se utiliza esta información? Si la respuesta es sí, provee el enlance."
 Draft bills,Proyectos de ley
-Draft Code of Ethics envisages that the results of internal parliamentary investigations are public.,Draft Code of Ethics envisages that the results of internal parliamentary investigations are public.
+Draft Code of Ethics envisages that the results of internal parliamentary investigations are public.,Proyecto de la Ley de Ética propone que los resultados de las investigaciónes internas del parlamento se hagan públicos.
 e.g: http://192.185.34.202/~skupcg/skupstina/cms/site_data/DOC25/ZAKONI%20I%20IZVJESTAJI/477/477_0.pdf,e.g: http://192.185.34.202/~skupcg/skupstina/cms/site_data/DOC25/ZAKONI%20I%20IZVJESTAJI/477/477_0.pdf
 e.g: http://192.185.34.202/~skupcg/skupstina/cms/site_data/LISTING%20GLASANJA/2014/Druga%20sjednica%20prvog%20redovnog12_03_2014_/FISKALNOJ.pdf,e.g: http://192.185.34.202/~skupcg/skupstina/cms/site_data/LISTING%20GLASANJA/2014/Druga%20sjednica%20prvog%20redovnog12_03_2014_/FISKALNOJ.pdf
 e.g: http://www.skupstina.me/~skupcg/skupstina//cms/site_data/PRVA%20SJEDNICA-Prestanak%20vazenja%20Odluke.pdf,e.g: http://www.skupstina.me/~skupcg/skupstina//cms/site_data/PRVA%20SJEDNICA-Prestanak%20vazenja%20Odluke.pdf
@@ -150,40 +150,40 @@ e.g. http://www.eduskunta.fi/triphome/bin/hex5000.sh?hnro=605&kieli=su,e.g. http
 E.g. http://www.eduskunta.fi/triphome/bin/hkx3000.sh?haku=selaus&YKSIKKO=kk&org=2,E.g. http://www.eduskunta.fi/triphome/bin/hkx3000.sh?haku=selaus&YKSIKKO=kk&org=2
 e.g. https://www.bundestag.de/bundestag/ausschuesse18/a11/beschlussempfehlung_und_bericht/beschlussempfehlung_und_bericht/214622,e.g. https://www.bundestag.de/bundestag/ausschuesse18/a11/beschlussempfehlung_und_bericht/beschlussempfehlung_und_bericht/214622
 El Salvador,El Salvador
-Election results,Election results
-Email,Email
-END,END
-erratic,erratic
+Election results,Resultados de las elecciones
+Email,Correo electrónico
+END,FIN
+erratic,errático
 Estonia,Estonia
-ethc committees resolutions are availabe on the knesset website,ethc committees resolutions are availabe on the knesset website
-Ethics,Ethics
-Eurointegration council rules on proceeding are available. Working bodies are not (for those that have ones).,Eurointegration council rules on proceeding are available. Working bodies are not (for those that have ones).
-Example of how votes are shown: http://www.eduskunta.fi/triphome/bin/thw.cgi/trip/?${APPL}=aanestysu&${BASE}=aanestysu&${THWIDS}=0.28/1409995048_361694&${oohtml}=aax/hex5000&${html}=aax/aax5000&${snhtml}=aax/aaxnosyn&${savehtml}=/thwfakta/aanestys/aax/aax.htm,Example of how votes are shown: http://www.eduskunta.fi/triphome/bin/thw.cgi/trip/?${APPL}=aanestysu&${BASE}=aanestysu&${THWIDS}=0.28/1409995048_361694&${oohtml}=aax/hex5000&${html}=aax/aax5000&${snhtml}=aax/aaxnosyn&${savehtml}=/thwfakta/aanestys/aax/aax.htm
-Excel or CSV,Excel or CSV
-Financial Reports - presented each four months http://www.congreso.gob.gt/informacion-presupuestaria.php,Financial Reports - presented each four months http://www.congreso.gob.gt/informacion-presupuestaria.php
-"First or second reading phase can be easy identified, or at plenary session agenda.","First or second reading phase can be easy identified, or at plenary session agenda."
-for example http://www.knesset.gov.il/mk/heb/mk.asp?ID=1,for example http://www.knesset.gov.il/mk/heb/mk.asp?ID=1
-General Secretary Office,General Secretary Office
-Germany,Germany
+ethic committees resolutions are availabe on the knesset website,las resoluciónes de los comités están disponibles en las páginas de Knesset
+Ethics,Ética
+Eurointegration council rules on proceeding are available. Working bodies are not (for those that have ones).,Las reglas del Consejo de Eurointegración sobre el procedimiento están disponibles. Los órganos de trabajo no (para los que tienen). 
+Example of how votes are shown: http://www.eduskunta.fi/triphome/bin/thw.cgi/trip/?${APPL}=aanestysu&${BASE}=aanestysu&${THWIDS}=0.28/1409995048_361694&${oohtml}=aax/hex5000&${html}=aax/aax5000&${snhtml}=aax/aaxnosyn&${savehtml}=/thwfakta/aanestys/aax/aax.htm,Un ejemplo como se demuestran los votos: http://www.eduskunta.fi/triphome/bin/thw.cgi/trip/?${APPL}=aanestysu&${BASE}=aanestysu&${THWIDS}=0.28/1409995048_361694&${oohtml}=aax/hex5000&${html}=aax/aax5000&${snhtml}=aax/aaxnosyn&${savehtml}=/thwfakta/aanestys/aax/aax.htm
+Excel or CSV,Excel o CSV
+Financial Reports - presented each four months http://www.congreso.gob.gt/informacion-presupuestaria.php,Informes fiscales - presentados cada cuatro meses http://www.congreso.gob.gt/informacion-presupuestaria.php
+"First or second reading phase can be easy identified, or at plenary session agenda.","Primera o segunda fase de lectura se puede identificar facilmente, o la agenda de la sesión del plenario."
+for example http://www.knesset.gov.il/mk/heb/mk.asp?ID=1,por ejemplo http://www.knesset.gov.il/mk/heb/mk.asp?ID=1
+General Secretary Office,Oficina del secretario general
+Germany,Alemania
 Ghana,Ghana
-Greece,Greece
+Greece,Grecia
 Guatemala,Guatemala
-How can sessions be observed?,How can sessions be observed?
-How can the information be accessed?,How can the information be accessed?
-How can the public observe committee meetings?,How can the public observe committee meetings?
-How far in advance is the committee schedule available?,How far in advance is the committee schedule available?
-How frequently does the parliament update its website?,How frequently does the parliament update its website?
-How in advance is the committee meeting agenda available?,How in advance is the committee meeting agenda available?
-How much historical information is available?,How much historical information is available?
-How soon after a meeting are transcripts available?,How soon after a meeting are transcripts available?
-How soon after a resolution has passed is its text available?,How soon after a resolution has passed is its text available?
-How soon after a session are transcripts published?,How soon after a session are transcripts published?
-How soon after a session are voting records published?,How soon after a session are voting records published?
-How soon after a vote are records available?,How soon after a vote are records available?
-How soon after an action is bill status information published?,How soon after an action is bill status information published?
-How soon after being presented are parliamentary reports published?,How soon after being presented are parliamentary reports published?
-How soon after being submitted or presented is evidence available?,How soon after being submitted or presented is evidence available?
-How soon after being tabled is draft legislation published?,How soon after being tabled is draft legislation published?
+How can sessions be observed?,¿Cómo se pueden observar las sesiónes?
+How can the information be accessed?,Cómo se puede aceder la información?
+How can the public observe committee meetings?,¿Cómo el público puede observar las sesiones de los comités?
+How far in advance is the committee schedule available?,¿Hasta cuando por adelantado está disponible el horario de los comités?
+How frequently does the parliament update its website?,¿Con que frequencia el parlamento actualiza sus páginas de web?
+How in advance is the committee meeting agenda available?,¿Hasta cuando por adelantado está disponible la agenda de los comités?
+How much historical information is available?,¿La cantidad de información histórica disponible?
+How soon after a meeting are transcripts available?,¿Qué tan pronto después de la reunión del comité están disponibles las transcripciones?
+How soon after a resolution has passed is its text available?,¿Qué tan pronto después de que la resolución es aprobada se publica su contenido?
+How soon after a session are transcripts published?,¿Qué tan pronto después de la sesión se publican las transcripciones?
+How soon after a session are voting records published?,¿Qué tan pronto después de la sesión se publican las votaciones?
+How soon after a vote are records available?,¿Qué tan pronto después de voto está disponible su historial?
+How soon after an action is bill status information published?,¿Qué tan pronto después de una acción se puede encontrar la información publicada?
+How soon after being presented are parliamentary reports published?,¿Qué tan pronto después de la presentación se publican los informes de parlamento?
+How soon after being submitted or presented is evidence available?,¿Qué tan pronto después de ser aprobada o presentada está disponible la evidencia?
+How soon after being tabled is draft legislation published?,¿Qué tan pronto después de ser presentado se publica el proyecto de ley?
 HTML,HTML
 http://192.185.34.202/~skupcg/skupstina/cms/site_data/LISTING%20GLASANJA/2014/Deseta%20%C5%9Bednica16_07_2014_/PREDLOG%20ZAKONA%20O%20PREVOZU%20OPASNIH%20MATERIJA_SVE.pdf,http://192.185.34.202/~skupcg/skupstina/cms/site_data/LISTING%20GLASANJA/2014/Deseta%20%C5%9Bednica16_07_2014_/PREDLOG%20ZAKONA%20O%20PREVOZU%20OPASNIH%20MATERIJA_SVE.pdf
 http://congreso.gob.gt/ley-de-acceso-a-la-informacion-publica.php,http://congreso.gob.gt/ley-de-acceso-a-la-informacion-publica.php
@@ -212,7 +212,7 @@ http://korea.assembly.go.kr/privacy/privacyPolicy.jsp,http://korea.assembly.go.k
 http://likms.assembly.go.kr/bill/jsp/BillDetail.jsp?bill_id=PRC_A1Z4Z0T2V2N7T0R0Y1O5Z4A3U6R4O2,http://likms.assembly.go.kr/bill/jsp/BillDetail.jsp?bill_id=PRC_A1Z4Z0T2V2N7T0R0Y1O5Z4A3U6R4O2
 http://likms.assembly.go.kr/bill/jsp/LatestPassedBill.jsp,http://likms.assembly.go.kr/bill/jsp/LatestPassedBill.jsp
 http://main.knesset.gov.il/About/Departments/Pages/default.aspx,http://main.knesset.gov.il/About/Departments/Pages/default.aspx
-http://main.knesset.gov.il/Activity/Committees/Economics/Pages/CommiitteeReports.aspx for example. the reports are on each committee website.,http://main.knesset.gov.il/Activity/Committees/Economics/Pages/CommiitteeReports.aspx for example. the reports are on each committee website.
+http://main.knesset.gov.il/Activity/Committees/Economics/Pages/CommiitteeReports.aspx for example. the reports are on each committee website.,http://main.knesset.gov.il/Activity/Committees/Economics/Pages/CommiitteeReports.aspx por ejemplo. Los informes están en las páginas de web de cada comité.
 http://main.knesset.gov.il/Activity/Committees/Economics/Pages/Conclusions.aspx  http://main.knesset.gov.il/Activity/committees/Education/Pages/Decisions.aspx,http://main.knesset.gov.il/Activity/Committees/Economics/Pages/Conclusions.aspx  http://main.knesset.gov.il/Activity/committees/Education/Pages/Decisions.aspx
 http://main.knesset.gov.il/Activity/committees/Pages/default.aspx,http://main.knesset.gov.il/Activity/committees/Pages/default.aspx
 http://main.knesset.gov.il/Activity/plenum/Pages/DivreyHaknessetMenu.aspx,http://main.knesset.gov.il/Activity/plenum/Pages/DivreyHaknessetMenu.aspx
@@ -463,7 +463,7 @@ http://www.parlament.hu/en/web/house-of-the-national-assembly,http://www.parlame
 http://www.parlament.hu/en/web/house-of-the-national-assembly/operation-of-the-national-assembly,http://www.parlament.hu/en/web/house-of-the-national-assembly/operation-of-the-national-assembly
 http://www.parlament.hu/folyamatban-levo-torvenyjavaslatok,http://www.parlament.hu/folyamatban-levo-torvenyjavaslatok
 http://www.parlament.hu/gazdalkodas1,http://www.parlament.hu/gazdalkodas1
-http://www.parlament.hu/gazdalkodas1; http://www.parlament.hu/aktual/2011_xcii (limited information),http://www.parlament.hu/gazdalkodas1; http://www.parlament.hu/aktual/2011_xcii (limited information)
+http://www.parlament.hu/gazdalkodas1; http://www.parlament.hu/aktual/2011_xcii (limited information),http://www.parlament.hu/gazdalkodas1; http://www.parlament.hu/aktual/2011_xcii (información limitada)
 http://www.parlament.hu/hu/bevezetes-jogi-szabalyzas1,http://www.parlament.hu/hu/bevezetes-jogi-szabalyzas1
 http://www.parlament.hu/hu/felhasznalasi-feltetelek,http://www.parlament.hu/hu/felhasznalasi-feltetelek
 http://www.parlament.hu/hu/iromanyok-lekerdezese?p_auth=OU2m9RJf&p_p_id=pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1 (,http://www.parlament.hu/hu/iromanyok-lekerdezese?p_auth=OU2m9RJf&p_p_id=pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1 (
@@ -473,7 +473,7 @@ http://www.parlament.hu/nyilvanos-szerzodesek-2004.-januar-1-tol,http://www.parl
 http://www.parlament.hu/pair?p_p_id=pairproxy_WAR_pairproxyportlet_INSTANCE_eTeFu2PWQEhY&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_pairproxy_WAR_pairproxyportlet_INSTANCE_eTeFu2PWQEhY_pairAction=ogy_fotit.fotit_hivatal_foig%3Fp_nyelv%3Dhu%26p_fejlec%3Di,http://www.parlament.hu/pair?p_p_id=pairproxy_WAR_pairproxyportlet_INSTANCE_eTeFu2PWQEhY&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_pairproxy_WAR_pairproxyportlet_INSTANCE_eTeFu2PWQEhY_pairAction=ogy_fotit.fotit_hivatal_foig%3Fp_nyelv%3Dhu%26p_fejlec%3Di
 http://www.parlament.hu/szavazasok,http://www.parlament.hu/szavazasok
 http://www.parlament.hu/web/torvenyalkotasi-bizottsag/a-bizottsag-altal-benyujtott-iromanyok,http://www.parlament.hu/web/torvenyalkotasi-bizottsag/a-bizottsag-altal-benyujtott-iromanyok
-"http://www.parlament.hu/web/torvenyalkotasi-bizottsag/a-bizottsag-ulesei (but ieach committee has it's own compilation and publication of transcripts, therefore complex search is ponderous","http://www.parlament.hu/web/torvenyalkotasi-bizottsag/a-bizottsag-ulesei (but ieach committee has it's own compilation and publication of transcripts, therefore complex search is ponderous"
+"http://www.parlament.hu/web/torvenyalkotasi-bizottsag/a-bizottsag-ulesei (but each committee has it's own compilation and publication of transcripts, therefore complex search is ponderous","http://www.parlament.hu/web/torvenyalkotasi-bizottsag/a-bizottsag-ulesei (pero cada comité tiene su propia compilación de las transcripciónes, entonces una búsqueda más compleja es extremadamente difícil)"
 http://www.parlament.rs/citizens-corner/ask/ask-the-mps.691.html?memberId=829,http://www.parlament.rs/citizens-corner/ask/ask-the-mps.691.html?memberId=829
 http://www.parlament.rs/DRAGAN_ALEKSIC.829.488.html,http://www.parlament.rs/DRAGAN_ALEKSIC.829.488.html
 http://www.parlament.rs/national-assembly.467.html,http://www.parlament.rs/national-assembly.467.html
@@ -564,8 +564,8 @@ http://www.sabor.hr/Default.aspx?sec=4661,http://www.sabor.hr/Default.aspx?sec=4
 http://www.sabor.hr/Default.aspx?sec=4661;,http://www.sabor.hr/Default.aspx?sec=4661;
 http://www.sabor.hr/Default.aspx?sec=4714,http://www.sabor.hr/Default.aspx?sec=4714
 http://www.sabor.hr/Default.aspx?sec=482,http://www.sabor.hr/Default.aspx?sec=482
-"http://www.sabor.hr/Default.aspx?sec=5469; information on MPs attendance in the parliament is only available, but  if they attended the committe meetings as well ","http://www.sabor.hr/Default.aspx?sec=5469; information on MPs attendance in the parliament is only available, but  if they attended the committe meetings as well "
-"http://www.sabor.hr/Default.aspx?sec=5469; information on MPs attendance in the parliament is only available, but  if they attended the plenary session as well ","http://www.sabor.hr/Default.aspx?sec=5469; information on MPs attendance in the parliament is only available, but  if they attended the plenary session as well "
+"http://www.sabor.hr/Default.aspx?sec=5469; information on MPs attendance in the parliament is only available, but  if they attended the committe meetings as well ","http://www.sabor.hr/Default.aspx?sec=5469; la información sobre la asistencia de los miembros del parlamento en las sesiónes está solamente disponible, pero si ellos asistieron a los comités también "
+"http://www.sabor.hr/Default.aspx?sec=5469; information on MPs attendance in the parliament is only available, but  if they attended the plenary session as well ","http://www.sabor.hr/Default.aspx?sec=5469; la información sobre la asistencia de los miembros del parlamento en las sesiónes está solamente disponible, pero si ellos asistieron a los comités también "
 http://www.sabor.hr/Default.aspx?sec=734,http://www.sabor.hr/Default.aspx?sec=734
 http://www.sabor.hr/English,http://www.sabor.hr/English
 http://www.sabor.hr/nabava,http://www.sabor.hr/nabava
@@ -707,14 +707,14 @@ https://www.parlament.ba/default.aspx?langTag=bs-BA&pril=b,https://www.parlament
 https://www.parlament.ba/default.aspx?langTag=en-US&pril=b,https://www.parlament.ba/default.aspx?langTag=en-US&pril=b
 https://www.parlament.ba/sadrzaj/about/ustav/docs/default.aspx?id=45150&langTag=bs-BA&pril=b,https://www.parlament.ba/sadrzaj/about/ustav/docs/default.aspx?id=45150&langTag=bs-BA&pril=b
 https://zoek.officielebekendmakingen.nl/zoeken/parlementaire_documenten,https://zoek.officielebekendmakingen.nl/zoeken/parlementaire_documenten
-Hungary,Hungary
-I asked this separately also.,I asked this separately also.
-I don't know,I don't know
-"I don't know if the complete version is online, but there are reports available here: http://www.congreso.es/portal/page/portal/Congreso/Congreso/Iniciativas/Busqueda%20Avanzada","I don't know if the complete version is online, but there are reports available here: http://www.congreso.es/portal/page/portal/Congreso/Congreso/Iniciativas/Busqueda%20Avanzada"
-i dont know,i dont know
-I dont know,I dont know
-I think they publish nothing. I sent them an email asking abut this just now.,I think they publish nothing. I sent them an email asking abut this just now.
-"I'm not sure. but, it's certainly available to the public.","I'm not sure. but, it's certainly available to the public."
+Hungary,Hungría
+I asked this separately also.,Yo lo pregunté separadamente también.
+I don't know,No sé
+"I don't know if the complete version is online, but there are reports available here: http://www.congreso.es/portal/page/portal/Congreso/Congreso/Iniciativas/Busqueda%20Avanzada","No sé si la versión complete está online, pero aquí tenemos los informes disponibles: http://www.congreso.es/portal/page/portal/Congreso/Congreso/Iniciativas/Busqueda%20Avanzada"
+i dont know,No sé
+I dont know,No sé
+I think they publish nothing. I sent them an email asking abut this just now.,Creo que no publican nada. Les mandé un email preguntado sobre esto justo ahora.
+"I'm not sure. but, it's certainly available to the public.","No estoy seguro"
 "If committees have their own internal rules, is information on committee rules available to the public?","If committees have their own internal rules, is information on committee rules available to the public?"
 "If draft legislation is made publicly available, is the status of the bill in the legislative process easily accessible?","If draft legislation is made publicly available, is the status of the bill in the legislative process easily accessible?"
 if live streamed then also available on demand,if live streamed then also available on demand
