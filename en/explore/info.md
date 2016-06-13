@@ -1,1 +1,2 @@
 Select chambers of parliament and/or categories to create a custom data table. For more, click one of the colored icons to access detailed information or generate a map of the data.  
+Seleccione cámaras del parlamento y / o categorías para crear una tabla de datos personalizado. Para más información, haga clic en uno de los iconos de colores para acceder a información detallada o generar un mapa de los datos.
