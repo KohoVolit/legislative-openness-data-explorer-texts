@@ -15,4 +15,4 @@ Source: [blog.openingparliament.org/post/60749859717/case-study-5-brazils-e-demo
 
 # La plataforma  E-Democracia de Brasil permite a los ciudadanos hacer comentarios sobre los proyectos de ley
 
-
+En Brasil, la Cámara de Diputados la plataforma e-Democracia utiliza las nuevas herramientas de los medios sociales y la tecnología para acoplarse a una serie de actores en el proceso legislativo. Por ejemplo, permite a los ciudadanos hacer comentarios sobre proyectos de ley y ver si sus comentarios se incorporan en la ley.
