@@ -14,3 +14,5 @@ The e-Democracia platform was launched in June 2009 and, as of August 2013, the 
 Source: [blog.openingparliament.org/post/60749859717/case-study-5-brazils-e-democracia-project](http://blog.openingparliament.org/post/60749859717/case-study-5-brazils-e-democracia-project)
 
 # La plataforma  E-Democracia de Brasil permite a los ciudadanos hacer comentarios sobre los proyectos de ley
+
+
