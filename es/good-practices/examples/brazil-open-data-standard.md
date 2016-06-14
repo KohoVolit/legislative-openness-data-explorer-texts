@@ -4,7 +4,7 @@ The Brazilian Chamber of Deputies’ open data standard states that data shall b
 
 Source: [www2.camara.leg.br/transparencia/dados-abertos/leis-e-principios-dos-dados-governamentais-abertos](http://www2.camara.leg.br/transparencia/dados-abertos/leis-e-principios-dos-dados-governamentais-abertos).
 
-# La Cámara de Diputados de Brasil tiene un estándar de datos abierto
+# La Cámara de Diputados de Brasil tiene un estándar de datos abiertos
 
 La Cámara de diputados de Brasil” el estándar de los datos abiertos dice que deben  estar disponibles para todos, sin registro, y que "los datos no están sujetos a ninguna regulación de los derechos de autor, patentes, propiedad intelectual o secretos comerciales. Restricciones razonables relacionados con la privacidad, se les puede permitir privilegios de acceso y seguridad " La Cámara de Diputados de Brasil hace que la mayoría de las categorías de la información disponible se la encuentre en los últimos años en su página web de datos abiertos.
 
