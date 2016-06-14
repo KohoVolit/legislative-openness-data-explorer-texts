@@ -5,3 +5,6 @@ In Croatia, requests to hold a roundtable at Parliament are frequently approved 
 Each committee has 3-7 external permanent committee members from think tanks, interest groups or NGOs. The external permanent committee members are elected through a public announcement and have the right to participate in committee discussions, but cannot vote. They receive monthly remuneration (approximately €260) and are entitled to reimbursement of travel expenses.
 
 Source: [ibrary.fes.de/pdf-files/bueros/sofia/10069.pdf](http://library.fes.de/pdf-files/bueros/sofia/10069.pdf)
+
+# En Croacia existe una colaboración generalizada entre los parlamentarios y representantes de la sociedad civil
+
