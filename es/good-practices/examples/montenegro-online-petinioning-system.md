@@ -8,3 +8,5 @@ The platform was developed by the Government of Montenegro, in cooperation with 
 
 Source: [www.opengovpartnership.org/country/montenegro/case-study/inspiring-story-%E2%80%9Ccitizens-voice%E2%80%9D-pioneering-e-democracy](http://www.opengovpartnership.org/country/montenegro/case-study/inspiring-story-%E2%80%9Ccitizens-voice%E2%80%9D-pioneering-e-democracy).
 
+# Montenegro ha establecido un sistema de peticiones en línea: plataforma de correo de voz para las Peticiones de los Ciudadanos
+
