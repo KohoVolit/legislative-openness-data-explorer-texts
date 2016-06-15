@@ -4,7 +4,7 @@ The U.S. House of Representatives, through its Committee on House Administration
 
 Source: [cha.house.gov/member-services/electronic-posting-standards](http://cha.house.gov/member-services/electronic-posting-standards)
 
-# La Cámara de Representantes de Estados Unidos ha definido claramente sus normas para la publicación de información electrónica
+# La Cámara de Representantes de los Estados Unidos ha definido claramente sus normas para la publicación de información electrónica
 
 La Cámara de Representantes de los Estados Unidos, a través de su Comisión de Administración de la Cámara, publicó sus normas para la publicación de información electrónica en diciembre de 2011. Las normas están destinadas a facilitar el acceso a la legislación considerada por la Cámara y sus comités, lo que  estará sujeto a revisión y re-emisión periódica. El mayor detalle en relación con el uso de la Cámara de los estándares XML para publicar información también está disponible en formato electrónico.
 
