@@ -15,11 +15,11 @@ Yes! Reuse is strongly encouraged, and all the data is freely available for [dow
 <br>
 ##### How can this data be used? 
 
-All the data is freely available for [download](http://beta.openparldata.org/download/) and basic analyses and comparisons can be conducted on the [Explore](http://beta.openparldata.org/explore/) page. Users are encouraged to find creative uses of this data to advance legislative openness. 
+All the data is freely available for [download](http://beta.openparldata.org/download/) and basic analyses and comparisons can be conducted on the [Explore](http://beta.openparldata.org/explore/) page. Reuse is encouraged to enable users to find creative ways to use this data to advance legislative openness. 
 
 For those working in [OGP member countries](http://www.opengovpartnership.org/countries), the website can support the development of legislative openness commitments. For example, if a parliament is interested in developing a commitment to publish more information on committee proceedings, the website can provide a snapshot of global practice and highlight good practice examples. The scope of the data, however, is not limited to OGP member countries. 
 
-Civil society organizations may find this website to be a valuable advocacy tool. By comparing the performance of legislatures around the world, the website can incentivize reform and support civil society's calls for greater openness. The data and collection of good practices on the website can also help shape openness reform agendas.  
+Civil society organizations may find this website to be a valuable advocacy tool. By comparing the performance of legislatures around the world, the website can incentivize legislatures to reform and support civil society's calls for greater openness. The data and collection of good practices on the website can also help shape openness reform agendas.  
 <br>
 ##### How reliable is the Legislative Openness Data Explorer? 
 
@@ -36,17 +36,19 @@ It is also important to note that the survey was circulated in English only, due
 <br>
 ##### How was this data collected? 
 
-All of the collected data displayed on the website was gathered through survey based research. The information currently on the website was compiled by circulating a survey on the transparency and accessibility of parliamentary information. The survey was sent to parliaments and civil society organizations participating in the Working Group, in addition to networks such as [OpeningParliament.org](http://www.openingparliament.org/). The full survey can be seen [here](http://www.surveygizmo.com/s3/1660766/Global-Legislative-Openness-Survey), and is broken into smaller sections on the [Contribute](http://beta.openparldata.org/contribute/) page. Additional surveys will likely be circulated throughout 2016, likely covering legislative ethics regimes and mechanisms for citizen participation in the legislative process.
+All of the collected data displayed on the website was gathered through survey based research. The information currently on the website was compiled by circulating a survey on the transparency and accessibility of parliamentary information. Additional surveys will be circulated throughout 2016, likely covering legislative ethics regimes and mechanisms for citizen participation in the legislative process. The first survey can be seen [here](http://www.surveygizmo.com/s3/1766975/Global-Legislative-Openness-Survey-Part-1). Both civil society groups and parliaments completed the survey and provided data for the website.   
 
 The initial survey was based in part on the [Declaration on Parliamentary Openness](http://www.openingparliament.org/declaration), a series of principles on parliamentary transparency and citizen participation in the legislative process. In particular, the first survey considers the Declaration’s principles on public access to legislative information. Based on these principles, the first survey considers what information is published in addition to when, how, and in what formats that information is made available.
 
-All the data displayed on this website was crowdsourced from parliaments and civil society organizations participating in the Working Group or otherwise engaged in the legislative openness community. The website administrators are relying on the knowledge of these experts to complete the survey and provide the necessary information. As such, it is expected that not all of the information on this website is accurate. Users are encouraged to either complete the survey themselves or suggest changes to the information as it is displayed, if necessary.   
+All the data displayed on this website was collected through an open survey research process. The website administrators are relying on the knowledge of external experts to complete the survey and provide the necessary information. As such, it is expected that not all of the information on this website is accurate. Users are encouraged to either complete the survey themselves or suggest changes to the information as it is displayed.   
 
 In instances when multiple actors completed the survey for the same chamber of parliament, the website administrators have worked to resolve inconsistencies or disagreements in as fair a manner as possible. That being said, community involvement is essential to ensure the most accurate information. For more information on how you can get involved, see the [Contribute](http://beta.openparldata.org/contribute/) page.  
 <br>
 ##### What do the green, yellow, red, and gray icons represent? 
 
-On the [Explore](http://beta.openparldata.org/explore/) page, users can generate unique data tables and maps to easily analyze the information. In both instances, chambers of parliament are given either a green, yellow, red, or gray icon for each question. Typically, green indicates that the data is available, yellow that limited data is available, red that the data is not available, and gray for other. These colored icons are intended to provide a general overview of data availability, and should not necessarily be considered an indication of performance. To learn more about each data point, users may click on the colored icon. Doing so will produce a dialogue box with detailed information.  
+On the [Explore](http://beta.openparldata.org/explore/) page, users can generate unique data tables and maps to easily analyze the information. In both instances, you will see that chambers of parliament are given either a green, yellow, red, or gray icon for each question. Typically, green indicates that the data is available, yellow that limited data is available, red that the data is not available, and gray for other. These colored icons are intended to provide a general overview of data availability, and should not be considered to be a score or indication of performance. 
+
+To learn more about each data point, users may click on the colored icon. Doing so will produce a dialogue box with detailed information, including: the survey questions and answer, contextual information about that specific data point, links to the specific information, and other information to contextualize parliamentary performance on this specific issue.  
 <br>
 <br>
 ### Website Administration
