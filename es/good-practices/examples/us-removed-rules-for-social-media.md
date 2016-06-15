@@ -9,3 +9,6 @@ While there is no overall social media policy, the House and Senate rules now ma
 Source: [sunlightfoundation.com/blog/2008/10/03/web-use-reform-happy-ending/](http://sunlightfoundation.com/blog/2008/10/03/web-use-reform-happy-ending/), [cha.house.gov/member-services/handbooks](http://cha.house.gov/member-services/handbooks), 
 [www.senate.gov/usage/internetpolicy.htm](http://www.senate.gov/usage/internetpolicy.htm).
 
+# En los EE.UU., la Cámara y el Senado eliminaron las normas restrictivas que rigen el uso de las redes sociales a los miembros de gobierno
+
+Antes de la era digital, el Congreso estableció 'reglas' de honestidad en la comunicación a los electores. Estos rigen cómo los miembros podrían utilizar fondos públicos para realizar envíos masivos a los electores, mientras que la protección contra los titulares de usar este privilegio de avanzar campañas políticas.
