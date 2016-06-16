@@ -1,1 +1,1 @@
-*Select chambers of parliament and/or categories to create a custom data table*. In general, green icons indicate high performance, yellow middle, and red low performance. Gray icons indicate either a lack of data or other. Click the colored icons to access detailed information. 
+Select chambers of parliament and/or categories to create a custom data table. In general, green icons indicate high performance, yellow middle, and red low performance. Gray icons indicate either a lack of data or other. Click the colored icons to access detailed information. 
