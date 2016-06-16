@@ -82,10 +82,25 @@ A pesar del creciente interés mundial en el tema de la apertura legislativa ,se
 ¡Claro que sí! Se recomienda encarecidamente la reutilización, y todos estos datos están disponibles gratuitamente para download. 
 Este sitio web y toda la información está bajo la licencia de  Creative Commons Attribution 4.0 International License.
 <br>
-### ¿Cómo se puede utilizar estos datos?
+##### ¿Cómo se puede utilizar estos datos?
 
-Todoslos datos están disponibles gratuitamente para su download  y  análisis y la comparación de base pueden ser llevados a cabo en la página de Explore.Se fomenta la reutilización para que los usuarios puedan encontrar formas creativas de utilizar estos datos para avanzar en la apertura legislativa.
+Todos los datos están disponibles gratuitamente para su download  y  análisis y la comparación de base pueden ser llevados a cabo en la página de Explore.Se fomenta la reutilización para que los usuarios puedan encontrar formas creativas de utilizar estos datos para avanzar en la apertura legislativa.
 
 Para aquellos que trabajan en OGP member countries, el sitio web puede apoyar el desarrollo de los compromisos de apertura legislativas. Por ejemplo, si un parlamento está interesado en desarrollar un compromiso de publicar más información sobre los procedimientos del comité, el sitio web puede proporcionar un panorama  de la práctica global y destacar algunos ejemplos de buenas prácticas. El alcance de los datos, sin embargo, no se limita a los países miembros de la OGP.
 
 Organizaciones de la sociedad civil pueden encontrar este sitio web para ser un instrumento de valiosa promoción. Al comparar el rendimiento de los legisladores de todo el mundo,el sitio web puede incentivar asambleas legislativas para reformar y apoyar a los llamados de la sociedad civil para una mayor apertura.
+<br>
+##### ¿Qué tan confiable es la Explorador Legislativo de datos sobre la transparencia? 
+
+Ya que esta información era crowdsourced (fundada por el público), ninguna garantía de exactitud se puede dar y los datos pueden contener errores o estar incompletos. 
+Al utilizar esta información de alguna manera, el usuario debe reconocer esta limitación. Se anima a los usuarios a contribuir con los datos para garantizar que la página web refleja la información más actualizada sobre las prácticas de apertura parlamentarias.
+<br>
+##### ¿Estará disponible la traducción?
+
+Los administradores del sitio web darán la bienvenida a la ayuda voluntaria para desarrollar las versiones traducidas del sitio web. Si usted está interesado, por favor, póngase en contacto con los administradores del sitio web en admin@openparldata.org.
+También es importante tener en cuenta que la encuesta se distribuyó en Inglés solamente, debido en parte a la limitada capacidad del Grupo de Trabajo. Dada la naturaleza altamente técnica de la encuesta, lo cual es posible que circula exclusivamente en Inglés creando un pequeño número de problemas en la calidad de datos. Para ayudar a resolver cualquier tipo de problemas,consulte la página de Contribute.
+<br>
+<br>
+### Metodología 
+<br>
+##### ¿Cómo se recogieron estos datos?
