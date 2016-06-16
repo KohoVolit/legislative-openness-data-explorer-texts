@@ -64,3 +64,28 @@ The website is managed by the [Open Government Partnership’s Legislative Openn
 ##### How can I contact the website administrators? 
 
 To contact the website administrators directly, please email admin@openparldata.org.
+
+# About the Legislative Openness Data Explorer
+<br>
+<br>
+### Antecedentes y  en General.
+<br>
+##### ¿Por qué son importantes los datos comparativos y globales  sobre la transparencia del parlamento?
+
+Alrededor del mundo, se acrecienta el número de los parlamentos que están adoptando los principios de la apertura de la transparencia parlamentaria: garantizar el acceso público a la información legislativa,proporcionar oportunidades para la participación significativa de los ciudadanos, y aprovechar las posibilidades que presentan las nuevas tecnologías. El Open Government Partnership (OGP) ha proporcionado una plataforma internacional a los parlamentos para intercambiar experiencia, compartir buenas prácticas y en algunos casos avanzar en la reforma. 
+OGP’s Legislative Openness Working Group compiló la información y administra este sitio web. El sitio web fue fundado por el  National Democratic Institute y KohoVolit.eu.
+
+A pesar del creciente interés mundial en el tema de la apertura legislativa ,se han realizado relativamente pocos estudios globales. El centro global para ICT en el parlamento World e-Parliament Report 2012 recolectó algunas informaciones, a pesar de que el informe abarca una gama mucho más amplia de cuestiones relacionadas con los parlamentos y la tecnología. Grupos de la sociedad también han llevado a cabo estudios regionales fuertes, como los realizados por el Latin American Legislative Transparency Network y NDI's Western Balkans Legislative Strengthening Initiative and the Slovak National Council. Estudios regionales son extremadamente valiosos, pero también hay un gran valor en la comparación del desempeño con los países de todo el mundo. Es importante capturar la información comparativa sobre la apertura legislativa a escala global debido a la innovación y las buenas prácticas que se pueden originar en cualquier lugar. Este sitio web es un esfuerzo para garantizar que las buenas prácticas globales están siendo efectivamente capturadas y compartidas
+<br>
+##### ¿Puedo reutilizar los datos en este sitio web?
+
+¡Claro que sí! Se recomienda encarecidamente la reutilización, y todos estos datos están disponibles gratuitamente para download. 
+Este sitio web y toda la información está bajo la licencia de  Creative Commons Attribution 4.0 International License.
+<br>
+### ¿Cómo se puede utilizar estos datos?
+
+Todoslos datos están disponibles gratuitamente para su download  y  análisis y la comparación de base pueden ser llevados a cabo en la página de Explore.Se fomenta la reutilización para que los usuarios puedan encontrar formas creativas de utilizar estos datos para avanzar en la apertura legislativa.
+
+Para aquellos que trabajan en OGP member countries, el sitio web puede apoyar el desarrollo de los compromisos de apertura legislativas. Por ejemplo, si un parlamento está interesado en desarrollar un compromiso de publicar más información sobre los procedimientos del comité, el sitio web puede proporcionar un panorama  de la práctica global y destacar algunos ejemplos de buenas prácticas. El alcance de los datos, sin embargo, no se limita a los países miembros de la OGP.
+
+Organizaciones de la sociedad civil pueden encontrar este sitio web para ser un instrumento de valiosa promoción. Al comparar el rendimiento de los legisladores de todo el mundo,el sitio web puede incentivar asambleas legislativas para reformar y apoyar a los llamados de la sociedad civil para una mayor apertura.
