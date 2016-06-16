@@ -104,3 +104,33 @@ También es importante tener en cuenta que la encuesta se distribuyó en Inglés
 ### Metodología 
 <br>
 ##### ¿Cómo se recogieron estos datos?
+
+Todos los datos recogidos se muestran en la página web obtenidos mediante la investigación basada en la encuesta. La información actual de la página fue compilada por la circulación de un estudio sobre la transparencia y accesibilidad de la información parlamentaria .Encuestas adicionales se distribuirán a lo largo de 2016, es probable que cubra los regímenes éticos y los mecanismos legislativos para la participación ciudadana en el proceso legislativo. La primera encuesta se puede ver here.
+La encuesta inicial se basó en parte en la Declaration on Parliamentary Openness, en una serie de principios en materia de transparencia parlamentaria y en la participación ciudadana en el proceso legislativo. En particular, la primer encuesta considera que los principios de la Declaración sobre el acceso público a la información legislativa. En base a estos principios, la primera encuesta considera qué información se publica, además del que,como, y en qué formatos están a disposición.
+
+Todos los datos que se muestran en este sitio web se recogieron a través de un proceso de investigación de encuesta de tipo abierta. Los administradores del sitio web se basan en el conocimiento de expertos externos para completar la encuesta y proporcionar la información necesaria. Tal como, se espera que no toda la información de esta página web sea precisa. Se alienta a los usuarios a completar también por ellos mismos la encuesta o sugerir cualquier cambio en la información que se muestra.
+
+
+En los casos en que múltiples actores completaron la encuesta para la misma cámara del parlamento, los administradores del sitio web han trabajado para resolver inconsistencias o discrepancias de la manera más justa posible. Dicho esto, la participación comunitaria es esencial para asegurar que la información sea lo más precisa posible.  Para obtener más información sobre cómo puede participar, consulte la página Contribute. 
+<br>
+##### ¿Qué representan los iconos de color verde, amarillo, rojo y gris?
+
+En la página Explore, los usuarios pueden generar tablas de datos únicos y mapas para analizar fácilmente la información. En ambos casos, usted verá que las cámaras del parlamento reciben ya sea un icono verde, amarillo, rojo o gris para cada pregunta. Por lo general, el verde indica que los datos están disponibles, el color amarillo que los datos disponibles son limitados, el color rojo que los datos no están disponible, y el gris para otros. Estos iconos de colores están destinados a  proporcionar una visión general de la disponibilidad de los datos, y no deben ser considerados como una partitura o una indicación de rendimiento.
+
+Para obtener más información sobre cada punto de datos, los usuarios pueden hacer clic en el icono de color. Si lo hace, va a producir un cuadro de diálogo con información detallada, incluyendo: las preguntas de la encuesta y respuesta, información contextual sobre ese punto específico de los datos, enlaces de la información específica,y otra información para contextualizar la actuación parlamentaria sobre esta cuestión concreta.
+<br>
+<br>
+### Administración del sitio Web
+<br>
+##### ¿Cómo puedo contribuir?
+
+Al ser un proyecto comunitario,el Explorador Legislativo de datos sobre la transparencia se basa en las contribuciones de las organizaciones de la sociedad civil, investigadores, representantes parlamentarios y otros. Cualquier persona con conocimientos especializados pertinentes puede contribuir mediante la adición de datos para una cámara del parlamento, sugiriendo modificaciones a los datos existentes, o contribuir con ejemplos de buenas prácticas. Consulte la página de Contribute para obtener más información.
+<br>
+##### ¿Quién administra este sitio web?
+
+El sitio web está gestionado por el  Open Government Partnership’s Legislative Openness Working Group, quien está co- presidido por el  Congress of Chile  y el National Democratic Institute.  KohoVolit.eu, una entidad de supervisión Checa y Eslovaca parlamentaria, proporciona apoyo técnico en el diseño y construcción de la página web. Además de estos grupos, numerosas organizaciones de la sociedad civil y los parlamentos aportaron datos.
+<br>
+##### ¿Cómo puedo contactar con los administradores del sitio web?
+
+Para contactar con los administradores del sitio web directamente, por favor escriba un correo electrónico  admin@openparldata.org..
+
