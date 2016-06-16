@@ -4,12 +4,12 @@ choose_chambers,Select Chambers
 choose_categories,Select Categories
 close,Close
 explore,Explore
-select_individual_questions,Select Individual Questions
+select_individual_questions,Select individual questions
 data,Data
 details,Details
-click_more_details,Click for more details
-rotate,Rotate Table
-reset_rotate,Reset to Smart Rotation
+click_more_details,Click for details
+rotate,Rotate table
+reset_rotate,Reset to smart rotation
 suggest_edits_google_form,-,https://docs.google.com/forms/d/1_RpRTjV3RffgmZOOXZZPgY2e312QP2KpAE0i5asN2j4/viewform?embedded=true
 suggest_edits_button,Suggest Edits to the Data,
 suggest_edits_form_hide,Hide Form
