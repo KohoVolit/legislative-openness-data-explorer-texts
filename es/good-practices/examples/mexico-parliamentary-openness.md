@@ -1,9 +1,3 @@
-# The Mexican Senate’s transparency committee has developed a workplan on parliamentary openness
-
-After conducting a review of the Senate’s transparency policies against the Declaration on Parliamentary Openness, the Mexican Senate’s Transparency Committee has developed a workplan on parliamentary openness. The review took place with assistance from the local parliamentary monitoring organisation and think tank Fundar.
-
-Source: [blog.openingparliament.org/post/45116039342/lessons-on-networking-and-advocacy-from-mexico](http://blog.openingparliament.org/post/45116039342/lessons-on-networking-and-advocacy-from-mexico)
-
 # El comité de transparencia del Senado mexicano ha desarrollado un plan de trabajo en la apertura del Parlamento
 
 Después de realizar una revisión de las políticas de transparencia del Senado en contra de la Declaración sobre la apertura del Parlamento, el Comité de Transparencia del Senado mexicano ha desarrollado un plan de trabajo de Apertura Parlamentaria. La revisión se llevó a cabo con la ayuda de la Organización Parlamentaria local y monitoreo think tank Fundar.
