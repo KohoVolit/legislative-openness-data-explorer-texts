@@ -1,34 +1,34 @@
 code,weight,categories
-brazils-e-democracia,1,participación ciudadana
-dominican-republic-uruguay-suriname-ecuador-bungeni,2,accesibilidad
-finland-e-petition-platform,1,participación ciudadana
-ghana-south-africa-uganda-legislative-process,2,participación ciudadana
-croatia-collaboration,3,participación ciudadana
-india-mandatory-declaration-of-assets,1,miembros de parlamento;ética
-slovenia-netherlands-uk-attending,2,plenario;comités
-us-legislators-meeting-young-people,3,participación ciudadana;miembros de parlamento
-us-removed-rules-for-social-media,4,miembros de parlamento;participación ciudadana
-latvia-proposing-legislation,5,participación ciudadana
-parliaments-transparency-openness,6,accesibilidad;administración
-montenegro-online-petinioning-system,7,participación ciudadana
-argentina-collaboration-pmos,8,accesibilidad;administración
-brazil-open-data-standard,9,accesibilidad
-uk-gov-uk-on-github,10,accesibilidad;administración;participación ciudadana
-european-parliament-mark-up-tool,11,accesibilidad;participación ciudadana
-european-parliament-live-chats,12,miembros de parlamento;participación ciudadana
-finland-external-groups,13,comités;participación ciudadana
-italy-akoma-ntoso,14,plenario;accesibilidad
-mexico-parliamentary-openness,15,comités
-new-zealand-easy-access,16,accesibilidad
-scotland-key-principles,17,ética;miembros de parlamento
-italy-open-data,18,accesibilidad
-sweden-reaching-citizens,19,participación ciudadana
-sweden-easy-of-use,20,accesibilidad
-us-standards-electronic-information,21,accesibilidad
-us-oregon-initiative-review,22,participación ciudadana
-uk-legislation-available,23,plenario;accesibilidad
-uk-agenda-ipad,24,accesibilidad;plenario
-uk-youth-education,25,accesibilidad
-us-crowdsourcing-platform,26,participación ciudadana
-us-challenge-akoma-ntoso,27,accesibilidad;participación ciudadana
-korea-information,28,plenario;accesibilidad
+brazils-e-democracia,1,citizen-participation
+dominican-republic-uruguay-suriname-ecuador-bungeni,2,accessibility
+finland-e-petition-platform,1,citizen-participation
+ghana-south-africa-uganda-legislative-process,2,citizen-participation
+croatia-collaboration,3,citizen-participation
+india-mandatory-declaration-of-assets,1,mps;ethics
+slovenia-netherlands-uk-attending,2,plenary;committees
+us-legislators-meeting-young-people,3,citizen-participation;mps
+us-removed-rules-for-social-media,4,mps;citizen-participation
+latvia-proposing-legislation,5,citizen-participation
+parliaments-transparency-openness,6,accessibility;administration
+montenegro-online-petinioning-system,7,citizen-participation
+argentina-collaboration-pmos,8,accessibility;administration
+brazil-open-data-standard,9,accessibility
+uk-gov-uk-on-github,10,accessibility;administration;citizen-participation
+european-parliament-mark-up-tool,11,accessibility;citizen-participation
+european-parliament-live-chats,12,mps;citizen-participation
+finland-external-groups,13,committees;citizen-participation
+italy-akoma-ntoso,14,plenary;accesibility
+mexico-parliamentary-openness,15,committees
+new-zealand-easy-access,16,accessibility
+scotland-key-principles,17,ethics;mps
+italy-open-data,18,accessibility
+sweden-reaching-citizens,19,citizen-participation
+sweden-easy-of-use,20,accessibility
+us-standards-electronic-information,21,accessibility
+us-oregon-initiative-review,22,citizen-participation
+uk-legislation-available,23,plenary;accesibility
+uk-agenda-ipad,24,accessibility;plenary
+uk-youth-education,25,accessibility
+us-crowdsourcing-platform,26,citizen-participation
+us-challenge-akoma-ntoso,27,accessibility;citizen-participation
+korea-information,28,plenary;accesibility

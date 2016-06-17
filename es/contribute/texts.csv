@@ -1,15 +1,15 @@
-code, text, link
-title, Contribución
-add_data,Agregar Dato
-add_data_text,"¿Faltan datos de la cámara del parlamento de tu país? Rellena la encuesta para agregar los datos.",
+code,text,link
+title,Contribuir,
+add_data,Añadir datos,
+add_data_text,¿Faltan datos de la cámara del parlamento de tu país? Rellena la encuesta para agregar los datos.,
 add_data_button,Completa la Encuesta,http://www.surveygizmo.com/s3/1766975/Global-Legislative-Openness-Survey-Part-1
-suggest_edits,Refina_los_Datos,
+suggest_edits,Refina los Datos,
 suggest_edits_text,"¿Son algunos de estos datos incorrectos? Sugerir ediciones, adiciones o cambios de los datos.", 
 suggest_edits_button,Sugerir ediciones de los datos,
-suggest_edits_google_form,-,https://docs.google.com/forms/d/1_RpRTjV3RffgmZOOXZZPgY2e312QP2KpAE0i5asN2j4/viewform?embedded=true
-ssuggest_edits_form_hide,Esconder formulario
+suggest_edits_google_form,-,https://docs.google.com/a/ndi.org/forms/d/1_LAsdCaGDgaq0Z2zwRlziRPrGuSS-KJ-JlObcnwg7VA/edit
+ssuggest_edits_form_hide,Esconder formulario,
 add_best_practices,Agregar ejemplos de buenas prácticas,
-add_best_practices_text,"¿Qué hacen los parlamentos en su país o región para expandir la transparencia del proceso legislativo? Agrega buenas prácticas a una colección de los ejemplos a nivel global.",
+add_best_practices_text,¿Qué hacen los parlamentos en su país o región para expandir la transparencia del proceso legislativo? Agrega buenas prácticas a una colección de los ejemplos a nivel global.,
 add_best_practices_button,Contribuye a las buenas prácticas,
-add_best_practices_google_form,-,https://docs.google.com/forms/d/1zxUs8OgNoFLtzKZmCVGmoNmktICQck5IiwnDdXzOT9s/viewform?embedded=true
-add_best_practices_form_hide,Esconder formulario
+add_best_practices_google_form,-,https://docs.google.com/forms/d/1tSvlgQ8Rvdu8G7y6f7Y8CKcKvmD-2GKmvhsqdhRn8J8/edit#
+add_best_practices_form_hide,Esconder formulario,
