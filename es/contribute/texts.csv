@@ -7,7 +7,7 @@ suggest_edits,Refina los Datos,
 suggest_edits_text,"¿Son algunos de estos datos incorrectos? Sugerir ediciones, adiciones o cambios de los datos.", 
 suggest_edits_button,Sugerir ediciones de los datos,
 suggest_edits_google_form,-,https://docs.google.com/a/ndi.org/forms/d/1_LAsdCaGDgaq0Z2zwRlziRPrGuSS-KJ-JlObcnwg7VA/edit
-ssuggest_edits_form_hide,Esconder formulario,
+suggest_edits_form_hide,Esconder formulario,
 add_best_practices,Agregar ejemplos de buenas prácticas,
 add_best_practices_text,¿Qué hacen los parlamentos en su país o región para expandir la transparencia del proceso legislativo? Agrega buenas prácticas a una colección de los ejemplos a nivel global.,
 add_best_practices_button,Contribuye a las buenas prácticas,
