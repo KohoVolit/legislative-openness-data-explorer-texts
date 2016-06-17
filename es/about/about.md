@@ -1,7 +1,7 @@
-# Sobre el Explorador de los datos legislativos abiertos
+# Información acerca del Explorador de los datos legislativos abiertos
 <br>
 <br>
-### Antecedentes y  en General.
+### Antecedentes y en General.
 <br>
 ##### ¿Por qué son importantes los datos comparativos y globales  sobre la transparencia del parlamento?
 

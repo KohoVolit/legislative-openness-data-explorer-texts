@@ -1,10 +1,10 @@
 code,text,link
-Explorador de los datos abiertos legislativos
-Haga click en el país para explorar los datos disponibles o para contribuir donde los datos aún no están disponibles.
-Haga click en el tema para ver una comparación a nivel mundial y las mejores prácticas en la área. 
-Explorar
-Filtrar los datos por cámara o por tema para crear tablas y mapas
-Descargar
-"Descarga todos los datos en CSV o XLS para crear tu própio análisis, visualisación o comparación."
-Contribuir
-Agrega a los datos por cámara que falta y sugiere cambios a los datos.
+title,Explorador de los datos abiertos legislativos,
+under_map,Haga click en el país para explorar los datos disponibles o para contribuir donde los datos aún no están disponibles.,
+under_categories,Haga click en el tema para ver una comparación a nivel mundial y las mejores prácticas en la área. ,
+explore,Explorar,
+explore_description,Filtrar los datos por cámara o por tema para crear tablas y mapas,
+download,Descargar,
+download_description,"Descarga todos los datos en CSV o XLS para crear tu própio análisis, visualisación o comparación.",
+contribute,Contribuir,
+contribute_description,Agrega a los datos por cámara que falta y sugiere cambios a los datos.,
