@@ -1,23 +1,23 @@
 code,text,link
-Explorar
-Seleccionar cámaras
-Seleccionar categorías
-Cerrar
-Explorar
-Seleccionar cuestiónes individuales
-Datos
-Detalles
-Haga click para más detalles
-Girar la tabla
-Reiniciar a la rotación inteligente
-suggest_edits_google_form,-,https://docs.google.com/forms/d/1_RpRTjV3RffgmZOOXZZPgY2e312QP2KpAE0i5asN2j4/viewform?embedded=true
-sugerir editación para los dato
-Esconder formulario
-Ejemplos de buenas prácticas
-Leer más...
-Generar mapa
-Seleccionar todo
-Desmarcar todo
-suggest_edits_google_form_modal,-,https://docs.google.com/forms/d/1_RpRTjV3RffgmZOOXZZPgY2e312QP2KpAE0i5asN2j4/viewform?
-suggest_edits_google_form_modal_entry_1,entry.1861306240
-suggest_edits_google_form_modal_entry_2,entry.1498204214
+title,Explorar,
+choose_chambers,Seleccionar cámaras,
+choose_categories,Seleccionar categorías,
+close,Cerrar,
+explore,Explorar,
+select_individual_questions,Seleccionar cuestiónes individuales,
+data,Datos,
+details,Detalles,
+click_more_details,Haga click para más detalles,
+rotate,Girar la tabla,
+reset_rotate,Reiniciar a la rotación inteligente,
+suggest_edits_google_form,-,https://docs.google.com/a/ndi.org/forms/d/1_LAsdCaGDgaq0Z2zwRlziRPrGuSS-KJ-JlObcnwg7VA/viewform?embedded=true
+suggest_edits_button,sugerir editación para los dato,
+suggest_edits_form_hide,Esconder formulario,
+best_practices,Ejemplos de buenas prácticas,
+read_more,Leer más...,
+generate_map,Generar mapa,
+select_all,Seleccionar todo,
+deselect_all,Desmarcar todo,
+suggest_edits_google_form_modal,-,https://docs.google.com/a/ndi.org/forms/d/1_LAsdCaGDgaq0Z2zwRlziRPrGuSS-KJ-JlObcnwg7VA/viewform
+suggest_edits_google_form_modal_entry_1,entry.1861306240,
+suggest_edits_google_form_modal_entry_2,entry.1498204214,
