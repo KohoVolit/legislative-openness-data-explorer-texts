@@ -2,7 +2,7 @@
 
 After a wide public consultation process, the Scottish Parliament published a set of Key Principles in 1999, ‘Shaping Scotland’s Parliament’ which set out how the Parliament should work. The Principles are:
 
-Accountable: the Scottish Parliament is answerable to the people of Scotland. The Scottish Parliament should hold the Scottish Government to account; Open and Encourage participation: the Scottish Parliament should be accessible and involve the people of Scotland in its decisions as much as possible; Power Sharing: power should be shared among the Scottish Government, the Scottish Parliament and the people of Scotland, and Equal Opportunities: the Scottish Parliament should treat all people fairly.
+Accountable: the Scottish Parliament is answerable to the people of Scotland. The Scottish Parliament should hold the Scottish Government to account; Open and Encourage Participation: the Scottish Parliament should be accessible and involve the people of Scotland in its decisions as much as possible; Power Sharing: power should be shared among the Scottish Government, the Scottish Parliament and the people of Scotland, and Equal Opportunities: the Scottish Parliament should treat all people fairly.
 
 Source: [www.scottish.parliament.uk/visitandlearn/Education/18651.aspx](http://www.scottish.parliament.uk/visitandlearn/Education/18651.aspx)
 
