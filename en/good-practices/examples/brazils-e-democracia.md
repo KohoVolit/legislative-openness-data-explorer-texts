@@ -7,7 +7,7 @@ The platform enables multiple modes of interaction for citizens and lawmakers, i
 - Live chats between legislators and citizens
 - Interactive polling platform for different issues
 - Broadcasting for public hearings
-- “Video forums” for legislators.
+- “Video forums” for legislators
 
 The e-Democracia platform was launched in June 2009 and, as of August 2013, the portal had about 3,000 debates (forum threads), 17,400 contributions, and 27,400 registered participants. 
 
