@@ -4,7 +4,7 @@ Launched in October 2012, Montenegro’s Citizens’ Voice e-Petitions platform 
 
 In the first six months of the project, 21 e-petitions qualified for voting through Citizens’ Voice, two of which reached the threshold of 6,000 votes.
 
-The platform was developed by the Government of Montenegro, in cooperation with the United Nations Development Programme Office in Montenegro, using the experiences of the [UK government e-petitions platform](http://epetitions.direct.gov.uk/) , the US Government website [“We the People”](https://wwws.whitehouse.gov/petitions) and the German [Bundestag’s e-petition website](https://epetitionen.bundestag.de).
+The platform was developed by the Government of Montenegro, in cooperation with the United Nations Development Programme Office in Montenegro, using the experiences of the [UK government e-petitions platform](http://epetitions.direct.gov.uk/), the US Government website [“We the People”](https://wwws.whitehouse.gov/petitions) and the German [Bundestag’s e-petition website](https://epetitionen.bundestag.de).
 
 Source: [www.opengovpartnership.org/country/montenegro/case-study/inspiring-story-%E2%80%9Ccitizens-voice%E2%80%9D-pioneering-e-democracy](http://www.opengovpartnership.org/country/montenegro/case-study/inspiring-story-%E2%80%9Ccitizens-voice%E2%80%9D-pioneering-e-democracy).
 
