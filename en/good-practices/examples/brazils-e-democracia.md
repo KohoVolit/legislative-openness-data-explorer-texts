@@ -1,4 +1,4 @@
-# Brazil's E-democracia platform allows citizens to comment on draft legislation
+# Brazil's e-Democracia platform allows citizens to comment on draft legislation
 
 In Brazil, the Chamber of Deputies’ e-Democracia platform uses new social media and technology tools to engage a range of actors in the legislative process. For example, it allows citizens to comment on draft legislation and see when their comments are incorporated into law.
 
