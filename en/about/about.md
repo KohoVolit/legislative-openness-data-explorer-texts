@@ -62,5 +62,3 @@ The website is managed by the [Open Government Partnership’s Legislative Openn
 ##### How can I contact the website administrators? 
 
 To contact the website administrators directly, please email admin@openparldata.org.
-<br>
-dmvtest 2 this should appear about 5 minutes after updating the repo 1250
