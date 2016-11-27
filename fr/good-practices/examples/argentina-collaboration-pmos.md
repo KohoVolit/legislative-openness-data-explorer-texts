@@ -1,0 +1,5 @@
+# La chambre des députés argentine collabore avec les organisations de contrôle de la transparence
+
+Le président de la Chambre des députés de l´Argentine a signé un memorandum de compréhension (MoU) avec une coalition des organisations de contrôle parlementaires qui utilisent la Déclaration de la transparence parlementaire et l´Indice latino-américain de la transparence législative pour aider à mener les discussions sur les enjeux de transparence.  Avec le MoU, la Chambre de députés a accepté de créer un registre des citoyens et des organisations non-gouvernementales afin de rendre plus facile leur capacité de participer aux sessions du comité et celles plénières, créer un groupe de travail de la transparence législative permanent composé des signataires du MoU, et d´autres encore.
+
+Source: [www.directoriolegislativo.org/destacados/se-firmo-acuerdo-de-transparencia-con-la-camara-de-diputados-de-la-nacion/](http://www.directoriolegislativo.org/destacados/se-firmo-acuerdo-de-transparencia-con-la-camara-de-diputados-de-la-nacion/)

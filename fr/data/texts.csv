@@ -1,254 +1,259 @@
 code,text
-QUESTION TITLES,QUESTION TITLES
+QUESTION TITLE,QUESTION TITLE
 ,
-Does the parliament have transparency policies or guidelines?,Does the parliament have transparency policies or guidelines?
-Does the parliament have an open data policy?,Does the parliament have an open data policy?
-Is parliamentary information openly licensed?,Is parliamentary information openly licensed?
-Does the parliament require payment for access to certain information?,Does the parliament require payment for access to certain information?
-Does the parliament have a website?,Does the parliament have a website?
-REMOVE QUESTION,REMOVE QUESTION
-Does parliament have offices outside the capital where citizens can access parliamentary information?,Does parliament have offices outside the capital where citizens can access parliamentary information?
-Is interpretation provided for parliamentary proceedings?,Is interpretation provided for parliamentary proceedings?
-Are parliamentary documents translated?,Are parliamentary documents translated?
-Does the parliament provide plain language summaries of legislative information?,Does the parliament provide plain language summaries of legislative information?
-Does the parliament's website have a publicly posted privacy policy?,Does the parliament's website have a publicly posted privacy policy?
-Does the parliament provide publicly available alert services?,Does the parliament provide publicly available alert services?
+Does the parliament have transparency policies or guidelines?,Est-ce que le parlement a une politique ou bien des règles de transparence?
+Does the parliament have an open data policy?,Est-ce que le parlement a une politique de données ouverte?
+Is parliamentary information openly licensed?,Est-ce que les informations parlementaires se trouvent-elles sous licence ouverte?
+Does the parliament require payment for access to certain information?,Est-ce que le parlement exige un paiement pour l´accès ? certaines informations?
+Does the parliament have a website?,Est-ce que le parlement a un site web?
+REMOVE QUESTION,SUPPRIMER LA QUESTION
+Does parliament have offices outside the capital where citizens can access parliamentary information?,Est-ce que le parlement a des bureaux hors la capitale où les citoyens ont l´accès aux informations parlementaires?
+Is interpretation provided for parliamentary proceedings?,Est-ce que les services d´interprétation sont-ils assurés pendant les délibérations parlementaires?
+Are parliamentary documents translated?,Est-ce que les documents parlementaires sont traduits?
+Does the parliament provide plain language summaries of legislative information?,Est-ce que le parlement offre des résumés en langage clair et simple des informations législatives?
+Does the parliament's website have a publicly posted privacy policy?,Est-ce que le site web du parlement dispose d´une politique de confidentialité publiquement accessible?
+Does the parliament provide publicly available alert services?,Est-ce que le parlement offre les services d´alerte accessibles au public?
 "Include this with previous questions, perhaps in the dialogue box. ","Include this with previous questions, perhaps in the dialogue box. "
-Is information on parliament's roles and functions available?,Is information on parliament's roles and functions available?
-Are the parliament's rules of procedure available?,Are the parliament's rules of procedure available?
-Is the parliament's session calendar available?,Is the parliament's session calendar available?
-Is the parliament's order of business available?,Is the parliament's order of business available?
-Can the public observe or listen to plenary sessions?,Can the public observe or listen to plenary sessions?
-Are verbatim plenary transcripts available?,Are verbatim plenary transcripts available?
-Are roll call voting records available?,Are roll call voting records available?
-Is draft legislation available?,Is draft legislation available?
-Is bill status information available?,Is bill status information available?
-Is there a public database of all legislation?,Is there a public database of all legislation?
-Are parliamentary reports available?,Are parliamentary reports available?
-Is a description of committee powers and functions available?,Is a description of committee powers and functions available?
-Are committee rules available?,Are committee rules available?
-Can the public observe committee meetings?,Can the public observe committee meetings?
-Is the committee schedule available to the public?,Is the committee schedule available to the public?
-Are committee meeting agendas available?,Are committee meeting agendas available?
-Are verbatim committee transcripts available?,Are verbatim committee transcripts available?
-Are committee voting records available?,Are committee voting records available?
-Is evidence submitted to committees available?,Is evidence submitted to committees available?
-Are committee reports available?,Are committee reports available?
-Are committee resolutions available?,Are committee resolutions available?
-REMOVE,REMOVE
-Is information on MPs' roles and committee memberships available?,Is information on MPs' roles and committee memberships available?
-Is information on MPs' party affiliation available?,Is information on MPs' party affiliation available?
-Is contact information for MPs available?,Is contact information for MPs available?
-Are plenary attendance records available?,Are plenary attendance records available?
-Are committee attendance records available?,Are committee attendance records available?
-Is information on MPs' expenses available?,Is information on MPs' expenses available?
-Is there a register of lobbyists?,Is there a register of lobbyists?
-Is information on MPs' assets and interests available?,Is information on MPs' assets and interests available?
-Is information on MPs' involvement in corporate boards available?,Is information on MPs' involvement in corporate boards available?
-Are the results of parliamentary investigations available?,Are the results of parliamentary investigations available?
-Is the parliament's budget available?,Is the parliament's budget available?
-Is information on parliament's expenditures available?,Is information on parliament's expenditures available?
-Is information on parliament's contracts available?,Is information on parliament's contracts available?
-Is information on roles and structure of administrative offices available?,Is information on roles and structure of administrative offices available?
-Is contact information for senior administrative staff available?,Is contact information for senior administrative staff available?
+Is information on parliament's roles and functions available?,Est-ce que les informations sur les rôles et les fonctions du parlement sont-elles disponibles?
+Are the parliament's rules of procedure available?,Est-ce les règles de procédure du parlement sont-elles disponibles?
+Is the parliament's session calendar available?,Est-ce que le calendrier des sessions du parlement est-il disponible?
+Is the parliament's order of business available?,Est-ce que l´ordre du jour du parlement est-il disponible?
+Can a member of the public observe or listen to parliamentary plenary sessions?,Can a member of the public observe or listen to parliamentary plenary sessions?
+Are verbatim plenary transcripts available?,Est-ce que les compte-rendus de la plénière textuels sont-ils disponibles?
+Are roll call voting records available?,Est-ce que les relevés de votes par appel nominal sont-ils disponibles?
+Is draft legislation available?,Est-ce que les projets de législation sont-ils disponibles?
+Is bill status information available?,Est-ce que les informations sur le statut d´une loi sont-elles disponibles?
+Is there a public database of all legislation?,Est-ce qu´il y a une base de données publique de toute la législation?
+Are parliamentary reports available?,Est-ce que les rapports parlementaires sont-ils disponibles?
+Is a description of committee powers and functions available?,Est-ce qu´une description des pouvoirs et des fonctions du comité est-elle disponible?
+Are committee rules available?,Est-ce que les règles du comité sont-elles disponibles?
+Can the public observe committee meetings?,Est-ce que le public peut-il observer les réunions du comité?
+Are committee schedules available?,Est-ce que les calendriers de réunions du comité sont-ils disponibles?
+Are committee meeting agendas available?,Est-ce que les agendas de réunions du comité sont-ils disponibles?
+Are verbatim committee transcripts available?,Est-ce que les compte-rendus du comité textuels sont-ils disponibles?
+Are committee voting records available?,Est-ce que les relevés de votes du comité sont-ils disponibles?
+Is evidence submitted to committees available?,Est-ce que les éléments de preuve présentés au comité sont-ils disponibles?
+Are committee reports available?,Est-ce que les rapports du comité sont-ils disponibles?
+Are committee resolutions available?,Est-ce que les résolutions du comité sont-elles disponibles?
+REMOVE,SUPPRIMER
+Is information on MPs' roles and committee memberships available?,Est-ce que les informations sur les rôles et la participation à des comités des membres du parlement sont-elles disponibles?
+Is information on MPs' party affiliation available?,Est-ce que les informations sur l´appartenance à un parti politique des membres du parlement sont-elles disponibles?
+Is contact information for MPs available?,Est-ce que les coordonnées des membres du parlement sont-elles disponibles?
+Are plenary attendance records available?,Est-ce que les états de présence de la plénière sont-ils disponibles?
+Are committee attendance records available?,Est-ce que les états de présence du comité sont-ils disponibles?
+Is information on MPs' expenses available?,Est-ce que les informations sur les dépenses des membres du parlement sont-elles disponibles?
+Is there a register of lobbyists?,Est-ce qu´il y a un registre des lobbyistes?
+Is information on MPs' assets and interests available?,Est-ce que les informations sur le patrimoine et les intérêts des membres du parlement sont-elles disponibles?
+Is information on MPs' involvement in corporate boards available?,Est-ce que les informations sur la participation des membres du parlement aux conseils d´administration sont-elles disponibles?
+Are the results of parliamentary investigations available?,Est-ce que les résultats des enquêtes parlementaires sont-ils disponibles?
+Is the parliament's budget available?,Est-ce que le budget du parlement est-il disponible?
+Is information on parliament's expenditures available?,Est-ce que les informations sur les dépenses du parlement sont-elles disponibles?
+Is information on parliament's contracts available?,Est-ce que les informations sur les contrats du parlement sont-elles disponibles?
+Is information on roles and structure of administrative offices available?,Est-ce que les informations sur les rôles et la structure des bureaux administratifs du parlement sont-elles disponibles?
+Is contact information for senior administrative staff available?,Est-ce que les coordonnées des cadres administratifs sont-elles disponibles?
 END,END
-"ISO codes (alpha-2,  lowercase)","ISO codes (alpha-2,  lowercase)"
-subquestion,subquestion
-"Aside from the general rules of procedure for the chamber, are there specific policies or guidelines designed to ensure that parliamentary data and information is open and accessible?","Aside from the general rules of procedure for the chamber, are there specific policies or guidelines designed to ensure that parliamentary data and information is open and accessible?"
-Please provide citations or links to relevant policies or guidelines and briefly describe the role that these policies play in ensuring that parliamentary information is open and accessible to the public.,Please provide citations or links to relevant policies or guidelines and briefly describe the role that these policies play in ensuring that parliamentary information is open and accessible to the public.
-"Are there rules of procedure or policies that require that parliamentary information be published in open formats? If online, please provide a link.","Are there rules of procedure or policies that require that parliamentary information be published in open formats? If online, please provide a link."
-"In general, is parliamentary information openly licensed to allow for free reuse and redistribution?","In general, is parliamentary information openly licensed to allow for free reuse and redistribution?"
-"Please describe how parliamentary information is licensed, including specific references to legal documents or guidelines. Please provide links, if available.","Please describe how parliamentary information is licensed, including specific references to legal documents or guidelines. Please provide links, if available."
-Does the parliament officially require payment in exchange for access to certain parliamentary information?,Does the parliament officially require payment in exchange for access to certain parliamentary information?
-"Please describe what information the parliament charges for, including details regarding which parliamentary information is not free and how much is charged for the information. Please provide links to relevant policies, if available.","Please describe what information the parliament charges for, including details regarding which parliamentary information is not free and how much is charged for the information. Please provide links to relevant policies, if available."
-"Does the parliament have a public website? If yes, please provide a link.","Does the parliament have a public website? If yes, please provide a link."
-How frequently does the parliament update its website?,How frequently does the parliament update its website?
-"Does the parliament maintain offices outside the capital where citizens can access accurate, up-to-date parliamentary information?","Does the parliament maintain offices outside the capital where citizens can access accurate, up-to-date parliamentary information?"
-"In instances where there are multiple working or national languages, does the parliament provide simultaneous interpretation of parliamentary proceedings?","In instances where there are multiple working or national languages, does the parliament provide simultaneous interpretation of parliamentary proceedings?"
-"In instances where there are multiple working or national languages, does the parliament generally make documents available in all working languages?","In instances where there are multiple working or national languages, does the parliament generally make documents available in all working languages?"
-What information is translated?,What information is translated?
-Plain language summaries are provided for the following types of information,Plain language summaries are provided for the following types of information
+"ISO codes (alpha-2,  lowercase)","codes ISO (alpha-2, en minuscule)"
+subquestion,sous-question
+"Aside from the general rules of procedure for the chamber, are there specific policies or guidelines designed to ensure that parliamentary data and information is open and accessible?","A part les règles de procédure générales de la chambre, est-ce qu´il y a des politiques ou bien des directives visant ? assurer que les données et les informations parlementaires soient ouvertes et accessibles?"
+Please provide citations or links to relevant policies or guidelines and briefly describe the role that these policies play in ensuring that parliamentary information is open and accessible to the public.,"Veuillez fournir les citations ou bien les liens concernant les politiques ou les directives pertinentes, et décrivez en bref le rôle que ces politiques jouent en assurant que les informations parlementaires soient ouvertes et disponibles au public."
+"Are there rules of procedure or policies that require that parliamentary information be published in open formats? If online, please provide a link.","Est-ce qu´il y a des règles de procédure ou bien des règles exigeant que les informations parlementaires soient publiées dans les formats ouverts? Si en ligne, veuillez fournir un lien."
+"In general, is parliamentary information openly licensed to allow for free reuse and redistribution?","En règle générale, les informations parlementaires se trouvent-elles sous licence libre permettant leur libre réutilisation et la redistribution?"
+"Please describe how parliamentary information is licensed, including specific references to legal documents or guidelines. Please provide links, if available.","Veuillez décrire comment les informations parlementaires sont-elles autorisées, y compris les références spécifiques aux documents juridiques ou directives. Veuillez fournir des liens, si ceux-ci sont disponibles."
+Does the parliament officially require payment in exchange for access to certain parliamentary information?,Est-ce que le parlement exige officiellement un paiement pour l´accès ? certaines informations parlementaires?
+"Please describe what information the parliament charges for, including details regarding which parliamentary information is not free and how much is charged for the information. Please provide links to relevant policies, if available.","Veuillez décrire quelles informations du parlement sont payantes, y compris les informations détaillées concernant les informations parlementaires qui ne sont pas gratuites et combien il faut payer pour les obtenir. Veuillez fournir les liens concernant les politiques pertinentes, si ceux-ci sont disponibles."
+"Does the parliament have a public website? If yes, please provide a link.","Est-ce que le parlement a un site web public? Si oui, veuillez fournir un lien."
+How frequently does the parliament update its website?,Avec quelle fréquence le parlement met-il à jour son site web?
+"Does the parliament maintain offices outside the capital where citizens can access accurate, up-to-date parliamentary information?",Est-ce que le parlement maintien des bureaux hors la capitale où les citoyens ont l´accès aux informations parlementaires précises et actualisées?
+"In instances where there are multiple working or national languages, does the parliament provide simultaneous interpretation of parliamentary proceedings?","Dans les cas où il y a plusieurs langues nationales ou bien de travail, est-ce que le parlement assure l´interprétation simultanée des délibérations parlementaires?"
+"In instances where there are multiple working or national languages, does the parliament generally make documents available in all working languages?","Dans les cas où il y a plusieurs langues nationales ou bien de travail, est-ce que, en règle générale, le parlement rend-il les documents disponibles dans toutes les langues de travail?"
+What information is translated?,Quelles informations sont-elles traduites?
+Summaries are provided for,Les résumés en langage clair et simples sont fournis
 "Does the parliamentary website have a publicly available privacy policy that allows website users to know what personal information is being collected and how that information is being used? If yes, please provide a link.","Does the parliamentary website have a publicly available privacy policy that allows website users to know what personal information is being collected and how that information is being used? If yes, please provide a link."
-Link,Link
-"Does the parliament provide publicly available alert services? If yes, using which technologies? ","Does the parliament provide publicly available alert services? If yes, using which technologies? "
-Alert services for plenary activities are available with which technologies? ,Alert services for plenary activities are available with which technologies? 
-Alert services for committee activities are available with which technologies? ,Alert services for committee activities are available with which technologies? 
-Alert services for the introduction of bills are available with which technologies? ,Alert services for the introduction of bills are available with which technologies? 
-Alert services for changes to bills are available with which technologies? ,Alert services for changes to bills are available with which technologies? 
-Alert services for passage of legislation are available with which technologies? ,Alert services for passage of legislation are available with which technologies? 
-Alert services for voting results are available with which technologies? ,Alert services for voting results are available with which technologies? 
-Is general information on the parliament's constitutional roles and functions available to the public?,Is general information on the parliament's constitutional roles and functions available to the public?
-Is a complete version of the parliament's internal rules available to the public?,Is a complete version of the parliament's internal rules available to the public?
-Is the parliament's session calendar available to the public?,Is the parliament's session calendar available to the public?
-"Is the parliament's order of business, including its vote schedule, available to the public?","Is the parliament's order of business, including its vote schedule, available to the public?"
-"In general, how far in advance is the public notified of the order of business and vote schedule?","In general, how far in advance is the public notified of the order of business and vote schedule?"
-How can sessions be observed?,How can sessions be observed?
-Are verbatim plenary transcripts available to the public?,Are verbatim plenary transcripts available to the public?
-Are plenary roll call voting records available to the public?,Are plenary roll call voting records available to the public?
-Are voting records searchable?,Are voting records searchable?
-"Upon being introduced or tabled, is the text of draft legislation immediately available to the public?","Upon being introduced or tabled, is the text of draft legislation immediately available to the public?"
-"If draft legislation is made publicly available, is the status of the bill in the legislative process easily accessible?","If draft legislation is made publicly available, is the status of the bill in the legislative process easily accessible?"
-"Does the parliament maintain a web-based, searchable database of all enacted legislation?","Does the parliament maintain a web-based, searchable database of all enacted legislation?"
-"With the exception of reports containing classified or confidential information, are all reports requested by or submitted to the parliament typically made available to the public?","With the exception of reports containing classified or confidential information, are all reports requested by or submitted to the parliament typically made available to the public?"
-How soon after a session are transcripts published?,How soon after a session are transcripts published?
-How soon after a session are voting records published?,How soon after a session are voting records published?
-How soon after being tabled is draft legislation published?,How soon after being tabled is draft legislation published?
-How soon after an action is bill status information published?,How soon after an action is bill status information published?
-How soon after being presented are parliamentary reports published?,How soon after being presented are parliamentary reports published?
-How can the information be accessed?,How can the information be accessed?
-In what formats can the information be accessed?,In what formats can the information be accessed?
-How much historical information is available?,How much historical information is available?
-Is a general description of committee powers and functions available to the public?,Is a general description of committee powers and functions available to the public?
-"If committees have their own internal rules, is information on committee rules available to the public?","If committees have their own internal rules, is information on committee rules available to the public?"
-Is justification for private meetings provided?,Is justification for private meetings provided?
-How can the public observe committee meetings?,How can the public observe committee meetings?
-How far in advance is the committee schedule available?,How far in advance is the committee schedule available?
-Are committee meeting agendas available to the public?,Are committee meeting agendas available to the public?
-How in advance is the committee meeting agenda available?,How in advance is the committee meeting agenda available?
-Are verbatim committee transcripts available to the public?,Are verbatim committee transcripts available to the public?
-Are committee voting records available to the public?,Are committee voting records available to the public?
-"With the exception of classified information, is evidence submitted to committees generally available to the public?","With the exception of classified information, is evidence submitted to committees generally available to the public?"
-Are committee reports available to the public?,Are committee reports available to the public?
-Are complete versions of committee resolutions available to the public?,Are complete versions of committee resolutions available to the public?
-How soon after a meeting are transcripts available?,How soon after a meeting are transcripts available?
-How soon after a vote are records available?,How soon after a vote are records available?
-How soon after being submitted or presented is evidence available?,How soon after being submitted or presented is evidence available?
-How soon after a resolution has passed is its text available?,How soon after a resolution has passed is its text available?
-Is information on members' roles and committee memberships available to the public,Is information on members' roles and committee memberships available to the public
-Is information on any party affiliation of members of parliament available to the public?,Is information on any party affiliation of members of parliament available to the public?
-"Is contact information for members of parliament, including for any district and capital offices they maintain, available to the public?","Is contact information for members of parliament, including for any district and capital offices they maintain, available to the public?"
-Is an individual member of parliament's attendance record for plenary sessions available to the public?,Is an individual member of parliament's attendance record for plenary sessions available to the public?
-Is an individual member of parliament's attendance record for committee meetings available to the public?,Is an individual member of parliament's attendance record for committee meetings available to the public?
-Is information on an individual member of parliament's expenses available to the public?,Is information on an individual member of parliament's expenses available to the public?
-Is there a publicly available registry that lists active lobbyists or pressure groups and that provides basic information on their activities?,Is there a publicly available registry that lists active lobbyists or pressure groups and that provides basic information on their activities?
-Is information regarding a member of parliament's assets and interests available to the public?,Is information regarding a member of parliament's assets and interests available to the public?
-Is information regarding a member of parliament's involvement on corporate boards available to the public?,Is information regarding a member of parliament's involvement on corporate boards available to the public?
-"Once completed, are the results of internal parliamentary investigations into conflicts of interest or ethics violations available to the public?","Once completed, are the results of internal parliamentary investigations into conflicts of interest or ethics violations available to the public?"
-Is the parliament's budget available to the public?,Is the parliament's budget available to the public?
-Is information about parliamentary expenditures available to the public?,Is information about parliamentary expenditures available to the public?
-Is information on the roles and structure of parliament's administrative offices available to the public?,Is information on the roles and structure of parliament's administrative offices available to the public?
-Is contact information for senior administrative staff available to the public?,Is contact information for senior administrative staff available to the public?
-category,category
-Accessibility,Accessibility
-Plenary,Plenary
-"Citizen Participation, Plenary","Citizen Participation, Plenary"
-Committees,Committees
-"Citizen Participation, Committees","Citizen Participation, Committees"
-"MPs, Committees","MPs, Committees"
-MPs,MPs
-"Citizen Participation, MPs","Citizen Participation, MPs"
-"MPs, Plenary","MPs, Plenary"
-"MPs, Ethics","MPs, Ethics"
-Ethics,Ethics
-"Ethics, MPs","Ethics, MPs"
+Link,Lien
+Technologies:,Les technologies:
+Types of Information:,Types d'informations:
+Committee activity?,Activité du comité?
+Introduction of bills?,Introduction de projets de loi?
+Changes to bills?,Changes to bills?
+Passage of legislation?,Adoption de la loi?
+Votes?,Votes?
+Is general information on the parliament's constitutional roles and functions available to the public?,Est-ce que les informations générales sur les fonctions et les rôles constitutionnels du parlement sont-elles disponibles au public?
+Is a complete version of the parliament's internal rules available to the public?,Est-ce qu´une version complète des règles internes du parlement est-elle disponible au public?
+Is the parliament's session calendar available to the public?,Est-ce que le calendrier des sessions du parlement est-il disponible au public?
+"Is the parliament's order of business, including its vote schedule, available to the public?","Est-ce que l´ordre du jour du parlement, y compris son calendrier de vote, est-il disponible au public?"
+"In general, how far in advance is the public notified of the order of business and vote schedule?","En règle générale, combien de temps à l´avance le public est-il averti de l´ordre du jour et du calendrier de vote?"
+How can sessions be observed?,Comment les sessions peuvent-elles être observées?
+Are verbatim plenary transcripts available to the public?,Est-ce que les compte-rendus de la plénière textuels sont-ils disponibles au public?
+Are plenary roll call voting records available to the public?,Est-ce que les relevés de votes par appel nominal sont-ils disponibles au public?
+Are voting records searchable?,Est-ce que les relevés de votes sont-ils consultables?
+"Upon being introduced or tabled, is the text of draft legislation immediately available to the public?","Après être présenté ou bien déposé, est-ce le texte du projet de la législation est disponible de façon immédiate au public?"
+"If draft legislation is made publicly available, is the status of the bill in the legislative process easily accessible?","Dans le cas où le projet de législation est rendu public, est-ce que le status de la loi dans la proc?s législatif est-il facilement accessible?"
+"Does the parliament maintain a web-based, searchable database of all enacted legislation?",Est-ce que le parlement maintien une base de données consultable sur le web de toute la législation promulguée?
+"With the exception of reports containing classified or confidential information, are all reports requested by or submitted to the parliament typically made available to the public?","A l´exception des rapports contenant les informations classifiées ou confidentielles, est-ce que tous les rapports demandés par ou bien présentés au parlement sont typiquement rendus disponibles au public?"
+How soon after a session are transcripts published?,Combien de temps après une session les compte-rendus sont-ils disponibles?
+How soon after a session are voting records published?,Combien de temps après une session les relevés de votes sont-ils publiés?
+How soon after being tabled is draft legislation published?,Combien de temps après avoir été déposé le projet de législation est-il publié?
+How soon after an action is bill status information published?,Combien de temps après une action le statut d´une loi est-il publié?
+How soon after being presented are parliamentary reports published?,Combien de temps après avoir été présentés les rapports parlementaires sont-ils publiés?
+How can the information be accessed?,Comment les informations peuvent-elles être accédées?
+In what formats can the information be accessed?,Dans quels formats les informations peuvent-elles être accédées?
+How much historical information is available?,Combien de données historiques sont-elles disponibles?
+Is a general description of committee powers and functions available to the public?,Est-ce qu´une description générale des pouvoirs et des fonctions du comité est-elle disponible au public?
+"If committees have their own internal rules, is information on committee rules available to the public?","Dans le cas où les comités ont ses propres règles internes, est-ce que les informations sur ces règles du comité sont-elles à la disposition du public?"
+Is justification for private meetings provided?,Est-ce qu´une justification des réunions privées est-elle fournie?
+How can the public observe committee meetings?,Comment le public peut-il observer les réunions du comité?
+Is the committee schedule available to the public?,Est-ce que le calendrier du comité est-il disponible au public?
+How far in advance is the committee schedule available?,Combien de temps à l´avance le calendrier du comité est-il disponible?
+Are committee meeting agendas available to the public?,Est-ce que les calendriers de réunions du comité sont-ils disponibles au public?
+How in advance is the committee meeting agenda available?,Combien de temps à l´avance le calendrier des réunions du comité est-il disponible?
+Are verbatim committee transcripts available to the public?,Est-ce que les compte-rendus du comité textuels sont-ils disponibles au public?
+Are committee voting records available to the public?,Est-ce que les relevés de votes du comité sont-ils disponibles au public?
+"With the exception of classified information, is evidence submitted to committees generally available to the public?","A l´exception des informations classifiées, est-ce que les éléments de preuve présentés aux comités sont-ils généralement disponibles au public?"
+Are committee reports available to the public?,Est-ce que les rapports du comité sont-ils disponibles au public?
+Are complete versions of committee resolutions available to the public?,Est-ce que les versions complètes des résolutions du comité sont-elles disponibles au public?
+How soon after a meeting are transcripts available?,Combien de temps après une réunion les procès-verbaux sont-ils disponibles?
+How soon after a vote are records available?,Combien de temps après un vote les relevés de votes sont-ils disponibles?
+How soon after being submitted or presented is evidence available?,Combien de temps après avoir été soumises ou présentées les éléments de preuve sont-ils disponibles?
+How soon after a resolution has passed is its text available?,Combien de temps après qu´une résolution est approuvée son texte est-il disponible?
+Is information on members' roles and committee memberships available to the public,Est-ce que les informations sur les rôles et la participation à des comités des membres sont-elles disponibles au public?
+Is information on any party affiliation of members of parliament available to the public?,Est-ce que les informations sur toute appartenance à un parti politique des membres du parlement sont-elles disponibles au public?
+"Is contact information for members of parliament, including for any district and capital offices they maintain, available to the public?","Est-ce que les coordonnées des membres du parlement, y compris les bureaux qu´ils maintiennent au niveau régional ou de la capitale, sont-elles disponibles au public?"
+Is an individual member of parliament's attendance record for plenary sessions available to the public?,Est-ce qu´une fiche de présence pour les sessions plénières d´un membre individuel du parlement est-elle disponible au public?
+Is an individual member of parliament's attendance record for committee meetings available to the public?,Est-ce qu´une fiche de présence pour les réunions du comité d´un membre individuel du parlement est-elle disponible au public?
+Is information on an individual member of parliament's expenses available to the public?,Est-ce que les informations sur les dépenses parlementaires concernant un membre individuel sont-elles disponibles au public?
+Is there a publicly available registry that lists active lobbyists or pressure groups and that provides basic information on their activities?,Est-ce qu´il y a un registre publiquement accessible énumérant les lobbyistes actifs ou bien les groupes de pression et fournissant les informations de base concernant leurs activités?
+Is information regarding a member of parliament's assets and interests available to the public?,Est-ce que les informations concernant le patrimoine et les intérêts d´un membre du parlement sont-elles disponibles au public?
+Is information regarding a member of parliament's involvement on corporate boards available to the public?,Est-ce que les informations concernant la participation à des conseils d´administration d´un membre du parlement sont-elles disponibles au public?
+"Once completed, are the results of internal parliamentary investigations into conflicts of interest or ethics violations available to the public?","Une fois terminés, est-ce que les résultats des recherches parlementaires internes concernant les conflits d´intérêts ou bien les violations des règles d´éthique sont-ils disponibles au public?"
+Is the parliament's budget available to the public?,Est-ce que le budget du parlement est-il disponible au public?
+Is information about parliamentary expenditures available to the public?,Est-ce que les informations sur les dépenses parlementaires sont-elles disponibles au public?
+Is information on the roles and structure of parliament's administrative offices available to the public?,Est-ce que les informations sur les rôles et la structure des bureaux administratifs du parlement sont-elles disponibles au public?
+Is contact information for senior administrative staff available to the public?,Est-ce que les coordonnées des cadres administratifs sont-elles disponibles au public?
+category,catégorie
+Accessibility,Accessibilité
+Plenary,Plénière
+"Plenary, Citizen Participation","Plénière, Participation citoyenne"
+Committees,Comités
+"Committees, Citizen Participation","Comités, Participation citoyenne"
+"MPs, Committees","Membres du parlement, Comités"
+MPs,Membres du parlement
+"MPs, Citizen Participation","Membres du parlement, Participation citoyenne"
+"MPs, Plenary","Membres du parlement, Plénière"
+"MPs, Ethics","Membres du parlement, Éthique"
+Ethics,Éthique
 Administration,Administration
-"Administration, Ethics","Administration, Ethics"
-"Citizen Participation, Administration","Citizen Participation, Administration"
-Romania,Romania
-No,No
-Yes,Yes
-Daily,Daily
-N/A,N/A
-None of the above,None of the above
-Other,Other
-Not available,Not available
-"Yes, online","Yes, online"
-"Yes, offline","Yes, offline"
+"Administration, Ethics","Administration, Éthique"
+"Administration, Citizen Participation","Administration, Participation citoyenne"
+Romania,Roumanie
+No,Non
+Yes,Oui
+Daily,Tous les jours
+None of the above,Aucune de ces options
+Other,Autre
+Not available,Pas disponible
+"Yes, online","Oui, en ligne"
+"Yes, offline","Oui, hors ligne"
 http://www.cdep.ro/pls/dic/site.page?id=204,http://www.cdep.ro/pls/dic/site.page?id=204
 http://www.cdep.ro/pdfs/regulament_republicat2012.pdf,http://www.cdep.ro/pdfs/regulament_republicat2012.pdf
 http://www.cdep.ro/pls/caseta/eCaseta.Agenda,http://www.cdep.ro/pls/caseta/eCaseta.Agenda
 http://www.cdep.ro/pls/caseta/eCaseta.OrdineZi,http://www.cdep.ro/pls/caseta/eCaseta.OrdineZi
-1-3 days,1-3 days
-In-person at the parliament,In-person at the parliament
-Web streaming,Web streaming
-On demand archival streaming,On demand archival streaming
+1-3 days,1 - 3 jours
+In-person at the parliament,En personne au parlement
+Web streaming,Le web streaming
+On demand archival streaming,Diffusion d´archives sur demande
 http://www.cdep.ro/,http://www.cdep.ro/
 http://www.cdep.ro/pls/steno/steno.video?sursa=1,http://www.cdep.ro/pls/steno/steno.video?sursa=1
 http://www.cdep.ro/pls/steno/steno.home,http://www.cdep.ro/pls/steno/steno.home
 http://www.cdep.ro/pls/steno/eVot.Data,http://www.cdep.ro/pls/steno/eVot.Data
 http://www.cdep.ro/pls/steno/evot.nominal?idv=11969&idl=1,http://www.cdep.ro/pls/steno/evot.nominal?idv=11969&idl=1
 http://www.cdep.ro/pls/proiecte/upl_pck.home,http://www.cdep.ro/pls/proiecte/upl_pck.home
-"Yes, online ","Yes, online "
-4 - 6 days,4 - 6 days
-1 - 3 days,1 - 3 days
-1 - 2 weeks,1 - 2 weeks
-Parliamentary website ,Parliamentary website 
+"Yes, online ","Oui, en ligne "
+4 - 6 days,4 - 6 jours
+1 - 3 days,1 - 3 jours
+1 - 2 weeks,1 - 2 semaines
+Parliamentary website ,Site web parlementaire
 API,API
 HTML,HTML
 XML,XML
 PDF,PDF
-10 or more years,10 or more years
+10 or more years,10 ans ou plus
 http://www.cdep.ro/pls/dic/site.page?den=introcd1-g,http://www.cdep.ro/pls/dic/site.page?den=introcd1-g
 http://www.cdep.ro/pls/dic/site.page?den=regcd1_1#s15,http://www.cdep.ro/pls/dic/site.page?den=regcd1_1#s15
 http://www.cdep.ro/co/sedinte.comisii?care=1,http://www.cdep.ro/co/sedinte.comisii?care=1
+www.cdep.ro,www.cdep.ro
 http://www.cdep.ro/co/sedinte.lista,http://www.cdep.ro/co/sedinte.lista
-Parliamentary website,Parliamentary website
-7 - 9 years,7 - 9 years
+Available on the page of each bill,Available on the page of each bill
+Parliamentary website,Site web parlementaire
+7 - 9 years,7 - 9 ans
 http://www.cdep.ro/pls/parlam/structura.co?leg=2012,http://www.cdep.ro/pls/parlam/structura.co?leg=2012
 http://www.cdep.ro/pls/parlam/structura.fp?leg=2012,http://www.cdep.ro/pls/parlam/structura.fp?leg=2012
 http://www.cdep.ro/pls/parlam/structura.de?leg=2012&par=C,http://www.cdep.ro/pls/parlam/structura.de?leg=2012&par=C
 http://www.cdep.ro/pls/parlam/informatii_economice.home,http://www.cdep.ro/pls/parlam/informatii_economice.home
 http://www.cdep.ro/pls/dic/site.page?id=405,http://www.cdep.ro/pls/dic/site.page?id=405
-Official bulletin or publication,Official bulletin or publication
-Printed copy,Printed copy
-4 - 6 years,4 - 6 years
+Official bulletin or publication,Bulletin ou publication officielle
+Printed copy,Copie imprimée
+4 - 6 years,4 - 6 ans
 http://www.cdep.ro/informatii_publice/achizitii.home,http://www.cdep.ro/informatii_publice/achizitii.home
 http://www.cdep.ro/pls/dic/site.page?den=servicii1,http://www.cdep.ro/pls/dic/site.page?den=servicii1
 http://www.cdep.ro/pls/dic/servicii.conducere,http://www.cdep.ro/pls/dic/servicii.conducere
-Finland,Finland
+Finland,Finlande
 http://eduskunta.fi,http://eduskunta.fi
-"Yes, with minimal delays to allow for translation (typically less than 24 hours)","Yes, with minimal delays to allow for translation (typically less than 24 hours)"
-Session calendars,Session calendars
-Order of business,Order of business
-Plenary transcripts,Plenary transcripts
-Committee transcripts ,Committee transcripts 
-Plenary voting records,Plenary voting records
-Legislation,Legislation
-Draft bills,Draft bills
-Election results,Election results
-Committee membership,Committee membership
-Parliamentary roles and functions,Parliamentary roles and functions
-Parliamentary rules of procedure,Parliamentary rules of procedure
-Some info: http://web.eduskunta.fi/Resource.phx/parliament/aboutparliament/legislativework.htx,Some info: http://web.eduskunta.fi/Resource.phx/parliament/aboutparliament/legislativework.htx
+"Yes, with minimal delays to allow for translation (typically less than 24 hours)","Oui, avec les délais minimaux pour la traduction (typiquement de moins de 24 heures)"
+Session calendars,Calendriers des sessions
+Order of business,Ordre du jour
+Plenary transcripts,Transcriptions de la plénière
+Committee transcripts ,Transcriptions du comité
+Plenary voting records,Relevés de votes de la plénière
+Legislation,Législation
+Draft bills,Projets de loi
+Election results,Résultats des élections
+Committee membership,Membres du comité
+Parliamentary roles and functions,Rôles et fonctions parlementaires
+Parliamentary rules of procedure,Règles de procédure parlementaires
+Some info: http://web.eduskunta.fi/Resource.phx/parliament/aboutparliament/legislativework.htx,Quelques infos: http://web.eduskunta.fi/Resource.phx/parliament/aboutparliament/legislativework.htx
 http://www.finlex.fi/fi/laki/ajantasa/2000/20000040,http://www.finlex.fi/fi/laki/ajantasa/2000/20000040
 http://web.eduskunta.fi/Resource.phx/eduskunta/organisaatio/taysistunto/taysistuntoeikaynnissa/istuntosuunnitelma.htx,http://web.eduskunta.fi/Resource.phx/eduskunta/organisaatio/taysistunto/taysistuntoeikaynnissa/istuntosuunnitelma.htx
-The next plenary session schedule is at http://web.eduskunta.fi/Resource.phx/eduskunta/organisaatio/taysistunto/taysistuntoeikaynnissa/index.htx,The next plenary session schedule is at http://web.eduskunta.fi/Resource.phx/eduskunta/organisaatio/taysistunto/taysistuntoeikaynnissa/index.htx
-1-2 weeks,1-2 weeks
+The next plenary session schedule is at http://web.eduskunta.fi/Resource.phx/eduskunta/organisaatio/taysistunto/taysistuntoeikaynnissa/index.htx,Le calendrier de la prochaine session plénière se trouve ?: http://web.eduskunta.fi/Resource.phx/eduskunta/organisaatio/taysistunto/taysistuntoeikaynnissa/index.htx
+1-2 weeks,1 - 2 semaines
 http://verkkolahetys.eduskunta.fi/,http://verkkolahetys.eduskunta.fi/
 http://www.eduskunta.fi,http://www.eduskunta.fi
-Example of how votes are shown: http://www.eduskunta.fi/triphome/bin/thw.cgi/trip/?${APPL}=aanestysu&${BASE}=aanestysu&${THWIDS}=0.28/1409995048_361694&${oohtml}=aax/hex5000&${html}=aax/aax5000&${snhtml}=aax/aaxnosyn&${savehtml}=/thwfakta/aanestys/aax/aax.htm,Example of how votes are shown: http://www.eduskunta.fi/triphome/bin/thw.cgi/trip/?${APPL}=aanestysu&${BASE}=aanestysu&${THWIDS}=0.28/1409995048_361694&${oohtml}=aax/hex5000&${html}=aax/aax5000&${snhtml}=aax/aaxnosyn&${savehtml}=/thwfakta/aanestys/aax/aax.htm
+Example of how votes are shown: http://www.eduskunta.fi/triphome/bin/thw.cgi/trip/?${APPL}=aanestysu&${BASE}=aanestysu&${THWIDS}=0.28/1409995048_361694&${oohtml}=aax/hex5000&${html}=aax/aax5000&${snhtml}=aax/aaxnosyn&${savehtml}=/thwfakta/aanestys/aax/aax.htm,Un exemple de comment le votes sont-ils montrés: http://www.eduskunta.fi/triphome/bin/thw.cgi/trip/?${APPL}=aanestysu&${BASE}=aanestysu&${THWIDS}=0.28/1409995048_361694&${oohtml}=aax/hex5000&${html}=aax/aax5000&${snhtml}=aax/aaxnosyn&${savehtml}=/thwfakta/aanestys/aax/aax.htm
 http://217.71.145.20/TRIPviewer/show.asp?tunniste=HE+115/2014&base=erhe&palvelin=www.eduskunta.fi&f=WORD,http://217.71.145.20/TRIPviewer/show.asp?tunniste=HE+115/2014&base=erhe&palvelin=www.eduskunta.fi&f=WORD
 http://www.eduskunta.fi/triphome/bin/vex4000.sh?${APPL}=veps99&${BASE}=veps99&${THWIDS}=5.3/1409995143_397520&${TRIPSHOW}=html=vex/vex5000+form=vex5000&${THWURLSAVE}=3/1409995143_397520&${savehtml}=/thwfakta/vpasia/vex/vex7000.shtml,http://www.eduskunta.fi/triphome/bin/vex4000.sh?${APPL}=veps99&${BASE}=veps99&${THWIDS}=5.3/1409995143_397520&${TRIPSHOW}=html=vex/vex5000+form=vex5000&${THWURLSAVE}=3/1409995143_397520&${savehtml}=/thwfakta/vpasia/vex/vex7000.shtml
-The Ministry of Justice maintains a database of all legislation: http://finlex.fi. ,The Ministry of Justice maintains a database of all legislation: http://finlex.fi. 
-Less than 24 hours,Less than 24 hours
-More than 2 weeks,More than 2 weeks
+The Ministry of Justice maintains a database of all legislation: http://finlex.fi. ,Le ministère de la Justice maintien une base de données de toute la législation: http://finlex.fi. 
+Less than 24 hours,Moins de 24 heures
+More than 2 weeks,Plus de 2 semaines
 Official bulletin or publication ,Official bulletin or publication 
-Less than 1 year,Less than 1 year
+Less than 1 year,Moins d´un an
 http://web.eduskunta.fi/Resource.phx/eduskunta/tervetuloa/valiokunta/valiokunta.htx#Valiokuntien%20tehtävät,http://web.eduskunta.fi/Resource.phx/eduskunta/tervetuloa/valiokunta/valiokunta.htx#Valiokuntien%20tehtävät
 http://web.eduskunta.fi/dman/Document.phx?documentId=ob11809144556004&cmd=download,http://web.eduskunta.fi/dman/Document.phx?documentId=ob11809144556004&cmd=download
-"By default, committee meetings are not public.","By default, committee meetings are not public."
-http://web.eduskunta.fi/Resource.phx/valiokunnat/valiokunta-siv01/index.htx?url=/plaza/toimielimet/muut/zvkseuraavakokous_siv01_su.html&te=siv01&lng=fi,http://web.eduskunta.fi/Resource.phx/valiokunnat/valiokunta-siv01/index.htx?url=/plaza/toimielimet/muut/zvkseuraavakokous_siv01_su.html&te=siv01&lng=fi
-4-6 days,4-6 days
+Committee meetings are by default not public in Finland unfortunately...,"En règle générale, les réunions du comité ne sont pas ouvertes au public en Finlande."
+Committee meetings are not generally open to the public,"En règle générale, les réunions du comité ne sont pas ouvertes au public."
+if live streamed then also available on demand,if live streamed then also available on demand
+sometimes,parfois
+"on the committee pages, e.g. http://web.eduskunta.fi/Resource.phx/valiokunnat/valiokunta-siv01/index.htx?url=/plaza/toimielimet/muut/zvkseuraavakokous_siv01_su.html&te=siv01&lng=fi","on the committee pages, e.g. http://web.eduskunta.fi/Resource.phx/valiokunnat/valiokunta-siv01/index.htx?url=/plaza/toimielimet/muut/zvkseuraavakokous_siv01_su.html&te=siv01&lng=fi"
+4-6 days,4-6 jours
+e.g. http://web.eduskunta.fi/Resource.phx/valiokunnat/valiokunta-siv01/index.htx?url=/plaza/toimielimet/muut/zvkseuraavakokous_siv01_su.html&te=siv01&lng=fi,e.g. http://web.eduskunta.fi/Resource.phx/valiokunnat/valiokunta-siv01/index.htx?url=/plaza/toimielimet/muut/zvkseuraavakokous_siv01_su.html&te=siv01&lng=fi
 http://www.eduskunta.fi/triphome/bin/hex5000.sh?hnro=605&kieli=su,http://www.eduskunta.fi/triphome/bin/hex5000.sh?hnro=605&kieli=su
 http://www.eduskunta.fi/triphome/bin/tixhaku.sh?lyh=ptil?liite=06_2014?lomake=tix5200 ,http://www.eduskunta.fi/triphome/bin/tixhaku.sh?lyh=ptil?liite=06_2014?lomake=tix5200 
-http://www.eduskunta.fi/triphome/bin/tixhaku.sh?lyh=lo_siv?liite=14k?lomake=tix5200,http://www.eduskunta.fi/triphome/bin/tixhaku.sh?lyh=lo_siv?liite=14k?lomake=tix5200
+"yes, but no overview per candidate, e.g. http://www.eduskunta.fi/triphome/bin/tixhaku.sh?lyh=lo_siv?liite=14k?lomake=tix5200","yes, but no overview per candidate, e.g. http://www.eduskunta.fi/triphome/bin/tixhaku.sh?lyh=lo_siv?liite=14k?lomake=tix5200"
 http://www.eduskunta.fi/triphome/bin/hex5000.sh?hnro=605&kieli=su&haku=sido,http://www.eduskunta.fi/triphome/bin/hex5000.sh?hnro=605&kieli=su&haku=sido
-1 - 3 years,1 - 3 years
+1 - 3 years,1 - 3 ans
 http://www.hankintailmoitukset.fi/fi/notice/search/?_s%5B_sent%5D=1&_s%5Bphrase%5D=eduskunta,http://www.hankintailmoitukset.fi/fi/notice/search/?_s%5B_sent%5D=1&_s%5Bphrase%5D=eduskunta
 http://web.eduskunta.fi/Resource.phx/eduskunta/organisaatio/hallinto/organisaatiokaavio.htx,http://web.eduskunta.fi/Resource.phx/eduskunta/organisaatio/hallinto/organisaatiokaavio.htx
 http://www.eduskunta.fi/triphome/bin/hkx3000.sh?haku=selaus&YKSIKKO=kk&org=2,http://www.eduskunta.fi/triphome/bin/hkx3000.sh?haku=selaus&YKSIKKO=kk&org=2
-Ireland,Ireland
+Ireland,Irlande
 http://www.oireachtas.ie,http://www.oireachtas.ie
-Multiple times daily ,Multiple times daily 
-"No, records are made available only in the original language","No, records are made available only in the original language"
+Multiple times daily ,Plusieurs fois par jour
+"No, records are made available only in the original language","Non, les enregistrements sont uniquement disponibles dans la langue d´origine."
 http://www.oireachtas.ie/parliament/privacypolicy/,http://www.oireachtas.ie/parliament/privacypolicy/
-"Yes, using email","Yes, using email"
-"Yes, using RSS","Yes, using RSS"
+"Yes, using email","Oui, par e-mail"
+"Yes, using RSS","Oui, par RSS"
 http://www.oireachtas.ie/parliament/about/,http://www.oireachtas.ie/parliament/about/
 http://www.oireachtas.ie/ViewDoc.asp?DocId=-1&CatID=5,http://www.oireachtas.ie/ViewDoc.asp?DocId=-1&CatID=5
 http://www.oireachtas.ie/parliament/,http://www.oireachtas.ie/parliament/
 http://www.oireachtas.ie/documents/thisweek/AppSchedule.asp,http://www.oireachtas.ie/documents/thisweek/AppSchedule.asp
-Live television,Live television
+Live television,Émissions de télévision en direct
 http://www.oireachtas.ie/ViewDoc.asp?fn=/documents/livewebcast/Web-Live.htm&CatID=83&m=o,http://www.oireachtas.ie/ViewDoc.asp?fn=/documents/livewebcast/Web-Live.htm&CatID=83&m=o
 http://www.oireachtas.ie/ViewDoc.asp?DocId=-1&CatID=130&m=o,http://www.oireachtas.ie/ViewDoc.asp?DocId=-1&CatID=130&m=o
 http://oireachtasdebates.oireachtas.ie,http://oireachtasdebates.oireachtas.ie
@@ -259,7 +264,7 @@ http://www.oireachtas.ie/parliament/watchlisten/,http://www.oireachtas.ie/parlia
 http://www.oireachtas.ie/ViewDoc.asp?DocId=-1&CatID=60&m=w,http://www.oireachtas.ie/ViewDoc.asp?DocId=-1&CatID=60&m=w
 http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/yearlist?readform&chamber=committees,http://oireachtasdebates.oireachtas.ie/debates%20authoring/debateswebpack.nsf/yearlist?readform&chamber=committees
 http://www.oireachtas.ie/parliament/oireachtasbusiness/www.oireachtas/committees/committee-reports/,http://www.oireachtas.ie/parliament/oireachtasbusiness/www.oireachtas/committees/committee-reports/
-Word document (.doc),Word document (.doc)
+Word document (.doc),document Word (.doc)
 http://www.oireachtas.ie/members-hist/default.asp,http://www.oireachtas.ie/members-hist/default.asp
 http://www.oireachtas.ie/viewdoc.asp?m=&DocID=-1&CatID=173,http://www.oireachtas.ie/viewdoc.asp?m=&DocID=-1&CatID=173
 http://www.oireachtas.ie/ViewDoc.asp?DocId=-1&CatID=169&m=m,http://www.oireachtas.ie/ViewDoc.asp?DocId=-1&CatID=169&m=m
@@ -267,29 +272,31 @@ http://www.oireachtas.ie/parliament/tdssenators/registerofmembersinterests/,http
 http://www.oireachtas.ie/parliament/oireachtasbusiness/committees_list/dailmembersinterests/,http://www.oireachtas.ie/parliament/oireachtasbusiness/committees_list/dailmembersinterests/
 http://www.oireachtas.ie/parliament/about/publications/annualaccounts/,http://www.oireachtas.ie/parliament/about/publications/annualaccounts/
 http://www.oireachtas.ie/parliament/about/administration/,http://www.oireachtas.ie/parliament/about/administration/
-South Korea,South Korea
+South Korea,Corée du Sud
 https://www.data.go.kr/#/L2NvbW0vY29tbW9uU2VhcmNoL29yZ2luRGF0YVNldCRAXjAxMiRAXm9yaWdpbmxTZXRQaz0zMDM3Mjg2,https://www.data.go.kr/#/L2NvbW0vY29tbW9uU2VhcmNoL29yZ2luRGF0YVNldCRAXjAxMiRAXm9yaWdpbmxTZXRQaz0zMDM3Mjg2
 http://korea.assembly.go.kr/,http://korea.assembly.go.kr/
-Summaries of enacted legislation,Summaries of enacted legislation
-Summaries of tabled bills,Summaries of tabled bills
-Committee information,Committee information
+Summaries of enacted legislation,Résumés de la législation promulguée
+Summaries of tabled bills,Résumés des lois déposées
+Committee information,Informations du comité
 http://likms.assembly.go.kr/bill/jsp/BillDetail.jsp?bill_id=PRC_A1Z4Z0T2V2N7T0R0Y1O5Z4A3U6R4O2,http://likms.assembly.go.kr/bill/jsp/BillDetail.jsp?bill_id=PRC_A1Z4Z0T2V2N7T0R0Y1O5Z4A3U6R4O2
 http://korea.assembly.go.kr/privacy/privacyPolicy.jsp,http://korea.assembly.go.kr/privacy/privacyPolicy.jsp
 http://korea.assembly.go.kr,http://korea.assembly.go.kr
 http://www.assembly.go.kr/assm/assemact/council/council0101/assmSchCal/assemSchCal.do,http://www.assembly.go.kr/assm/assemact/council/council0101/assmSchCal/assemSchCal.do
 TV,TV
 http://likms.assembly.go.kr/bill/jsp/LatestPassedBill.jsp,http://likms.assembly.go.kr/bill/jsp/LatestPassedBill.jsp
-Mobile device,Mobile device
+Mobile device,Dispositif mobile
 http://www.assembly.go.kr/views/cms/assm/assembly/assorgani/assorgani0301.jsp,http://www.assembly.go.kr/views/cms/assm/assembly/assorgani/assorgani0301.jsp
 http://www.assembly.go.kr/assm/assemact/council/council0102/assmSchNotice/assmSchNoticeList.do,http://www.assembly.go.kr/assm/assemact/council/council0102/assmSchNotice/assmSchNoticeList.do
 http://www.assembly.go.kr/assm/memact/congressman/memCond/memCond.do,http://www.assembly.go.kr/assm/memact/congressman/memCond/memCond.do
+the same website..,Le même site
 http://www.assembly.go.kr/assm/assemact/account/account0101/assmBudget/budgetUserList.do,http://www.assembly.go.kr/assm/assemact/account/account0101/assmBudget/budgetUserList.do
 http://www.assembly.go.kr/assm/assemact/account/account0102/assmAccount/accountUserList.do,http://www.assembly.go.kr/assm/assemact/account/account0102/assmAccount/accountUserList.do
 http://www.assembly.go.kr/views/cms/assm/assembly/assorgani/assorgani01.jsp,http://www.assembly.go.kr/views/cms/assm/assembly/assorgani/assorgani01.jsp
 http://www.assembly.go.kr/views/cms/assm/memact/chairman/chairman03.jsp,http://www.assembly.go.kr/views/cms/assm/memact/chairman/chairman03.jsp
-Israel,Israel
+Israel,Israël
 http://knesset.gov.il/rules/eng/contents.htm,http://knesset.gov.il/rules/eng/contents.htm
 http://knesset.gov.il/main/eng/home.asp,http://knesset.gov.il/main/eng/home.asp
+The main language is Hebrew. Speeches in other languages will be translated to Hebrew.,La langue principale est l'hébreu. Les discours dans d'autres langues seront traduits en hébreu.
 http://knesset.gov.il/description/eng/eng_work_org.htm,http://knesset.gov.il/description/eng/eng_work_org.htm
 http://www.knesset.gov.il/privatelaw/Plaw_display.asp?lawtp=2,http://www.knesset.gov.il/privatelaw/Plaw_display.asp?lawtp=2
 http://knesset.gov.il/description/eng/eng_work_mel2.htm,http://knesset.gov.il/description/eng/eng_work_mel2.htm
@@ -302,26 +309,30 @@ http://online.knesset.gov.il/eprotocol/PUBLIC/SearchPEOnline.aspx,http://online.
 http://main.knesset.gov.il/Activity/plenum/Pages/DivreyHaknessetMenu.aspx,http://main.knesset.gov.il/Activity/plenum/Pages/DivreyHaknessetMenu.aspx
 : http://www.knesset.gov.il/vote/heb/vote_search.asp,: http://www.knesset.gov.il/vote/heb/vote_search.asp
 http://www.knesset.gov.il/privatelaw/Plaw_display.asp?lawtp=1,http://www.knesset.gov.il/privatelaw/Plaw_display.asp?lawtp=1
+www.knesset.gov.il,www.knesset.gov.il
 http://main.knesset.gov.il/Activity/committees/Pages/default.aspx,http://main.knesset.gov.il/Activity/committees/Pages/default.aspx
-"Committee rules are part of the rules and procedures of the parliament, seen here: http://knesset.gov.il/rules/eng/contents.htm. ","Committee rules are part of the rules and procedures of the parliament, seen here: http://knesset.gov.il/rules/eng/contents.htm. "
-http://main.knesset.gov.il/News/Broadcast/Pages/CommitteeBroadcastArchive.aspx,http://main.knesset.gov.il/News/Broadcast/Pages/CommitteeBroadcastArchive.aspx
+"Committee rules are part of the rules and procedures of the parliament, seen here: http://knesset.gov.il/rules/eng/contents.htm. ","Les règles du comité font partie des règles et des procédures du parlement,voir ici: http://knesset.gov.il/rules/eng/contents.htm. "
+: http://main.knesset.gov.il/News/Broadcast/Pages/CommitteeBroadcastArchive.aspx,: http://main.knesset.gov.il/News/Broadcast/Pages/CommitteeBroadcastArchive.aspx
+: http://main.knesset.gov.il/News/Broadcast/Pages/default.aspx,: http://main.knesset.gov.il/News/Broadcast/Pages/default.aspx
+committee meetings are generally open to the public,Les réunions des comités sont généralement ouvertes au public
 http://www.knesset.gov.il/agenda/heb/today.asp?view=committee,http://www.knesset.gov.il/agenda/heb/today.asp?view=committee
 http://www.knesset.gov.il/agenda/heb/seder_vad.asp,http://www.knesset.gov.il/agenda/heb/seder_vad.asp
 http://www.knesset.gov.il/protocols/search.asp,http://www.knesset.gov.il/protocols/search.asp
-http://main.knesset.gov.il/Activity/Committees/Economics/Pages/CommiitteeReports.aspx,http://main.knesset.gov.il/Activity/Committees/Economics/Pages/CommiitteeReports.aspx
+There is no procedure of submitting evidence to the committees. Reports of papers that are submitted before a meeting will usually be open to the public on the committee website.,Il n'y a pas de procédure de présentation des preuves aux comités. Les rapports présentés avant une réunion seront généralement accessibles au public sur le site Web du comité.
+http://main.knesset.gov.il/Activity/Committees/Economics/Pages/CommiitteeReports.aspx for example. the reports are on each committee website.,http://main.knesset.gov.il/Activity/Committees/Economics/Pages/CommiitteeReports.aspx for example. the reports are on each committee website.
 http://main.knesset.gov.il/Activity/Committees/Economics/Pages/Conclusions.aspx  http://main.knesset.gov.il/Activity/committees/Education/Pages/Decisions.aspx,http://main.knesset.gov.il/Activity/Committees/Economics/Pages/Conclusions.aspx  http://main.knesset.gov.il/Activity/committees/Education/Pages/Decisions.aspx
 http://www.knesset.gov.il/mk/heb/mk.asp?ID=1,http://www.knesset.gov.il/mk/heb/mk.asp?ID=1
 http://www.knesset.gov.il/presence/heb/PresentList.aspx,http://www.knesset.gov.il/presence/heb/PresentList.aspx
 http://www.knesset.gov.il/mk/heb/mkexpenses_list.asp,http://www.knesset.gov.il/mk/heb/mkexpenses_list.asp
 http://www.knesset.gov.il/lobbyist/heb/lobbyist.aspx,http://www.knesset.gov.il/lobbyist/heb/lobbyist.aspx
-It is forbidden for MPs to be involved in comercial bodies. ,It is forbidden for MPs to be involved in comercial bodies. 
+It is forbidden for MPs to be involved in comercial bodies. ,Les membres du parlement ont interdit de participer aux organes administratifs. 
 http://www.knesset.gov.il/committees/heb/docs/hchlatot.htm,http://www.knesset.gov.il/committees/heb/docs/hchlatot.htm
 http://knesset.gov.il/laws/heb/template.asp?Type=1,http://knesset.gov.il/laws/heb/template.asp?Type=1
 http://www.knesset.gov.il/protocols/data/rtf/knesset/2014-07-28.rtf,http://www.knesset.gov.il/protocols/data/rtf/knesset/2014-07-28.rtf
 http://main.knesset.gov.il/About/Departments/Pages/default.aspx,http://main.knesset.gov.il/About/Departments/Pages/default.aspx
-Estonia,Estonia
+Estonia,Estonie
 http://www.riigikogu.ee,http://www.riigikogu.ee
-Close to real-time,Close to real-time
+Close to real-time,En temps quasi-réel
 http://www.riigikogu.ee/index.php?id=174529,http://www.riigikogu.ee/index.php?id=174529
 Email,Email
 http://www.riigikogu.ee/index.php?id=31562; in English http://www.riigikogu.ee/index.php?id=34627,http://www.riigikogu.ee/index.php?id=31562; in English http://www.riigikogu.ee/index.php?id=34627
@@ -337,60 +348,48 @@ http://www.riigikogu.ee/?sort=kp&op=ems&page=eelnou_nimekiri&tk_valik=tk_toos&pe
 http://www.riigikogu.ee/?op=ems&page=en_otsing&emshelp=true,http://www.riigikogu.ee/?op=ems&page=en_otsing&emshelp=true
 http://www.riigikogu.ee/index.php?id=169295,http://www.riigikogu.ee/index.php?id=169295
 http://www.riigikogu.ee/index.php?id=169720&parent_id=169319,http://www.riigikogu.ee/index.php?id=169720&parent_id=169319
-Live radio,Live radio
+Live radio,Radio en direct
 http://www.riigikogu.ee/index.php?id=173840,http://www.riigikogu.ee/index.php?id=173840
 http://www.riigikogu.ee/index.php?id=180793,http://www.riigikogu.ee/index.php?id=180793
+Regular calender for committee meetings,Regular calender for committee meetings
 http://www.riigikogu.ee/index.php?id=169315,http://www.riigikogu.ee/index.php?id=169315
-http://www.riigikogu.ee/index.php?op=ems&page=ikaart&pid=fe748f4d-3f50-4af8-8069-92a460978d2b&,http://www.riigikogu.ee/index.php?op=ems&page=ikaart&pid=fe748f4d-3f50-4af8-8069-92a460978d2b&
-http://www.riigikogu.ee/index.php?op=ems&page=ikaart&pid=fe748f4d-3f50-4af8-8069-92a460978d2b& ,http://www.riigikogu.ee/index.php?op=ems&page=ikaart&pid=fe748f4d-3f50-4af8-8069-92a460978d2b& 
+MP can demand to record the vote in the transcript,Le député peut exiger l'inscription du vote dans la transcription
+"Mp's profile, example: http://www.riigikogu.ee/index.php?op=ems&page=ikaart&pid=fe748f4d-3f50-4af8-8069-92a460978d2b&","Profil du député, exemple: http://www.riigikogu.ee/index.php?op=ems&page=ikaart&pid=fe748f4d-3f50-4af8-8069-92a460978d2b&"
+"MP's profile, example: http://www.riigikogu.ee/index.php?op=ems&page=ikaart&pid=fe748f4d-3f50-4af8-8069-92a460978d2b& ","Profil du député, exemple: http://www.riigikogu.ee/index.php?op=ems&page=ikaart&pid=fe748f4d-3f50-4af8-8069-92a460978d2b& "
+MP's profile,Profil du député
 http://www.emta.ee/index.php?id=12223,http://www.emta.ee/index.php?id=12223
-"Parliamentary website, in the minutes of committee meetings","Parliamentary website, in the minutes of committee meetings"
+"Parliamentary website, in the minutes of committee meetings","Site web parlementaire, dans le procès-verbal des réunions du comité"
 http://www.fin.ee/riigieelarve-2014,http://www.fin.ee/riigieelarve-2014
 http://www.riigikogu.ee/index.php?id=48913,http://www.riigikogu.ee/index.php?id=48913
 http://www.riigikogu.ee/index.php?id=31515,http://www.riigikogu.ee/index.php?id=31515
-Montenegro,Montenegro
-http://www.skupstina.me,http://www.skupstina.me
-Contextual information or reports,Contextual information or reports
-"http://www.skupstina.me/index.php/me/skupstina/o-nama/uvodna-rijec, www.skupstina.me/images/dokumenti/brosure/Nadleznosti_i_funkcije.pdf","http://www.skupstina.me/index.php/me/skupstina/o-nama/uvodna-rijec, www.skupstina.me/images/dokumenti/brosure/Nadleznosti_i_funkcije.pdf"
-http://www.skupstina.me/images/dokumenti/brosure/Nadleznosti_i_funkcije.pdf,http://www.skupstina.me/images/dokumenti/brosure/Nadleznosti_i_funkcije.pdf
-http://www.skupstina.me/images/dokumenti/Izvjestaj_o_radu_Skupstine_za_2013.godinu.pdf,http://www.skupstina.me/images/dokumenti/Izvjestaj_o_radu_Skupstine_za_2013.godinu.pdf
-http://www.skupstina.me/index.php/me/skupstina/o-nama/nadleznosti,http://www.skupstina.me/index.php/me/skupstina/o-nama/nadleznosti
+Montenegro,Monténégro
+http://skupstina.me,http://skupstina.me
+http://skupstina.me/index.php/en/skupstina/o-nama/nadleznosti,http://skupstina.me/index.php/en/skupstina/o-nama/nadleznosti
 http://skupstina.me/images/documents/rules_of_procedure_00-63-2.pdf,http://skupstina.me/images/documents/rules_of_procedure_00-63-2.pdf
-http://www.skupstina.me/index.php/me/kalendar-zasijedanja,http://www.skupstina.me/index.php/me/kalendar-zasijedanja
+http://skupstina.me/index.php/en/,http://skupstina.me/index.php/en/
 http://skupstina.me/index.php/en/sjednice/sjednice-skupstine,http://skupstina.me/index.php/en/sjednice/sjednice-skupstine
-Live radio broadcast,Live radio broadcast
+Live radio broadcast,Émissions de radio en direct
 http://skupstina.me/index.php/en/online-streaming,http://skupstina.me/index.php/en/online-streaming
-http://www.skupstina.me/index.php/me/sjednice/sjednice-skupstine,http://www.skupstina.me/index.php/me/sjednice/sjednice-skupstine
 http://192.185.34.202/~skupcg/skupstina/cms/site_data/LISTING%20GLASANJA/2014/Deseta%20%C5%9Bednica16_07_2014_/PREDLOG%20ZAKONA%20O%20PREVOZU%20OPASNIH%20MATERIJA_SVE.pdf,http://192.185.34.202/~skupcg/skupstina/cms/site_data/LISTING%20GLASANJA/2014/Deseta%20%C5%9Bednica16_07_2014_/PREDLOG%20ZAKONA%20O%20PREVOZU%20OPASNIH%20MATERIJA_SVE.pdf
-"http://www.skupstina.me/index.php/me/sjednice/sjednice-skupstine, http://192.185.34.202/~skupcg/skupstina/cms/site_data/DOC25/ZAKONI%20I%20IZVJESTAJI/260/260_0.pdf","http://www.skupstina.me/index.php/me/sjednice/sjednice-skupstine, http://192.185.34.202/~skupcg/skupstina/cms/site_data/DOC25/ZAKONI%20I%20IZVJESTAJI/260/260_0.pdf"
-http://www.skupstina.me/index.php/me/sjednice/zakoni-i-drugi-akti,http://www.skupstina.me/index.php/me/sjednice/zakoni-i-drugi-akti
-http://192.185.34.202/~skupcg/skupstina/cms/site_data/DOC25/ZAKONI%20I%20IZVJESTAJI/477/477_0.pdf,http://192.185.34.202/~skupcg/skupstina/cms/site_data/DOC25/ZAKONI%20I%20IZVJESTAJI/477/477_0.pdf
-Bulk download,Bulk download
-http://www.skupstina.me/index.php/me/administrativni-odbor/aktuelnosti,http://www.skupstina.me/index.php/me/administrativni-odbor/aktuelnosti
-Committees do not have their own rules.,Committees do not have their own rules.
+http://skupstina.me/index.php/en/sjednice/zakoni-i-drugi-akti,http://skupstina.me/index.php/en/sjednice/zakoni-i-drugi-akti
+http://skupstina.me/index.php/en/zakonodavni-odbor/o-radnom-tijelu,http://skupstina.me/index.php/en/zakonodavni-odbor/o-radnom-tijelu
+n/a,n/a
+Only Media and CSOs can observe or attend the meetings.,Only Media and CSOs can observe or attend the meetings.
 http://skupstina.me/index.php/en/component/gcalendar/gcalendar?gcids=4#year=2014&month=9&day=15&view=agendaDay,http://skupstina.me/index.php/en/component/gcalendar/gcalendar?gcids=4#year=2014&month=9&day=15&view=agendaDay
-http://www.skupstina.me/index.php/me/odbor-za-evropske-integracije/sjednice,http://www.skupstina.me/index.php/me/odbor-za-evropske-integracije/sjednice
-Verbatim committee transcripts are made upon the proposal of the chair or one-third of the committee members.,Verbatim committee transcripts are made upon the proposal of the chair or one-third of the committee members.
-Voting records are available through committee reports and minutes. ,Voting records are available through committee reports and minutes. 
-http://www.skupstina.me/index.php/me/radna-grupa-za-izgradivanje-povjerenja-u-izborni-proces/dokumenta,http://www.skupstina.me/index.php/me/radna-grupa-za-izgradivanje-povjerenja-u-izborni-proces/dokumenta
-http://www.skupstina.me/~skupcg/skupstina/cms/site_data/25%20saziv%20ODBORI/EKONOMIJA%20FINANSIJE%20/izvje%C5%A1taj1%20-%2049_%20sjednica.pdf,http://www.skupstina.me/~skupcg/skupstina/cms/site_data/25%20saziv%20ODBORI/EKONOMIJA%20FINANSIJE%20/izvje%C5%A1taj1%20-%2049_%20sjednica.pdf
-http://www.skupstina.me/~skupcg/skupstina//cms/site_data/PRVA%20SJEDNICA-Prestanak%20vazenja%20Odluke.pdf,http://www.skupstina.me/~skupcg/skupstina//cms/site_data/PRVA%20SJEDNICA-Prestanak%20vazenja%20Odluke.pdf
-http://www.skupstina.me/index.php/me/skupstina/poslanice-i-poslanici/prava-i-duznosti,http://www.skupstina.me/index.php/me/skupstina/poslanice-i-poslanici/prava-i-duznosti
-"http://www.skupstina.me/index.php/me/skupstina/poslanice-i-poslanici/lista-poslanika-i-poslanica, ","http://www.skupstina.me/index.php/me/skupstina/poslanice-i-poslanici/lista-poslanika-i-poslanica, "
-http://www.skupstina.me/index.php/me/skupstina/poslanice-i-poslanici/lista-poslanika-i-poslanica,http://www.skupstina.me/index.php/me/skupstina/poslanice-i-poslanici/lista-poslanika-i-poslanica
-Attendance recors are available through committee reports and minutes.,Attendance recors are available through committee reports and minutes.
-http://www.skupstina.me/images/dokumenti/izvjestaji/neto_zarade_poslanika_za_2013._godinu.pdf,http://www.skupstina.me/images/dokumenti/izvjestaji/neto_zarade_poslanika_za_2013._godinu.pdf
-"According to the Law on Lobbying, there is a public registry of active lobbyists.","According to the Law on Lobbying, there is a public registry of active lobbyists."
-"http://www.skupstina.me/index.php/me/skupstina/poslanice-i-poslanici/lista-poslanika-i-poslanica, e.g: http://www.konfliktinteresa.me/funkcioneri/EvidFunPrijave.php?ID=Ojg-PjU_OiY4Pz43NQ","http://www.skupstina.me/index.php/me/skupstina/poslanice-i-poslanici/lista-poslanika-i-poslanica, e.g: http://www.konfliktinteresa.me/funkcioneri/EvidFunPrijave.php?ID=Ojg-PjU_OiY4Pz43NQ"
+http://skupstina.me/index.php/en/zakonodavni-odbor/sjednice,http://skupstina.me/index.php/en/zakonodavni-odbor/sjednice
+http://skupstina.me/~skupcg/skupstina/cms/site_data/DOC25/ZAKONI%20I%20IZVJESTAJI/524/524_2.PDF,http://skupstina.me/~skupcg/skupstina/cms/site_data/DOC25/ZAKONI%20I%20IZVJESTAJI/524/524_2.PDF
+http://skupstina.me/index.php/en/zakonodavni-odbor/sastav,http://skupstina.me/index.php/en/zakonodavni-odbor/sastav
+http://skupstina.me/index.php/en/skupstina/poslanice-i-poslanici/parlamentarne-partije/30-skupstina/poslanice-i-poslanici/parlamentarne-partije/socijaldemokratska-partija-crne-gore/112-mico-orlandic,http://skupstina.me/index.php/en/skupstina/poslanice-i-poslanici/parlamentarne-partije/30-skupstina/poslanice-i-poslanici/parlamentarne-partije/socijaldemokratska-partija-crne-gore/112-mico-orlandic
 http://www.konfliktinteresa.me/new/index.php?option=com_content&view=article&id=160&Itemid=121&lang=me,http://www.konfliktinteresa.me/new/index.php?option=com_content&view=article&id=160&Itemid=121&lang=me
-http://www.skupstina.me/index.php/me/gradjani/finansije,http://www.skupstina.me/index.php/me/gradjani/finansije
-http://www.skupstina.me/index.php/me/gradjani/javne-nabavke/ugovori,http://www.skupstina.me/index.php/me/gradjani/javne-nabavke/ugovori
-http://www.skupstina.me/index.php/me/skupstina/sluzba-skupstine/opis-poslova-organizacionih-jedinica,http://www.skupstina.me/index.php/me/skupstina/sluzba-skupstine/opis-poslova-organizacionih-jedinica
-http://www.skupstina.me/index.php/me/skupstina/o-nama/kontakt-informacije,http://www.skupstina.me/index.php/me/skupstina/o-nama/kontakt-informacije
-Malaysia,Malaysia
+http://skupstina.me/images/dokumenti/pregled_stavki_po_ekonomskoj_klasifikaciji.pdf,http://skupstina.me/images/dokumenti/pregled_stavki_po_ekonomskoj_klasifikaciji.pdf
+http://skupstina.me/index.php/en/gradjani/finansije,http://skupstina.me/index.php/en/gradjani/finansije
+http://skupstina.me/index.php/en/gradjani/javne-nabavke/ugovori,http://skupstina.me/index.php/en/gradjani/javne-nabavke/ugovori
+http://skupstina.me/index.php/en/skupstina/sluzba-skupstine/o-sluzbi,http://skupstina.me/index.php/en/skupstina/sluzba-skupstine/o-sluzbi
+http://skupstina.me/index.php/en/skupstina/generalni-sekretar/kancelarija-generalnog-sekretara,http://skupstina.me/index.php/en/skupstina/generalni-sekretar/kancelarija-generalnog-sekretara
+Malaysia,Malaisie
 http://www.myipo.gov.my/hakcipta ,http://www.myipo.gov.my/hakcipta 
 http://www.parlimen.gov.my/,http://www.parlimen.gov.my/
-Weekly,Weekly
+Weekly,Chaque semaine
 http://www.parlimen.gov.my/takwim-dewan-rakyat.html?uweb=dr&,http://www.parlimen.gov.my/takwim-dewan-rakyat.html?uweb=dr&
 http://www.parlimen.gov.my/hansard-dewan-negara.html?uweb=dn&,http://www.parlimen.gov.my/hansard-dewan-negara.html?uweb=dn&
 http://www.parlimen.gov.my/bills-dewan-rakyat.html?uweb=dr&,http://www.parlimen.gov.my/bills-dewan-rakyat.html?uweb=dr&
@@ -401,6 +400,7 @@ http://www.parlimen.gov.my/akta-akta.html?uweb=dr&,http://www.parlimen.gov.my/ak
 http://www.parlimen.gov.my/peraturan-mesyuarat.html?uweb=dr&,http://www.parlimen.gov.my/peraturan-mesyuarat.html?uweb=dr&
 http://www.parlimen.gov.my/takwim-dewan-rakyat.html?uweb=dr,http://www.parlimen.gov.my/takwim-dewan-rakyat.html?uweb=dr
 http://rtmparlimen.rtm.gov.my,http://rtmparlimen.rtm.gov.my
+Some political parties provide additional on-line streaming options,Some political parties provide additional on-line streaming options
 http://www.parlimen.gov.my/pac/publications.html?,http://www.parlimen.gov.my/pac/publications.html?
 http://www.parlimen.gov.my/jawatankuasa-dr.html?uweb=dr&&view=52,http://www.parlimen.gov.my/jawatankuasa-dr.html?uweb=dr&&view=52
 http://rtmparlimen.rtm.gov.my/,http://rtmparlimen.rtm.gov.my/
@@ -410,18 +410,61 @@ http://www.parlimen.gov.my/profile-ahli.html?uweb=dr&id=3105,http://www.parlimen
 http://www.parlimen.gov.my/arkib-sebutharga-tender.html,http://www.parlimen.gov.my/arkib-sebutharga-tender.html
 http://www.parlimen.gov.my/maklumat-umum-sekretariat.html?uweb=p&,http://www.parlimen.gov.my/maklumat-umum-sekretariat.html?uweb=p&
 http://www.parlimen.gov.my/direktori-staff.html?uweb=p&,http://www.parlimen.gov.my/direktori-staff.html?uweb=p&
-Jordan,Jordan
+Jordan,Jourdain
 http://www.parliament.jo/en,http://www.parliament.jo/en
-Less than monthly,Less than monthly
+Less than monthly,Moins qu´une fois par mois
 http://www.representatives.jo/pdf/constitutions.pdf,http://www.representatives.jo/pdf/constitutions.pdf
 http://www.representatives.jo/pdf/InsideAll.pdf,http://www.representatives.jo/pdf/InsideAll.pdf
 http://www.representatives.jo/,http://www.representatives.jo/
-"yes, but they are being published after the session takes place not in advance","yes, but they are being published after the session takes place not in advance"
+"yes, but they are being published after the session takes place not in advance","oui, mais ceux-ci sont publiés après que la session a eu lieu, pas à l´avance"
 http://www.lob.jo/,http://www.lob.jo/
-Not available ,Not available 
-Committee meetings are not generally open to the public,Committee meetings are not generally open to the public
+Not available ,Pas disponible 
 http://www.representatives.jo/ar,http://www.representatives.jo/ar
-United Kingdom,United Kingdom
+www.skupstina.me,www.skupstina.me
+Contextual information or reports,Informations contextuelles ou rapports
+"www.skupstina.me/index.php/me/skupstina/o-nama/uvodna-rijec, www.skupstina.me/images/dokumenti/brosure/Nadleznosti_i_funkcije.pdf","www.skupstina.me/index.php/me/skupstina/o-nama/uvodna-rijec, www.skupstina.me/images/dokumenti/brosure/Nadleznosti_i_funkcije.pdf"
+www.skupstina.me/images/dokumenti/brosure/Nadleznosti_i_funkcije.pdf,www.skupstina.me/images/dokumenti/brosure/Nadleznosti_i_funkcije.pdf
+www.skupstina.me/images/dokumenti/Izvjestaj_o_radu_Skupstine_za_2013.godinu.pdf,www.skupstina.me/images/dokumenti/Izvjestaj_o_radu_Skupstine_za_2013.godinu.pdf
+www.skupstina.me/index.php/me/skupstina/o-nama/nadleznosti,www.skupstina.me/index.php/me/skupstina/o-nama/nadleznosti
+www.skupstina.me/images/dokumenti/Poslovnik_Skupstine_Crne_Gore_2014.pdf,www.skupstina.me/images/dokumenti/Poslovnik_Skupstine_Crne_Gore_2014.pdf
+www.skupstina.me/index.php/me/kalendar-zasijedanja,www.skupstina.me/index.php/me/kalendar-zasijedanja
+"www.skupstina.me/index.php/me/sjednice/sjednice-skupstine, www.skupstina.me/~skupcg/skupstina/cms/site_data/2014%20PLENUM/prvo%20redovno%20proljecnje%20zasijedanje%20u%202014/druga%20sjednica%20proljecnjeg%20zasijedanja.pdf, http://192.185.34.202/~skupcg/skupstina/cms/site_data/LISTING%20GLASANJA/2014/Druga%20sjednica%20prvog%20redovnog12_03_2014_/FISKALNOJ.pdf","www.skupstina.me/index.php/me/sjednice/sjednice-skupstine, www.skupstina.me/~skupcg/skupstina/cms/site_data/2014%20PLENUM/prvo%20redovno%20proljecnje%20zasijedanje%20u%202014/druga%20sjednica%20proljecnjeg%20zasijedanja.pdf, http://192.185.34.202/~skupcg/skupstina/cms/site_data/LISTING%20GLASANJA/2014/Druga%20sjednica%20prvog%20redovnog12_03_2014_/FISKALNOJ.pdf"
+As soon as they are established,Dès qu'ils sont établis
+Parliament's Youtube channel,La chaîne Youtube du Parlement
+"www.skupstina.me/index.php/me/sjednice/sjednice-skupstine, http://www.skupstina.me/~skupcg/skupstina/cms/site_data/2014%20PLENUM/2_sj_fono_2014.pdf","www.skupstina.me/index.php/me/sjednice/sjednice-skupstine, http://www.skupstina.me/~skupcg/skupstina/cms/site_data/2014%20PLENUM/2_sj_fono_2014.pdf"
+e.g: http://192.185.34.202/~skupcg/skupstina/cms/site_data/LISTING%20GLASANJA/2014/Druga%20sjednica%20prvog%20redovnog12_03_2014_/FISKALNOJ.pdf,e.g: http://192.185.34.202/~skupcg/skupstina/cms/site_data/LISTING%20GLASANJA/2014/Druga%20sjednica%20prvog%20redovnog12_03_2014_/FISKALNOJ.pdf
+All voting records with individual names and vote taken are publicly available and linked to the piece of legislation and/or amendment in question.,Tous les dossiers électoraux portant les noms individuels et les votes votés sont accessibles au public et liés à la mesure législative et / ou à l'amendement en question.
+"e.g:http://www.skupstina.me/index.php/me/sjednice/sjednice-skupstine, http://192.185.34.202/~skupcg/skupstina/cms/site_data/DOC25/ZAKONI%20I%20IZVJESTAJI/260/260_0.pdf","e.g:http://www.skupstina.me/index.php/me/sjednice/sjednice-skupstine, http://192.185.34.202/~skupcg/skupstina/cms/site_data/DOC25/ZAKONI%20I%20IZVJESTAJI/260/260_0.pdf"
+e.g: http://www.skupstina.me/index.php/me/sjednice/sjednice-skupstine,e.g: http://www.skupstina.me/index.php/me/sjednice/sjednice-skupstine
+http://www.skupstina.me/index.php/me/sjednice/zakoni-i-drugi-akti,http://www.skupstina.me/index.php/me/sjednice/zakoni-i-drugi-akti
+e.g: http://192.185.34.202/~skupcg/skupstina/cms/site_data/DOC25/ZAKONI%20I%20IZVJESTAJI/477/477_0.pdf,e.g: http://192.185.34.202/~skupcg/skupstina/cms/site_data/DOC25/ZAKONI%20I%20IZVJESTAJI/477/477_0.pdf
+Bulk download,Téléchargement en masse
+"http://www.skupstina.me/index.php/me/administrativni-odbor/aktuelnosti, http://www.skupstina.me/images/dokumenti/brosure/Odbori.pdf, ","http://www.skupstina.me/index.php/me/administrativni-odbor/aktuelnosti, http://www.skupstina.me/images/dokumenti/brosure/Odbori.pdf, "
+Committees do not have their own rules.,Les comités n´ont pas leur propres règles.
+"Committee meetings are open to the media and to the persons invited by the committee, as specified in the Rules of Procedure. ","Les réunions du Comité sont ouvertes aux médias et aux personnes invitées par le Comité, comme spécifié dans le Règlement Intérieur."
+Committees have annual plans of work that also include quarterly schedules.,Les comités ont des plans de travail annuels qui incluent également des calendriers trimestriels.
+As soon as they are established.,Dès qu'ils sont établis.
+e.g: http://www.skupstina.me/index.php/me/odbor-za-evropske-integracije/sjednice,e.g: http://www.skupstina.me/index.php/me/odbor-za-evropske-integracije/sjednice
+As soon as the agenda is established.,Dès que l'ordre du jour est établi.
+"Verbatim committee transcripts are made upon the proposal of the chair or one-third of the committee members. As a rule, verbatim transcripts are made for all control hearings that committee have held.","Les transcriptions des comités verbaux sont faites sur proposition du président ou d'un tiers des membres du comité. En règle générale, les transcriptions verbatim sont faites pour toutes les audiences de contrôle que le comité a tenu."
+"Yes, through committee reports and minutes","Oui, dans les rapports et procès-verbaux des comités"
+http://www.skupstina.me/index.php/me/radna-grupa-za-izgradivanje-povjerenja-u-izborni-proces/dokumenta,http://www.skupstina.me/index.php/me/radna-grupa-za-izgradivanje-povjerenja-u-izborni-proces/dokumenta
+e.g: http://www.skupstina.me/~skupcg/skupstina/cms/site_data/25%20saziv%20ODBORI/EKONOMIJA%20FINANSIJE%20/izvje%C5%A1taj1%20-%2049_%20sjednica.pdf,e.g: http://www.skupstina.me/~skupcg/skupstina/cms/site_data/25%20saziv%20ODBORI/EKONOMIJA%20FINANSIJE%20/izvje%C5%A1taj1%20-%2049_%20sjednica.pdf
+e.g: http://www.skupstina.me/~skupcg/skupstina//cms/site_data/PRVA%20SJEDNICA-Prestanak%20vazenja%20Odluke.pdf,e.g: http://www.skupstina.me/~skupcg/skupstina//cms/site_data/PRVA%20SJEDNICA-Prestanak%20vazenja%20Odluke.pdf
+http://www.skupstina.me/index.php/me/skupstina/poslanice-i-poslanici/prava-i-duznosti,http://www.skupstina.me/index.php/me/skupstina/poslanice-i-poslanici/prava-i-duznosti
+"http://www.skupstina.me/index.php/me/skupstina/poslanice-i-poslanici/lista-poslanika-i-poslanica, ","http://www.skupstina.me/index.php/me/skupstina/poslanice-i-poslanici/lista-poslanika-i-poslanica, "
+http://www.skupstina.me/index.php/me/skupstina/poslanice-i-poslanici/lista-poslanika-i-poslanica,http://www.skupstina.me/index.php/me/skupstina/poslanice-i-poslanici/lista-poslanika-i-poslanica
+N/A,N/A
+http://www.skupstina.me/images/dokumenti/izvjestaji/neto_zarade_poslanika_za_2013._godinu.pdf,http://www.skupstina.me/images/dokumenti/izvjestaji/neto_zarade_poslanika_za_2013._godinu.pdf
+"According to the Law on Lobbying, registry lists of active lobbyists are public.","Selon la loi sur le lobbying, les listes de registres des lobbyistes actifs sont publiques."
+"http://www.skupstina.me/index.php/me/skupstina/poslanice-i-poslanici/lista-poslanika-i-poslanica, e.g: http://www.konfliktinteresa.me/funkcioneri/EvidFunPrijave.php?ID=Ojg-PjU_OiY4Pz43NQ","http://www.skupstina.me/index.php/me/skupstina/poslanice-i-poslanici/lista-poslanika-i-poslanica, e.g: http://www.konfliktinteresa.me/funkcioneri/EvidFunPrijave.php?ID=Ojg-PjU_OiY4Pz43NQ"
+"According to the Law on prevention of conflict of interests, public official including MPs may not be the president or member of a management body nor supervisory body,  executive director, member of management of the public company, public institution or other legal entity.","Conformément à la loi sur la prévention des conflits d'intérêts, le fonctionnaire public, y compris les députés, ne peut être président ni membre d'un organe de direction ni d'un organe de surveillance, d'un directeur général, d'un membre de la direction d'une société ouverte, d'une institution publique ou d'une autre entité juridique."
+Draft Code of Ethics envisages that the results of internal parliamentary investigations are public.,Le projet de code de déontologie prévoit que les résultats des enquêtes parlementaires internes sont publics.
+http://www.skupstina.me/index.php/me/gradjani/finansije,http://www.skupstina.me/index.php/me/gradjani/finansije
+http://www.skupstina.me/index.php/me/gradjani/javne-nabavke/ugovori,http://www.skupstina.me/index.php/me/gradjani/javne-nabavke/ugovori
+http://www.skupstina.me/index.php/me/skupstina/sluzba-skupstine/opis-poslova-organizacionih-jedinica,http://www.skupstina.me/index.php/me/skupstina/sluzba-skupstine/opis-poslova-organizacionih-jedinica
+http://www.skupstina.me/index.php/me/skupstina/o-nama/kontakt-informacije,http://www.skupstina.me/index.php/me/skupstina/o-nama/kontakt-informacije
+United Kingdom,Royaume-Uni
 http://www.parliament.uk/site-information/copyright/open-parliament-licence/ ,http://www.parliament.uk/site-information/copyright/open-parliament-licence/ 
 http://www.parliament.uk/,http://www.parliament.uk/
 http://www.parliament.uk/about/,http://www.parliament.uk/about/
@@ -430,7 +473,7 @@ http://www.legislation.gov.uk/ukpga/2014/27/notes/contents,http://www.legislatio
 http://www.publications.parliament.uk/pa/bills/lbill/2014-2015/0001/en/15001en.htm,http://www.publications.parliament.uk/pa/bills/lbill/2014-2015/0001/en/15001en.htm
 http://www.parliament.uk/business/publications/research/,http://www.parliament.uk/business/publications/research/
 http://www.parliament.uk/site-information/using-this-website/privacy-policy/,http://www.parliament.uk/site-information/using-this-website/privacy-policy/
-SMS or mobile technology,SMS or mobile technology
+SMS or mobile technology,SMS ou technologie mobile
 http://www.parliament.uk/about/how/role/,http://www.parliament.uk/about/how/role/
 http://www.parliament.uk/about/how/role/customs/,http://www.parliament.uk/about/how/role/customs/
 http://services.parliament.uk/calendar/,http://services.parliament.uk/calendar/
@@ -440,35 +483,47 @@ http://www.parliament.uk/business/publications/hansard/commons/,http://www.parli
 http://www.data.parliament.uk/about,http://www.data.parliament.uk/about
 http://www.data.parliament.uk/about as referred to in q51,http://www.data.parliament.uk/about as referred to in q51
 http://services.parliament.uk/bills/2014-15/seriouscrime/documents.html,http://services.parliament.uk/bills/2014-15/seriouscrime/documents.html
-See for example http://services.parliament.uk/bills/2014-15/seriouscrime.html,See for example http://services.parliament.uk/bills/2014-15/seriouscrime.html
-The government maintains a database of all legislation: http://www.legislation.gov.uk/. ,The government maintains a database of all legislation: http://www.legislation.gov.uk/. 
-http://www.parliament.uk/business/committees/committees-a-z/commons-select/home-affairs-committee/publications; http://www.parliament.uk/about/how/publications/government/,http://www.parliament.uk/business/committees/committees-a-z/commons-select/home-affairs-committee/publications; http://www.parliament.uk/about/how/publications/government/
-Excel or CSV,Excel or CSV
+See for example http://services.parliament.uk/bills/2014-15/seriouscrime.html,Voir par exemple  http://services.parliament.uk/bills/2014-15/seriouscrime.html
+The government maintains a database of all legislation: http://www.legislation.gov.uk/. ,Le gouvernement maintien une base de données de toute la législation: http://www.legislation.gov.uk/. 
+"This is a very complex area!  Oral and written evidence to Committees is published on the Committee's pages: e.g. http://www.parliament.uk/business/committees/committees-a-z/commons-select/home-affairs-committee/publications.  Command Papers are the collective name given to different types of papers prepared by the Government and presented to Parliament with the words ""presented to Parliament by command of His/Her Majesty"". The following documents are all types of Command Paper: Treaties, some White papers, some Green Papers, some Government replies to Select Committee reports, reports of Royal Commissions, reports of some major committees of inquiry, annual reports and statistics of certain bodies (judicial, penal, immigration).  These are published by Government rather than Parliament: https://www.gov.uk/government/publications and use ""official document status"" filter on LH side of page.  Also available for public inspection in Parliament.  For further info see http://www.parliament.uk/about/how/publications/government/ ","This is a very complex area!  Oral and written evidence to Committees is published on the Committee's pages: e.g. http://www.parliament.uk/business/committees/committees-a-z/commons-select/home-affairs-committee/publications.  Command Papers are the collective name given to different types of papers prepared by the Government and presented to Parliament with the words ""presented to Parliament by command of His/Her Majesty"". The following documents are all types of Command Paper: Treaties, some White papers, some Green Papers, some Government replies to Select Committee reports, reports of Royal Commissions, reports of some major committees of inquiry, annual reports and statistics of certain bodies (judicial, penal, immigration).  These are published by Government rather than Parliament: https://www.gov.uk/government/publications and use ""official document status"" filter on LH side of page.  Also available for public inspection in Parliament.  For further info see http://www.parliament.uk/about/how/publications/government/ "
+Excel or CSV,Excel ou CSV
 http://www.parliament.uk/about/how/committees/,http://www.parliament.uk/about/how/committees/
 http://www.publications.parliament.uk/pa/cm200102/cmstords/27519.htm,http://www.publications.parliament.uk/pa/cm200102/cmstords/27519.htm
-"Committee deliberation is typically conducted in private, though evidence hearings are generally public.","Committee deliberation is typically conducted in private, though evidence hearings are generally public."
+"Deliberation generally in private, evidence hearings generally in public","Délibération en général en privé, auditions de preuves généralement en public"
+At present broadcasting facilities are limited meaning that it is not possible to provide a broadcast quality feed of all committees simultaneously,"À l'heure actuelle, les installations de radiodiffusion sont limitées, ce qui signifie qu'il n'est pas possible de fournir simultanément un service de qualité pour la radiodiffusion de tous les comités"
 http://www.parliament.uk/business/committees/hoc-news3/,http://www.parliament.uk/business/committees/hoc-news3/
-http://www.parliament.uk/business/committees/committees-a-z/commons-select/defence-committee/,http://www.parliament.uk/business/committees/committees-a-z/commons-select/defence-committee/
-http://www.parliament.uk/business/committees/committees-a-z/commons-select/defence-committee/publications/,http://www.parliament.uk/business/committees/committees-a-z/commons-select/defence-committee/publications/
-http://www.parliament.uk/business/committees/committees-a-z/commons-select/defence-committee/publications,http://www.parliament.uk/business/committees/committees-a-z/commons-select/defence-committee/publications
+Via House of Commons Information Office,Par l'intermédiaire du Bureau d'information de la Chambre des communes
+Depends on the committee and the circumstances.  Often meetings are arranged at short notice in response to developments in the news,"Cela dépend du comité et des circonstances. Souvent, les réunions sont organisées à brève échéance en réponse à l'évolution des nouvelles"
+Via Committee website e.g. http://www.parliament.uk/business/committees/committees-a-z/commons-select/defence-committee/,Via Committee website e.g. http://www.parliament.uk/business/committees/committees-a-z/commons-select/defence-committee/
+Through HCIO or Committee staff,Par le personnel du HCIO ou du Comité
+See response to 68 above,Voir la réponse au point 68 ci-dessus
+Via website e.g. http://www.parliament.uk/business/committees/committees-a-z/commons-select/defence-committee/publications/,Via website e.g. http://www.parliament.uk/business/committees/committees-a-z/commons-select/defence-committee/publications/
+Via Parliamentary Archives,Par l'intermédiaire des archives parlementaires
+Via website e.g. http://www.parliament.uk/business/committees/committees-a-z/commons-select/defence-committee/publications,Via website e.g. http://www.parliament.uk/business/committees/committees-a-z/commons-select/defence-committee/publications
+Via Parliamentary Archives or HCIO,Par l'intermédiaire des archives parlementaires ou du HCIO
+Via TSO or to inspect in person at the Parliamentary Archives,Via TSO ou à inspecter en personne aux Archives parlementaires
+"These appear in the Committee's formal minutes, available via the Committee publications web pages","Celles-ci figurent dans le procès-verbal formel du Comité, disponible sur les pages web des publications du Comité"
 http://www.parliament.uk/mps-lords-and-offices/,http://www.parliament.uk/mps-lords-and-offices/
-"Attendance is not kept in the House of Commons, only roll call voting records.","Attendance is not kept in the House of Commons, only roll call voting records."
+Various paid-for digests,Diverses recettes payées
+Via HCIO,Via HCIO
+"Attendance is not kept in the House of Commons, only roll call voting records.","La présence n'est pas conservée à la Chambre des communes, mais seulement les dossiers de vote par appel nominal."
 http://www.publications.parliament.uk/pa/cm/cmsesret.htm,http://www.publications.parliament.uk/pa/cm/cmsesret.htm
+Published by TSO,Publié par TSO
 http://parliamentarystandards.org.uk/Pages/default.aspx,http://parliamentarystandards.org.uk/Pages/default.aspx
-Legislation to establish a register of lobbyists has just been passed: http://www.legislation.gov.uk/ukpga/2014/4/notes/division/2.,Legislation to establish a register of lobbyists has just been passed: http://www.legislation.gov.uk/ukpga/2014/4/notes/division/2.
+Legislation to establish a register of lobbyists has just been passed: http://www.legislation.gov.uk/ukpga/2014/4/notes/division/2.,La législation visant à établir un registre des lobbyistes vient d´être approuvée: http://www.legislation.gov.uk/ukpga/2014/4/notes/division/2.
 http://www.publications.parliament.uk/pa/cm/cmregmem/contents1415.htm,http://www.publications.parliament.uk/pa/cm/cmregmem/contents1415.htm
-Board participation is only disclosed if that activity is remunerated.,Board participation is only disclosed if that activity is remunerated.
+Board participation is only disclosed if that activity is remunerated.,La participation au conseil est rendue publique uniquement s´il s´agit d´une activité qui est rémunérée.
 http://www.parliament.uk/business/committees/committees-a-z/commons-select/standards/,http://www.parliament.uk/business/committees/committees-a-z/commons-select/standards/
 http://www.parliament.uk/business/publications/commons/resource-accounts/,http://www.parliament.uk/business/publications/commons/resource-accounts/
 http://www.parliament.uk/mps-lords-and-offices/offices/commons/csd/,http://www.parliament.uk/mps-lords-and-offices/offices/commons/csd/
 http://www.parliament.uk/mps-lords-and-offices/offices/commons/management-board/management-board-publications1/annual-business-plans/,http://www.parliament.uk/mps-lords-and-offices/offices/commons/management-board/management-board-publications1/annual-business-plans/
-Macedonia,Macedonia
+Macedonia,Macédoine
 http://www.sobranie.mk/sessiondetailsrabotni.nspx?sessionDetailsId=f1e02155-1b24-4307-9a5f-3107e636a366,http://www.sobranie.mk/sessiondetailsrabotni.nspx?sessionDetailsId=f1e02155-1b24-4307-9a5f-3107e636a366
 http://www.sobranie.mk/home-en.nspx,http://www.sobranie.mk/home-en.nspx
-"Yes, in person observers at the parliament are provided with interpretation","Yes, in person observers at the parliament are provided with interpretation"
-"Yes, with all languages made available in near real time","Yes, with all languages made available in near real time"
-Committee agendas,Committee agendas
-Committee voting records,Committee voting records
+"Yes, in person observers at the parliament are provided with interpretation","Oui, le service d´interprétation est fourni aux observateurs qui sont présents en personne dans le parlement "
+"Yes, with all languages made available in near real time","Oui, avec toutes les langues rendues disponibles en temps quasi réel"
+Committee agendas,Calendriers du comité
+Committee voting records,Relevés de votes du comité
 http://www.sobranie.mk/home-al.nspx,http://www.sobranie.mk/home-al.nspx
 http://www.sobranie.mk/agjenda-ditore-2014-ns_article-seanca-nr-17-e-kuvendit-te-republikes-se-maqedonise.nspx,http://www.sobranie.mk/agjenda-ditore-2014-ns_article-seanca-nr-17-e-kuvendit-te-republikes-se-maqedonise.nspx
 http://www.sobranie.mk/agjenda-ditore-2014-ns_article-mbledhja-nr-4-e-komisionit-per-mundesi-te-barabarta-te-femrave-dhe-meshkujve.nspx,http://www.sobranie.mk/agjenda-ditore-2014-ns_article-mbledhja-nr-4-e-komisionit-per-mundesi-te-barabarta-te-femrave-dhe-meshkujve.nspx
@@ -478,7 +533,7 @@ http://www.sobranie.mk/trupat-punues-2014-2018.nspx,http://www.sobranie.mk/trupa
 http://www.sobranie.mk/grupe-parlamentare-p-r-bashk-punim.nspx,http://www.sobranie.mk/grupe-parlamentare-p-r-bashk-punim.nspx
 http://www.sobranie.mk/kompetencat-e-kuvendit.nspx,http://www.sobranie.mk/kompetencat-e-kuvendit.nspx
 http://www.sobranie.mk/procedura-ligjv-n-se.nspx,http://www.sobranie.mk/procedura-ligjv-n-se.nspx
-Informator on dayly activities conducted recieved by e mail.,Informator on dayly activities conducted recieved by e mail.
+Informator on dayly activities conducted recieved by e mail.,informations sur les activités quotidiennes qui sont menées sont envoyées par e-mail
 http://www.sobranie.mk/competencies.nspx,http://www.sobranie.mk/competencies.nspx
 http://www.sobranie.mk/rules-procedures-of-the-assembly.nspx,http://www.sobranie.mk/rules-procedures-of-the-assembly.nspx
 http://www.sobranie.mk/pocetna.nspx,http://www.sobranie.mk/pocetna.nspx
@@ -487,15 +542,16 @@ http://www.sobranie.mk/prenos-od-sednica.nspx,http://www.sobranie.mk/prenos-od-s
 http://www.sobranie.mk/sessiondetails.nspx?sessionDetailsId=0d58bea1-56e2-4168-824c-fd1db540f3b7,http://www.sobranie.mk/sessiondetails.nspx?sessionDetailsId=0d58bea1-56e2-4168-824c-fd1db540f3b7
 http://www.sobranie.mk/materijali.nspx,http://www.sobranie.mk/materijali.nspx
 http://www.sobranie.mk/rabotni-tela-2014-2018-ns_article-komisija-za-finansiranje-i-budzet-2014.nspx,http://www.sobranie.mk/rabotni-tela-2014-2018-ns_article-komisija-za-finansiranje-i-budzet-2014.nspx
+committee shedule is available one week in advance on http://www.sobranie.mk/pocetna.nspx,committee shedule is available one week in advance on http://www.sobranie.mk/pocetna.nspx
 http://www.sobranie.mk/sessiondetailsrabotni.nspx?sessionDetailsId=5d8464b8-12ab-4e71-81bd-dc592d809517&date=15.10.2014,http://www.sobranie.mk/sessiondetailsrabotni.nspx?sessionDetailsId=5d8464b8-12ab-4e71-81bd-dc592d809517&date=15.10.2014
 http://www.sobranie.mk/rabotni-tela-2014-2018-ns_article-komisija-za-ustavni-prashanja-2014.nspx,http://www.sobranie.mk/rabotni-tela-2014-2018-ns_article-komisija-za-ustavni-prashanja-2014.nspx
 http://www.sobranie.mk/current-structure-2014-2018.nspx,http://www.sobranie.mk/current-structure-2014-2018.nspx
 http://www.dksk.org.mk/imoti_2/,http://www.dksk.org.mk/imoti_2/
-It is forbidden for MPs to be involved in comercial bodies.,It is forbidden for MPs to be involved in comercial bodies.
+It is forbidden for MPs to be involved in comercial bodies.,Les membres du parlement ont interdit de participer aux organes administratifs.
 http://slvesnik.com.mk/,http://slvesnik.com.mk/
 https://e-nabavki.gov.mk/PublicAccess/Home.aspx#/home,https://e-nabavki.gov.mk/PublicAccess/Home.aspx#/home
 http://www.sobranie.mk/organizacija-na-sluzbata-na-sobranieto.nspx,http://www.sobranie.mk/organizacija-na-sluzbata-na-sobranieto.nspx
-Greece,Greece
+Greece,Grèce
 http://www.hellenicparliament.gr/,http://www.hellenicparliament.gr/
 http://www.hellenicparliament.gr/Vouli-ton-Ellinon/To-Politevma/Syntagma/,http://www.hellenicparliament.gr/Vouli-ton-Ellinon/To-Politevma/Syntagma/
 http://www.hellenicparliament.gr/Vouli-ton-Ellinon/Kanonismos-tis-Voulis/,http://www.hellenicparliament.gr/Vouli-ton-Ellinon/Kanonismos-tis-Voulis/
@@ -506,13 +562,16 @@ http://www.hellenicparliament.gr/Praktika/Synedriaseis-Olomeleias,http://www.hel
 http://www.hellenicparliament.gr/Nomothetiko-Ergo/Psifisthenta-Nomoschedia,http://www.hellenicparliament.gr/Nomothetiko-Ergo/Psifisthenta-Nomoschedia
 http://www.hellenicparliament.gr/Nomothetiko-Ergo/Anazitisi-Nomothetikou-Ergou?type=0_0_1_0_0,http://www.hellenicparliament.gr/Nomothetiko-Ergo/Anazitisi-Nomothetikou-Ergou?type=0_0_1_0_0
 http://www.hellenicparliament.gr/Vouli-ton-Ellinon/Kanonismos-tis-Voulis/article-32/,http://www.hellenicparliament.gr/Vouli-ton-Ellinon/Kanonismos-tis-Voulis/article-32/
+"Yes, if reporters do so. The weekly programme doesn't state if the meeting is in private, but reportes do know by experience.","Oui, si les journalistes le font. Le programme hebdomadaire n'indique pas si la réunion est en privé, mais les rapports le savent par expérience."
 http://www.hellenicparliament.gr/Praktika/Optiko-akoustiko-yliko-synedriaseon-Koinovouleftikon-Epitropon,http://www.hellenicparliament.gr/Praktika/Optiko-akoustiko-yliko-synedriaseon-Koinovouleftikon-Epitropon
 http://www.hellenicparliament.gr/Koinovouleftikes-Epitropes/Evdomadiaio-Deltio,http://www.hellenicparliament.gr/Koinovouleftikes-Epitropes/Evdomadiaio-Deltio
+on each bill that they apply,on each bill that they apply
+on each bill's page that apply,on each bill's page that apply
 http://www.hellenicparliament.gr/Koinovouleftikes-Epitropes/Katigories,http://www.hellenicparliament.gr/Koinovouleftikes-Epitropes/Katigories
 http://www.hellenicparliament.gr/Vouleftes/Ana-Koinovouleftiki-Omada/,http://www.hellenicparliament.gr/Vouleftes/Ana-Koinovouleftiki-Omada/
 http://www.hellenicparliament.gr/Vouleftes/Viografika-Stoicheia/,http://www.hellenicparliament.gr/Vouleftes/Viografika-Stoicheia/
 http://diafaneia.hellenicparliament.gr/,http://diafaneia.hellenicparliament.gr/
-Chile,Chile
+Chile,Chili
 http://www.senado.cl/datos-abiertos-legislativos/prontus_senado/2012-11-27/154842.html,http://www.senado.cl/datos-abiertos-legislativos/prontus_senado/2012-11-27/154842.html
 http://www.senado.cl/,http://www.senado.cl/
 http://www.senado.cl/funciones-del-senado/prontus_senado/2012-11-07/100615.html,http://www.senado.cl/funciones-del-senado/prontus_senado/2012-11-07/100615.html
@@ -534,7 +593,7 @@ http://www.senado.cl/prontus_senado/site/edic/base/port/ley_lobby.html,http://ww
 http://www.senado.cl/resoluciones-comision-de-etica-y-transparencia/prontus_senado/2012-11-20/231100.html,http://www.senado.cl/resoluciones-comision-de-etica-y-transparencia/prontus_senado/2012-11-20/231100.html
 http://www.senado.cl/prontus_senado/site/edic/base/port/transparencia.html,http://www.senado.cl/prontus_senado/site/edic/base/port/transparencia.html
 http://www.senado.cl/prontus_senado/site/artic/20140915/asocfile/20140915111845/publicaci__n_ejecuci__n_presupuesto_2014_a_agosto.pdf,http://www.senado.cl/prontus_senado/site/artic/20140915/asocfile/20140915111845/publicaci__n_ejecuci__n_presupuesto_2014_a_agosto.pdf
-Spain,Spain
+Spain,Espagne
 http://www.congreso.es/portal/page/portal/Congreso/Congreso/Hist_Normas/Norm/Reglam,http://www.congreso.es/portal/page/portal/Congreso/Congreso/Hist_Normas/Norm/Reglam
 http://www.congreso.es/portal/page/portal/Congreso/Congreso/Actualidad/Votaciones,http://www.congreso.es/portal/page/portal/Congreso/Congreso/Actualidad/Votaciones
 http://www.congreso.es/portal/page/portal/Congreso/Congreso/Publicaciones/Aviso_Legal,http://www.congreso.es/portal/page/portal/Congreso/Congreso/Publicaciones/Aviso_Legal
@@ -552,11 +611,14 @@ http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/HistEmisi
 http://www.congreso.es/portal/page/portal/2BB9F823FB96506EE043AC1A8003506E,http://www.congreso.es/portal/page/portal/2BB9F823FB96506EE043AC1A8003506E
 http://www.congreso.es/portal/page/portal/Congreso/Congreso/Actualidad/ConOrdDia/ConOrdDiaCom,http://www.congreso.es/portal/page/portal/Congreso/Congreso/Actualidad/ConOrdDia/ConOrdDiaCom
 http://www.congreso.es/portal/page/portal/Congreso/Congreso/Intervenciones/Busqueda%20avanzada,http://www.congreso.es/portal/page/portal/Congreso/Congreso/Intervenciones/Busqueda%20avanzada
-http://www.congreso.es/portal/page/portal/Congreso/Congreso/Organos/Comision ,http://www.congreso.es/portal/page/portal/Congreso/Congreso/Organos/Comision 
+"Yes, but you have to look for them in the committee session transcripts","Oui, mais vous devez les chercher dans les transcriptions de la séance du comité"
+"I don't know if the complete version is online, but there are reports available here: http://www.congreso.es/portal/page/portal/Congreso/Congreso/Iniciativas/Busqueda%20Avanzada","I don't know if the complete version is online, but there are reports available here: http://www.congreso.es/portal/page/portal/Congreso/Congreso/Iniciativas/Busqueda%20Avanzada"
+"Members' roles are not online, but committee memberships are. http://www.congreso.es/portal/page/portal/Congreso/Congreso/Organos/Comision ","Members' roles are not online, but committee memberships are. http://www.congreso.es/portal/page/portal/Congreso/Congreso/Organos/Comision "
 http://www.congreso.es/portal/page/portal/Congreso/Congreso/Diputados,http://www.congreso.es/portal/page/portal/Congreso/Congreso/Diputados
+"Yes, but they try if they want to show their contact information: http://www.congreso.es/portal/page/portal/Congreso/Congreso/Diputados","Yes, but they try if they want to show their contact information: http://www.congreso.es/portal/page/portal/Congreso/Congreso/Diputados"
 http://www.congreso.es/portal/page/portal/Congreso/Congreso/Informacion/Presupuesto,http://www.congreso.es/portal/page/portal/Congreso/Congreso/Informacion/Presupuesto
 http://www.congreso.es/portal/page/portal/Congreso/Congreso/Informacion/PerfilcontratanteCong,http://www.congreso.es/portal/page/portal/Congreso/Congreso/Informacion/PerfilcontratanteCong
-Italy,Italy
+Italy,Italie
 http://data.camera.it/data/en/,http://data.camera.it/data/en/
 Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0),Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
 http://www.camera.it,http://www.camera.it
@@ -586,14 +648,14 @@ http://www.camera.it/application/xmanager/projects/Leg17/file/conoscere_la_camer
 http://www.camera.it/leg17/369?conoscerelacamera=85,http://www.camera.it/leg17/369?conoscerelacamera=85
 Kosovo,Kosovo
 http://www.assembly-kosova.org,http://www.assembly-kosova.org
-"Yes, those observing via radio, television, internet, or other service are provided with interpretation","Yes, those observing via radio, television, internet, or other service are provided with interpretation"
-"Yes, using SMS or mobile technology","Yes, using SMS or mobile technology"
+"Yes, those observing via radio, television, internet, or other service are provided with interpretation","Oui, l´interprétation est fournie à ceux qui suivent les sessions par l´intermédiaire de la radio, la télévision, l´internet ou un service différent"
+"Yes, using SMS or mobile technology","Oui, utilisant les SMS ou bien une technologie mobile"
 http://http://www.assembly-kosova.org,http://http://www.assembly-kosova.org
 http://http://www.assembly-kosova.org/,http://http://www.assembly-kosova.org/
 http://www.assembly-kosova.org ,http://www.assembly-kosova.org 
-Asset declarations are published online by the government anticorruption agency.,Asset declarations are published online by the government anticorruption agency.
-other webiste,other webiste
-Croatia,Croatia
+Asset declarations are published online by the government anticorruption agency.,Les déclarations de patrimoine sont publiés en ligne par l´agence anti-corruption du gouvernement.
+other webiste,Autre site web
+Croatia,Croatie
 http://www.sabor.hr/Default.aspx?sec=734,http://www.sabor.hr/Default.aspx?sec=734
 http://narodne-novine.nn.hr/clanci/sluzbeni/2013_02_25_403.html,http://narodne-novine.nn.hr/clanci/sluzbeni/2013_02_25_403.html
 http://www.sabor.hr/Default.aspx?art=12571&re=13642&sec=1063,http://www.sabor.hr/Default.aspx?art=12571&re=13642&sec=1063
@@ -606,17 +668,21 @@ http://www.sabor.hr/noviakti,http://www.sabor.hr/noviakti
 http://www.sabor.hr/noviakti; http://www.sabor.hr/Default.aspx?sec=4605;,http://www.sabor.hr/noviakti; http://www.sabor.hr/Default.aspx?sec=4605;
 https://infodok.sabor.hr/AktiFrm.aspx,https://infodok.sabor.hr/AktiFrm.aspx
 http://www.sabor.hr/Default.aspx?sec=2141,http://www.sabor.hr/Default.aspx?sec=2141
-There are not internal committee rules.,There are not internal committee rules.
-Prior approval is required to attend meetings. ,Prior approval is required to attend meetings. 
+There are not internal committee rules.,Il n´y a pas de règles du comité internes.
+on the request a citizen can attend committee meeting,À la demande un citoyen peut assister à la réunion du comité
+there are only announcements of the committee sessions and MP activities,there are only announcements of the committee sessions and MP activities
 http://www.sabor.hr/Default.aspx?sec=2145,http://www.sabor.hr/Default.aspx?sec=2145
+summarizied transcripts,transcriptions résumées
+"in the summarized transcripts only total voting records are available, but not individually","Dans les relevés de notes résumés, seuls les enregistrements totaux des votes sont disponibles, mais pas individuellement"
 http://www.sabor.hr/Default.aspx?sec=4661,http://www.sabor.hr/Default.aspx?sec=4661
 http://www.sabor.hr/Default.aspx?sec=4661;,http://www.sabor.hr/Default.aspx?sec=4661;
 http://www.sabor.hr/zastupnici,http://www.sabor.hr/zastupnici
 http://www.sabor.hr/Default.aspx?sec=4714,http://www.sabor.hr/Default.aspx?sec=4714
-information available only within the General State Budget,information available only within the General State Budget
+"information on MPs attendance in the parliament is only available, but  if they attended the committe meetings as well http://www.sabor.hr/Default.aspx?sec=5469; ","information on MPs attendance in the parliament is only available, but  if they attended the committe meetings as well http://www.sabor.hr/Default.aspx?sec=5469; "
+information available only within the General State Budget,informations disponibles uniquement dans le cadre du budget général de l´État
 http://www.sabor.hr/nabava,http://www.sabor.hr/nabava
 http://www.sabor.hr/Default.aspx?sec=432,http://www.sabor.hr/Default.aspx?sec=432
-Serbia,Serbia
+Serbia,Serbie
 http://www.parlament.gov.rs/upload/archive/files/cir/pdf/ostala_akta/2013/RS30-13.pdf,http://www.parlament.gov.rs/upload/archive/files/cir/pdf/ostala_akta/2013/RS30-13.pdf
 http://www.parlament.rs/national-assembly.467.html,http://www.parlament.rs/national-assembly.467.html
 http://www.parlament.gov.rs/national-assembly/role-and-mode-of-operation/jurisdiction.501.html,http://www.parlament.gov.rs/national-assembly/role-and-mode-of-operation/jurisdiction.501.html
@@ -624,36 +690,39 @@ http://www.parlament.gov.rs/activities/national-assembly/sessions/regular.545.ht
 http://www.parlament.gov.rs/national-assembly/important-documents.531.html,http://www.parlament.gov.rs/national-assembly/important-documents.531.html
 http://www.parlament.rs/народна-скупштина/организација-и-стручна-служба/други-акти-којима-се-уређује-рад-службе-народне-скупштине.1515.html,http://www.parlament.rs/народна-скупштина/организација-и-стручна-служба/други-акти-којима-се-уређује-рад-службе-народне-скупштине.1515.html
 http://www.parlament.gov.rs/activities/calendar.594.html,http://www.parlament.gov.rs/activities/calendar.594.html
-Yearly schedule not available but it is monthly,Yearly schedule not available but it is monthly
+Yearly schedule not available but it is monthly,"Le calendrier annuel n´est pas disponible, seulement celui mensuel"
 http://www.parlament.rs/преноси.2091.html,http://www.parlament.rs/преноси.2091.html
 http://www.parlament.rs/Пета_седница_Другог_редовног.22968.43.html,http://www.parlament.rs/Пета_седница_Другог_редовног.22968.43.html
 "http://www.parlament.rs/upload/archive/files/cir/doc/Listinzi/2014/2014.10.26%204.%20Predlog%20zakona%20o%20izmenama%20i%20dopunama%20Zakona%20o%20Centralnom%20registru%20obavezog%20socijalnog%20osiguranja,%20u%20celini.pdf","http://www.parlament.rs/upload/archive/files/cir/doc/Listinzi/2014/2014.10.26%204.%20Predlog%20zakona%20o%20izmenama%20i%20dopunama%20Zakona%20o%20Centralnom%20registru%20obavezog%20socijalnog%20osiguranja,%20u%20celini.pdf"
-Voting records are published on parliament's website but in PDF format that is not easily to search,Voting records are published on parliament's website but in PDF format that is not easily to search
+Voting records are published on parliament's website but in PDF format that is not easily to search,Les relevés de votes sont publiés sur le site web du parlement mais dans un format PDF qui n´est pas facile ? trouver.
 http://www.parlament.rs/акти/закони-у-процедури/закони-у-процедури.46.html,http://www.parlament.rs/акти/закони-у-процедури/закони-у-процедури.46.html
 http://www.parlament.rs/акти/донети-закони/донети-закони.45.html,http://www.parlament.rs/акти/донети-закони/донети-закони.45.html
 http://www.parlament.rs/акти/остала-акта/донета-акта/донета-акта.48.html,http://www.parlament.rs/акти/остала-акта/донета-акта/донета-акта.48.html
 http://www.parlament.rs/national-assembly/important-documents/rules-of-procedure-(consolidated-text)/working-bodies-of-the-national-assembly.1355.html,http://www.parlament.rs/national-assembly/important-documents/rules-of-procedure-(consolidated-text)/working-bodies-of-the-national-assembly.1355.html
 http://www.parlament.rs/преноси/седнице-одбора-и-осталих-радних-тела.2093.html,http://www.parlament.rs/преноси/седнице-одбора-и-осталих-радних-тела.2093.html
+Committee schedule is online  available just a few days before the meeting,Le calendrier du comité est disponible en ligne quelques jours avant la réunion
 http://www.parlament.rs/активности/календар.89.html,http://www.parlament.rs/активности/календар.89.html
+"those reports include very poor information, they are more press releases than actual reports.  Reports submitted by third party such as ministry or independent institutions are available on website","those reports include very poor information, they are more press releases than actual reports.  Reports submitted by third party such as ministry or independent institutions are available on website"
 http://www.parlament.rs/national-assembly/composition/working-bodies/committees.68.492.html,http://www.parlament.rs/national-assembly/composition/working-bodies/committees.68.492.html
 http://www.parlament.rs/DRAGAN_ALEKSIC.829.488.html,http://www.parlament.rs/DRAGAN_ALEKSIC.829.488.html
 http://www.parlament.rs/citizens-corner/ask/ask-the-mps.691.html?memberId=829,http://www.parlament.rs/citizens-corner/ask/ask-the-mps.691.html?memberId=829
 http://www.parlament.rs/activities/information-booklet/information-booklet-–-contents.618.html,http://www.parlament.rs/activities/information-booklet/information-booklet-–-contents.618.html
 http://www.parlament.rs/activities/information-booklet/information-booklet-–-contents.618.html ,http://www.parlament.rs/activities/information-booklet/information-booklet-–-contents.618.html 
 http://www.parlament.gov.rs/народна-скупштина/организација-и-стручна-служба/генерални-секретаријат-народне-скупштине/генерални-секретаријат-народне-скупштине.1494.html,http://www.parlament.gov.rs/народна-скупштина/организација-и-стручна-служба/генерални-секретаријат-народне-скупштине/генерални-секретаријат-народне-скупштине.1494.html
-Colombia,Colombia
+Colombia,Colombie
 http://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=11368,http://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=11368
 http://www.senado.gov.co/,http://www.senado.gov.co/
-http://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=4125,http://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=4125
-5th Law,5th Law
 http://www.imprenta.gov.co/gacetap/gaceta.portals,http://www.imprenta.gov.co/gacetap/gaceta.portals
 http://www.secretariasenado.gov.co/index.php/leyes-y-antecedentes,http://www.secretariasenado.gov.co/index.php/leyes-y-antecedentes
-http://www.senado.gov.co,http://www.senado.gov.co
-http://www.senado.gov.co/sala-de-prensa/agenda-legislativa,http://www.senado.gov.co/sala-de-prensa/agenda-legislativa
+http://www.registraduria.gov.co/,http://www.registraduria.gov.co/
 http://www.senado.gov.co/comisiones/comisiones-constitucionales/comision-primera,http://www.senado.gov.co/comisiones/comisiones-constitucionales/comision-primera
+http://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=4125,http://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=4125
+5th Law,5e Droit
+www.senado.gov.co,www.senado.gov.co
+http://www.senado.gov.co/sala-de-prensa/agenda-legislativa,http://www.senado.gov.co/sala-de-prensa/agenda-legislativa
 http://www.senado.gov.co/transparencia/presupuesto,http://www.senado.gov.co/transparencia/presupuesto
 http://www.senado.gov.co/el-senado/area-administrativa,http://www.senado.gov.co/el-senado/area-administrativa
-Netherlands,Netherlands
+Netherlands,Pays-Bas
 http://www.tweedekamer.nl,http://www.tweedekamer.nl
 http://www.tweedekamer.nl/hoe_werkt_het,http://www.tweedekamer.nl/hoe_werkt_het
 http://www.tweedekamer.nl/applicaties/uw_privacy,http://www.tweedekamer.nl/applicaties/uw_privacy
@@ -667,17 +736,17 @@ http://www.tweedekamer.nl/kamerstukken/stemmingsuitslagen,http://www.tweedekamer
 http://www.tweedekamer.nl/kamerstukken/wetsvoorstellen,http://www.tweedekamer.nl/kamerstukken/wetsvoorstellen
 https://zoek.officielebekendmakingen.nl/zoeken/parlementaire_documenten,https://zoek.officielebekendmakingen.nl/zoeken/parlementaire_documenten
 http://www.tweedekamer.nl/kamerleden/commissies,http://www.tweedekamer.nl/kamerleden/commissies
-Committee rules are part of the rules and procedures of the parliament. ,Committee rules are part of the rules and procedures of the parliament. 
+Committee rules are part of the rules and procedures of the parliament. ,Les règles du comité font partie des règles et des procédures du parlement. 
 http://www.tweedekamer.nl/vergaderingen/commissievergaderingen,http://www.tweedekamer.nl/vergaderingen/commissievergaderingen
 http://www.tweedekamer.nl/kamerstukken/verslagen,http://www.tweedekamer.nl/kamerstukken/verslagen
 http://www.tweedekamer.nl/kamerleden/commissies/,http://www.tweedekamer.nl/kamerleden/commissies/
-There are not committee resolutions.,There are not committee resolutions.
+there are no committee resolutions only plenary ones.,Il n'y a pas de résolutions de comités que de plénières.
 http://www.tweedekamer.nl/kamerleden/alle_kamerleden,http://www.tweedekamer.nl/kamerleden/alle_kamerleden
 http://www.tweedekamer.nl/kamerleden/openbare_registers,http://www.tweedekamer.nl/kamerleden/openbare_registers
 http://www.tweedekamer.nl/over_de_tweede_kamer/lobbyistenregister,http://www.tweedekamer.nl/over_de_tweede_kamer/lobbyistenregister
 http://www.tweedekamer.nl/kamerleden/presidium/,http://www.tweedekamer.nl/kamerleden/presidium/
 http://tweedekamer.nl/over_de_tweede_kamer/organogram/stafdienst_personeel_en_organisatie,http://tweedekamer.nl/over_de_tweede_kamer/organogram/stafdienst_personeel_en_organisatie
-Brazil,Brazil
+Brazil,Brésil
 http://www2.camara.leg.br/legin/int/atomes/2012/atodamesa-45-16-julho-2012-773823-normaatualizada-cd.html,http://www2.camara.leg.br/legin/int/atomes/2012/atodamesa-45-16-julho-2012-773823-normaatualizada-cd.html
 CC BY-NC Atribution-Noncomercial,CC BY-NC Atribution-Noncomercial
 http://www2.camara.leg.br/,http://www2.camara.leg.br/
@@ -693,44 +762,51 @@ http://www2.camara.leg.br/documentos-e-pesquisa/publicacoes/estnottec,http://www
 http://www2.camara.leg.br/atividade-legislativa/comissoes,http://www2.camara.leg.br/atividade-legislativa/comissoes
 http://www2.camara.leg.br/atividade-legislativa/comissoes/reunioes/registros-das-reunioes,http://www2.camara.leg.br/atividade-legislativa/comissoes/reunioes/registros-das-reunioes
 http://www2.camara.leg.br/deputados/liderancas-e-bancadas,http://www2.camara.leg.br/deputados/liderancas-e-bancadas
+research and request,Recherche et demande
 http://www.camara.gov.br/cota-parlamentar/,http://www.camara.gov.br/cota-parlamentar/
 http://www2.camara.leg.br/a-camara/eticaedecoro,http://www2.camara.leg.br/a-camara/eticaedecoro
 http://www2.camara.leg.br/transparencia/gestao-na-camara-dos-deputados/contas-da-camara,http://www2.camara.leg.br/transparencia/gestao-na-camara-dos-deputados/contas-da-camara
 http://www2.camara.leg.br/transparencia/gestao-na-camara-dos-deputados/relatorio-de-gestao-fiscal/orcamento,http://www2.camara.leg.br/transparencia/gestao-na-camara-dos-deputados/relatorio-de-gestao-fiscal/orcamento
 http://www2.camara.leg.br/transparencia/licitacoes,http://www2.camara.leg.br/transparencia/licitacoes
 http://www2.camara.leg.br/a-camara/estruturaadm,http://www2.camara.leg.br/a-camara/estruturaadm
-El Salvador,El Salvador
+El Salvador,Salvador
 http://www.asamblea.gob.sv,http://www.asamblea.gob.sv
+http://www.asamblea.gob.sv/comisiones-legislativas,http://www.asamblea.gob.sv/comisiones-legislativas
+http://www.asamblea.gob.sv/sesion-plenaria,http://www.asamblea.gob.sv/sesion-plenaria
+http://www.asamblea.gob.sv/sesion-plenaria/votaciones-electronicas,http://www.asamblea.gob.sv/sesion-plenaria/votaciones-electronicas
+http://www.asamblea.gob.sv/eparlamento/indice-legislativo/buscador-de-documentos-legislativos,http://www.asamblea.gob.sv/eparlamento/indice-legislativo/buscador-de-documentos-legislativos
 http://www.asamblea.gob.sv/pleno,http://www.asamblea.gob.sv/pleno
 http://www.asamblea.gob.sv/sesion-plenaria/informes-trimestrales-comisiones,http://www.asamblea.gob.sv/sesion-plenaria/informes-trimestrales-comisiones
 http://www.asamblea.gob.sv/sesion-plenaria/dictamenes,http://www.asamblea.gob.sv/sesion-plenaria/dictamenes
 http://www.asamblea.gob.sv/politicas-de-privacidad,http://www.asamblea.gob.sv/politicas-de-privacidad
 http://www.asamblea.gob.sv/sesion-plenaria/agenda,http://www.asamblea.gob.sv/sesion-plenaria/agenda
-http://www.asamblea.gob.sv/sesion-plenaria,http://www.asamblea.gob.sv/sesion-plenaria
 http://www.asamblea.gob.sv/sesion-plenaria/votaciones-electronicas/dictamenes/hacienda-dict.-no335-fav,http://www.asamblea.gob.sv/sesion-plenaria/votaciones-electronicas/dictamenes/hacienda-dict.-no335-fav
 http://www.asamblea.gob.sv/eparlamento/indice-legislativo,http://www.asamblea.gob.sv/eparlamento/indice-legislativo
-http://www.asamblea.gob.sv/sesion-plenaria/votaciones-electronicas,http://www.asamblea.gob.sv/sesion-plenaria/votaciones-electronicas
 http://www.asamblea.gob.sv/pleno/gpm,http://www.asamblea.gob.sv/pleno/gpm
 https://transparencia.asamblea.gob.sv/informacion-financiera,https://transparencia.asamblea.gob.sv/informacion-financiera
 https://transparencia.asamblea.gob.sv/adquisiciones-y-contrataciones,https://transparencia.asamblea.gob.sv/adquisiciones-y-contrataciones
 https://transparencia.asamblea.gob.sv/informacion-administrativa,https://transparencia.asamblea.gob.sv/informacion-administrativa
-Bosnia and Herzegovina,Bosnia and Herzegovina
+Bosnia and Herzegovina,Bosnie-et-Herzégovine
 https://www.parlament.ba/sadrzaj/about/ustav/docs/default.aspx?id=45150&langTag=bs-BA&pril=b,https://www.parlament.ba/sadrzaj/about/ustav/docs/default.aspx?id=45150&langTag=bs-BA&pril=b
 https://www.parlament.ba/default.aspx?langTag=en-US&pril=b,https://www.parlament.ba/default.aspx?langTag=en-US&pril=b
 https://www.parlament.ba/default.aspx?langTag=bs-BA&pril=b,https://www.parlament.ba/default.aspx?langTag=bs-BA&pril=b
 https://www.parlament.ba,https://www.parlament.ba
 https://www.parlament.ba/,https://www.parlament.ba/
-General Secretary Office,General Secretary Office
-"Yes, offline ","Yes, offline "
-There are no private committee meetings. ,There are no private committee meetings. 
+General Secretary Office,Bureau du secrétaire général
+"Yes, offline ","Oui, hors ligne"
+There are no meetings in private,Il n'y a pas de réunions en privé
+Observation might be done on the approved attendence upon request with explanation,L'observation pourrait être faite sur la présence approuvée sur demande avec explication
 Ghana,Ghana
 http://www.parliament.gh/,http://www.parliament.gh/
 http://www.parliament.gh/committees,http://www.parliament.gh/committees
 http://www.reportingoilandgas.org/wp-content/uploads/GOVENMENT-ASSURANCE-COMMITTEE.pdf,http://www.reportingoilandgas.org/wp-content/uploads/GOVENMENT-ASSURANCE-COMMITTEE.pdf
+Sometimes they do give reasons as to why they meet in private,"Parfois, ils donnent des raisons pour lesquelles ils se rencontrent en privé"
+Not Aware of any,Not Aware of any
+"Not that am aware of. However, my organisation work with one of the committees usually have information on agenda usually less than 24 hours before the meeting","Not that am aware of. However, my organisation work with one of the committees usually have information on agenda usually less than 24 hours before the meeting"
 http://www.parliament.gh/publications/44,http://www.parliament.gh/publications/44
 http://www.parliament.gh/parliamentarians,http://www.parliament.gh/parliamentarians
 http://www.parliament.gh/content/389/41,http://www.parliament.gh/content/389/41
-Hungary,Hungary
+Hungary,Hongrie
 http://www.parlament.hu/en/web/house-of-the-national-assembly,http://www.parlament.hu/en/web/house-of-the-national-assembly
 http://www.parlament.hu/en/web/house-of-the-national-assembly/operation-of-the-national-assembly,http://www.parlament.hu/en/web/house-of-the-national-assembly/operation-of-the-national-assembly
 http://www.parlament.hu/documents/10181/210059/2014_19_Palinka_jovedeki/7fff4f29-a006-483f-a8fd-70cfeb671aba,http://www.parlament.hu/documents/10181/210059/2014_19_Palinka_jovedeki/7fff4f29-a006-483f-a8fd-70cfeb671aba
@@ -747,12 +823,17 @@ http://www.parlament.hu/folyamatban-levo-torvenyjavaslatok,http://www.parlament.
 "A database of all legislation exists, but is not managed by the parliament: http://www.complex.hu/kzlcim/kzl90_96.htm.","A database of all legislation exists, but is not managed by the parliament: http://www.complex.hu/kzlcim/kzl90_96.htm."
 http://www.parlament.hu/hu/iromanyok-lekerdezese?p_auth=OU2m9RJf&p_p_id=pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1,http://www.parlament.hu/hu/iromanyok-lekerdezese?p_auth=OU2m9RJf&p_p_id=pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1
 http://www.parlament.hu/a-bizottsagok-feladatai-es-jogai,http://www.parlament.hu/a-bizottsagok-feladatai-es-jogai
-http://www.parlament.hu/bizottsagok-elozo-ciklusbeli-adatai?p_auth=Qecg6WAo&p_p_id=pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8_pairAction=%2Finternet%2Fcplsql%2Fwebpar.paramform%3Fp_ckl%3D37%26p_modul%3DBIZMEGH_INT%26p_szulo%3D838,http://www.parlament.hu/bizottsagok-elozo-ciklusbeli-adatai?p_auth=Qecg6WAo&p_p_id=pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8_pairAction=%2Finternet%2Fcplsql%2Fwebpar.paramform%3Fp_ckl%3D37%26p_modul%3DBIZMEGH_INT%26p_szulo%3D838
+Remark: both can be restricted,Remarque: les deux peuvent être restreints
+"The formal committee meeting invitation contains information about schedule, that is ponderous to search, but invitations (including agendas) have been archived for years. (http://www.parlament.hu/bizottsagok-elozo-ciklusbeli-adatai?p_auth=Qecg6WAo&p_p_id=pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8_pairAction=%2Finternet%2Fcplsql%2Fwebpar.paramform%3Fp_ckl%3D37%26p_modul%3DBIZMEGH_INT%26p_szulo%3D838)","The formal committee meeting invitation contains information about schedule, that is ponderous to search, but invitations (including agendas) have been archived for years. (http://www.parlament.hu/bizottsagok-elozo-ciklusbeli-adatai?p_auth=Qecg6WAo&p_p_id=pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8_pairAction=%2Finternet%2Fcplsql%2Fwebpar.paramform%3Fp_ckl%3D37%26p_modul%3DBIZMEGH_INT%26p_szulo%3D838)"
 http://www.parlament.hu/bizottsagi-meghivo-heti-bizottsagi-ulesek,http://www.parlament.hu/bizottsagi-meghivo-heti-bizottsagi-ulesek
-http://www.parlament.hu/web/torvenyalkotasi-bizottsag/a-bizottsag-ulesei,http://www.parlament.hu/web/torvenyalkotasi-bizottsag/a-bizottsag-ulesei
+"http://www.parlament.hu/web/torvenyalkotasi-bizottsag/a-bizottsag-ulesei (but ieach committee has it's own compilation and publication of transcripts, therefore complex search is ponderous","http://www.parlament.hu/web/torvenyalkotasi-bizottsag/a-bizottsag-ulesei (but ieach committee has it's own compilation and publication of transcripts, therefore complex search is ponderous"
+"remark: The verbatim committee transcripts contain facts about voting (quorum, presence and the proportion of supporting proposals) but exact roll call voting data is not available neither in the transcripts, nor elsewhere.","Remarque: Les procès-verbaux du comité contiennent des faits sur le vote (quorum, présence et proportion des propositions à l'appui), mais les données exactes sur le vote par appel nominal ne sont disponibles ni dans les transcriptions, ni ailleurs."
 http://www.parlament.hu/web/torvenyalkotasi-bizottsag/a-bizottsag-altal-benyujtott-iromanyok,http://www.parlament.hu/web/torvenyalkotasi-bizottsag/a-bizottsag-altal-benyujtott-iromanyok
 http://www.parlament.hu/egy-kepviselo-adatai,http://www.parlament.hu/egy-kepviselo-adatai
+remark: individually listed,Remarque: listé individuellement
 http://www.parlament.hu/egy-kepviselo-adatai?p_auth=Qecg6WAo&p_p_id=pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8_pairAction=%2Finternet%2Fcplsql%2Fogy_kpv.kepv_adat%3Fp_azon%3Db076%26p_ckl%3D40,http://www.parlament.hu/egy-kepviselo-adatai?p_auth=Qecg6WAo&p_p_id=pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8_pairAction=%2Finternet%2Fcplsql%2Fogy_kpv.kepv_adat%3Fp_azon%3Db076%26p_ckl%3D40
+remark: only individually listed,Remarque: seulement individuellement
+"The verbatim transcripts of committee meetings contain information about the presence of the MP at the beginning of the meeting, but it is in pdf format, and is ponderous to search (only manual search and store is conceivable).","The verbatim transcripts of committee meetings contain information about the presence of the MP at the beginning of the meeting, but it is in pdf format, and is ponderous to search (only manual search and store is conceivable)."
 http://www.parlament.hu/egy-kepviselo-adatai?p_auth=Qecg6WAo&p_p_id=pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8_pairAction=%2Finternet%2Fcplsql%2Fogy_kpv.kepv_adat%3Fp_azon%3Dp041%26p_ckl%3D40,http://www.parlament.hu/egy-kepviselo-adatai?p_auth=Qecg6WAo&p_p_id=pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8_pairAction=%2Finternet%2Fcplsql%2Fogy_kpv.kepv_adat%3Fp_azon%3Dp041%26p_ckl%3D40
 http://www.parlament.hu/gazdalkodas1,http://www.parlament.hu/gazdalkodas1
 http://www.parlament.hu/nyilvanos-szerzodesek-2004.-januar-1-tol,http://www.parlament.hu/nyilvanos-szerzodesek-2004.-januar-1-tol
@@ -773,42 +854,55 @@ http://w1.c1.rada.gov.ua/pls/zweb2/webproc555,http://w1.c1.rada.gov.ua/pls/zweb2
 http://w1.c1.rada.gov.ua/pls/zweb2/webproc4_1?pf3511=53303,http://w1.c1.rada.gov.ua/pls/zweb2/webproc4_1?pf3511=53303
 http://zakon1.rada.gov.ua/laws?lang=uk,http://zakon1.rada.gov.ua/laws?lang=uk
 http://kno.rada.gov.ua/komosviti/control/uk/publish/article?art_id=45059&cat_id=44826,http://kno.rada.gov.ua/komosviti/control/uk/publish/article?art_id=45059&cat_id=44826
-http://komsamovr.rada.gov.ua/komdbud/control/uk/publish/article?art_id=64960&cat_id=64959,http://komsamovr.rada.gov.ua/komdbud/control/uk/publish/article?art_id=64960&cat_id=64959
+"journalist can attend open committee meeting, in case they have proper accreditation","Journaliste peut assister à une réunion de comité ouvert, au cas où ils auraient une accréditation appropriée"
+in some cases they are available: http://komsamovr.rada.gov.ua/komdbud/control/uk/publish/article?art_id=64960&cat_id=64959,in some cases they are available: http://komsamovr.rada.gov.ua/komdbud/control/uk/publish/article?art_id=64960&cat_id=64959
 http://kno.rada.gov.ua/komosviti/control/uk/publish/article?art_id=62906&cat_id=62702,http://kno.rada.gov.ua/komosviti/control/uk/publish/article?art_id=62906&cat_id=62702
-http://w1.c1.rada.gov.ua/pls/zweb2/webproc4_1?pf3511=53217,http://w1.c1.rada.gov.ua/pls/zweb2/webproc4_1?pf3511=53217
-http://komsamovr.rada.gov.ua/komdbud/control/uk/publish/article?showHidden=1&art_id=72771&cat_id=72165&ctime=1419436439957,http://komsamovr.rada.gov.ua/komdbud/control/uk/publish/article?showHidden=1&art_id=72771&cat_id=72165&ctime=1419436439957
+available not for all committees,Non disponible pour tous les comités
+sometimes available as a part of protocol: http://comeuroint.rada.gov.ua/komevroint/doccatalog/document?id=59209,sometimes available as a part of protocol: http://comeuroint.rada.gov.ua/komevroint/doccatalog/document?id=59209
+in some cases they are available: http://kno.rada.gov.ua/komosviti/control/uk/publish/article?art_id=51161&cat_id=49088,in some cases they are available: http://kno.rada.gov.ua/komosviti/control/uk/publish/article?art_id=51161&cat_id=49088
+links to resolutions on respective bills are published on the page of the bill: http://w1.c1.rada.gov.ua/pls/zweb2/webproc4_1?pf3511=53217,links to resolutions on respective bills are published on the page of the bill: http://w1.c1.rada.gov.ua/pls/zweb2/webproc4_1?pf3511=53217
+sometimes committees publish resolutions on their websites: http://komsamovr.rada.gov.ua/komdbud/control/uk/publish/article?showHidden=1&art_id=72771&cat_id=72165&ctime=1419436439957,sometimes committees publish resolutions on their websites: http://komsamovr.rada.gov.ua/komdbud/control/uk/publish/article?showHidden=1&art_id=72771&cat_id=72165&ctime=1419436439957
 http://gapp.rada.gov.ua/mps/info/page/15669,http://gapp.rada.gov.ua/mps/info/page/15669
 http://w1.c1.rada.gov.ua/pls/site2/p_deputat_list,http://w1.c1.rada.gov.ua/pls/site2/p_deputat_list
+only phone number and e-mail: gapp.rada.gov.ua/mps/info/page/15669,only phone number and e-mail: gapp.rada.gov.ua/mps/info/page/15669
 http://w1.c1.rada.gov.ua/pls/radan_gs09/ns_dep?vid=2&kod=279,http://w1.c1.rada.gov.ua/pls/radan_gs09/ns_dep?vid=2&kod=279
+some committees do publish this information,Certains comités publient ces informations
+can be access via queries,can be access via queries
 http://gapp.rada.gov.ua/declview/Home/Main/15669/2013,http://gapp.rada.gov.ua/declview/Home/Main/15669/2013
-Cameroon,Cameroon
+Cameroon,Cameroun
 http://www.assnat.cm,http://www.assnat.cm
-Monthly,Monthly
+Monthly,Mensuellement
 http://www.assnat.cm/index.php/fr/les-lois/les-lois-en-examen,http://www.assnat.cm/index.php/fr/les-lois/les-lois-en-examen
+These iinformation are also made available in hard copies and distrbute to MP's,These iinformation are also made available in hard copies and distrbute to MP's
 http://www.assnat.cm/index.php/us/,http://www.assnat.cm/index.php/us/
-in hard copies and on request,in hard copies and on request
+www.assnat.cm,www.assnat.cm
+none,none
+in hard copies and on request,sur copie papier et sur demande
 Guatemala,Guatemala
 http://www.congreso.gob.gt,http://www.congreso.gob.gt
 http://www.congreso.gob.gt/marco-legal.php,http://www.congreso.gob.gt/marco-legal.php
-It can be accessed at Legislative Management Office,It can be accessed at Legislative Management Office
+It can be accessed at Legislative Management Office,Cela peut être accédé au Bureau de Gestion de la Législation
 http://www.congreso.gob.gt/index.php,http://www.congreso.gob.gt/index.php
 http://www.congreso.gob.gt/congreso-en-vivo.php,http://www.congreso.gob.gt/congreso-en-vivo.php
+In-person observation sometimes is very difficult due to security policies.,In-person observation sometimes is very difficult due to security policies.
 http://www.congreso.gob.gt/diario-de-sesiones.php,http://www.congreso.gob.gt/diario-de-sesiones.php
 http://stats.congreso.gob.gt/hemiciclo/graphs/v_container.asp,http://stats.congreso.gob.gt/hemiciclo/graphs/v_container.asp
 http://old.congreso.gob.gt/Legislacion/decretos.asp,http://old.congreso.gob.gt/Legislacion/decretos.asp
 http://www.congreso.gob.gt/junta-directiva.php,http://www.congreso.gob.gt/junta-directiva.php
 http://www.congreso.gob.gt/manager/images/B1C07D30-68A0-B7A4-87F8-52CBC8051522.pdf,http://www.congreso.gob.gt/manager/images/B1C07D30-68A0-B7A4-87F8-52CBC8051522.pdf
-They're not available,They're not available
+It is'nt available,Il n'est pas disponible
+They're not available,Ils/Elles ne sont pas disponibles.
 http://www.congreso.gob.gt/legislaturas.php,http://www.congreso.gob.gt/legislaturas.php
-http://www.congreso.gob.gt/directorio-telefonico.php,http://www.congreso.gob.gt/directorio-telefonico.php
-Much of the publicly available information is either incomplete or inaccurate. ,Much of the publicly available information is either incomplete or inaccurate. 
+Incomplete and outdated information - http://www.congreso.gob.gt/directorio-telefonico.php -,Incomplete and outdated information - http://www.congreso.gob.gt/directorio-telefonico.php -
+"All members of the Congress has a public proflie with their information contact. However, all email accounts are unavailable and other complementary information such as office adress and phone number are outdated.","Tous les membres du Congrès ont un proflie public avec leur contact d'information. Toutefois, tous les comptes de messagerie sont indisponibles et d'autres informations complémentaires telles que l'adresse du bureau et le numéro de téléphone sont périmées."
 http://stats.congreso.gob.gt/hemiciclo/graphs/x_diputado.asp,http://stats.congreso.gob.gt/hemiciclo/graphs/x_diputado.asp
+There's only the official act of the meeting with the members who attended the meeting,Il n'y a que l'acte officiel de la réunion avec les membres qui ont assisté à la réunion
 http://www.congreso.gob.gt/liquidacion-de-fondos.php,http://www.congreso.gob.gt/liquidacion-de-fondos.php
 http://www.congreso.gob.gt/comisiones-al-exterior.php,http://www.congreso.gob.gt/comisiones-al-exterior.php
 http://old.congreso.gob.gt/Legislacion/Ver_acuerdo.asp?id=18394,http://old.congreso.gob.gt/Legislacion/Ver_acuerdo.asp?id=18394
 http://congreso.gob.gt/ley-de-acceso-a-la-informacion-publica.php,http://congreso.gob.gt/ley-de-acceso-a-la-informacion-publica.php
 http://www.congreso.gob.gt/administracion.php,http://www.congreso.gob.gt/administracion.php
-Argentina,Argentina
+Argentina,Argentine
 http://www.diputados.gov.ar/,http://www.diputados.gov.ar/
 http://www.diputados.gov.ar/secparl/dcomisiones/od.html,http://www.diputados.gov.ar/secparl/dcomisiones/od.html
 http://www.diputados.gov.ar/comisiones/agenda/agenda_ver_todo.html,http://www.diputados.gov.ar/comisiones/agenda/agenda_ver_todo.html
@@ -818,24 +912,36 @@ http://www.diputados.gov.ar/secparl/dip/legislacionNacional.html,http://www.dipu
 http://www.diputados.gov.ar/proyectos/buscador2015-99.html,http://www.diputados.gov.ar/proyectos/buscador2015-99.html
 http://www.diputados.gov.ar/comisiones/index.html?mostrar=permanentes,http://www.diputados.gov.ar/comisiones/index.html?mostrar=permanentes
 http://www.diputados.gov.ar/institucional/reglamento/index.html,http://www.diputados.gov.ar/institucional/reglamento/index.html
-Published before the sessions,Published before the sessions
+Published before the sessions,Publié avant les sessions
 http://www.diputados.gov.ar/sesiones/sesion_en_vivo.html,http://www.diputados.gov.ar/sesiones/sesion_en_vivo.html
 http://www.diputados.gov.ar/proyectos/ultimosProyectos.html,http://www.diputados.gov.ar/proyectos/ultimosProyectos.html
 http://www.diputados.gov.ar/institucional/reglamento/reglamentoPDF.html,http://www.diputados.gov.ar/institucional/reglamento/reglamentoPDF.html
+"Live television for specific meetings, according to their relevance","Live television for specific meetings, according to their relevance"
 http://www.hcdn.gob.ar/comisiones/permanentes/caconstitucionales/reuniones/citaciones/,http://www.hcdn.gob.ar/comisiones/permanentes/caconstitucionales/reuniones/citaciones/
+I don't know,Je ne sais pas
+I dont know,Je ne sais pas
+Link available but empty http://www.hcdn.gob.ar/comisiones/permanentes/clgeneral/reuniones/vt/,Link available but empty http://www.hcdn.gob.ar/comisiones/permanentes/clgeneral/reuniones/vt/
 http://www.hcdn.gob.ar/comisiones/permanentes/clgeneral/proyectos/proyecto.jsp?id=138692,http://www.hcdn.gob.ar/comisiones/permanentes/clgeneral/proyectos/proyecto.jsp?id=138692
 http://www.hcdn.gob.ar/comisiones/permanentes/clgeneral/proyectos/,http://www.hcdn.gob.ar/comisiones/permanentes/clgeneral/proyectos/
 http://www.hcdn.gob.ar/comisiones/permanentes/caconstitucionales/,http://www.hcdn.gob.ar/comisiones/permanentes/caconstitucionales/
 http://www.hcdn.gob.ar/diputados/listadip.html,http://www.hcdn.gob.ar/diputados/listadip.html
 http://www.hcdn.gob.ar/diputados/nabdaladem/,http://www.hcdn.gob.ar/diputados/nabdaladem/
-Asset declarations are published online by the government anticorruption office. ,Asset declarations are published online by the government anticorruption office. 
-"Board involvement information is available in the asset declaration, which is published by the government anticorruption office. ","Board involvement information is available in the asset declaration, which is published by the government anticorruption office. "
+Just capital offices,Just capital offices
+Asset declarations are published online by the government Anticorruption Office. ,Les déclarations de patrimoine sont publiés en ligne par le bureau anti-corruption du gouvernement. 
+Only in declaration assets,Seulement dans les actifs déclarés
 http://www.hcdn.gob.ar/institucional/infGestion/ejecucion_presupuestaria/index.html,http://www.hcdn.gob.ar/institucional/infGestion/ejecucion_presupuestaria/index.html
 http://www.hcdn.gob.ar/institucional/autoridades/,http://www.hcdn.gob.ar/institucional/autoridades/
-Germany,Germany
+Germany,Allemagne
 http://www.gesetze-im-internet.de/ifg/,http://www.gesetze-im-internet.de/ifg/
 http://www.gesetze-im-internet.de/urhg/__5.html ,http://www.gesetze-im-internet.de/urhg/__5.html 
 https://www.bundestag.de/,https://www.bundestag.de/
+https://www.bundestag.de/sitzungskalender,https://www.bundestag.de/sitzungskalender
+https://www.bundestag.de/bundestag/plenum/tagesordnungen,https://www.bundestag.de/bundestag/plenum/tagesordnungen
+https://www.bundestag.de/bundestag/ausschuesse18/tagesordnungen,https://www.bundestag.de/bundestag/ausschuesse18/tagesordnungen
+https://suche.bundestag.de/plenarprotokolle/search.form,https://suche.bundestag.de/plenarprotokolle/search.form
+https://www.bundestag.de/abstimmung,https://www.bundestag.de/abstimmung
+http://dipbt.bundestag.de/dip21.web/bt,http://dipbt.bundestag.de/dip21.web/bt
+https://www.bundestag.de/bundestag/ausschuesse18/,https://www.bundestag.de/bundestag/ausschuesse18/
 https://www.bundestag.de/bundestag/aufgaben,https://www.bundestag.de/bundestag/aufgaben
 https://www.bundestag.de/analysen,https://www.bundestag.de/analysen
 https://www.bundestag.de/hib,https://www.bundestag.de/hib
@@ -843,22 +949,19 @@ https://www.bundestag.de/service/datenschutz,https://www.bundestag.de/service/da
 https://www.btg-bestellservice.de/index.php?navi=1&subnavi=50&anr=10080000,https://www.btg-bestellservice.de/index.php?navi=1&subnavi=50&anr=10080000
 https://www.bundestag.de/tagesordnung,https://www.bundestag.de/tagesordnung
 https://www.bundestag.de/mediathek/?instance=m187&mview=plenarsitzungen&action=plenarsitzungen&categorie=Plenarsitzung,https://www.bundestag.de/mediathek/?instance=m187&mview=plenarsitzungen&action=plenarsitzungen&categorie=Plenarsitzung
-https://suche.bundestag.de/plenarprotokolle/search.form,https://suche.bundestag.de/plenarprotokolle/search.form
-https://www.bundestag.de/abstimmung,https://www.bundestag.de/abstimmung
 https://www.bundestag.de/bundestag/plenum/abstimmung/grafik,https://www.bundestag.de/bundestag/plenum/abstimmung/grafik
-http://dipbt.bundestag.de/dip21.web/bt,http://dipbt.bundestag.de/dip21.web/bt
-The Ministry of Justice maintains a database of all legislation. ,The Ministry of Justice maintains a database of all legislation. 
+The Ministry of Justice maintains a database of all legislation. ,Le ministère de la Justice maintien une base de données de toute la législation. 
 http://www.bundestag.de/bundestag/ausschuesse18/index.html,http://www.bundestag.de/bundestag/ausschuesse18/index.html
 http://www.bundestag.de/url/mediathek/ausschusssitzungen,http://www.bundestag.de/url/mediathek/ausschusssitzungen
-https://www.bundestag.de/bundestag/ausschuesse18/tagesordnungen,https://www.bundestag.de/bundestag/ausschuesse18/tagesordnungen
-https://www.bundestag.de/bundestag/ausschuesse18/a11/beschlussempfehlung_und_bericht/beschlussempfehlung_und_bericht/214622,https://www.bundestag.de/bundestag/ausschuesse18/a11/beschlussempfehlung_und_bericht/beschlussempfehlung_und_bericht/214622
+erratic,erratic
+e.g. https://www.bundestag.de/bundestag/ausschuesse18/a11/beschlussempfehlung_und_bericht/beschlussempfehlung_und_bericht/214622,e.g. https://www.bundestag.de/bundestag/ausschuesse18/a11/beschlussempfehlung_und_bericht/beschlussempfehlung_und_bericht/214622
 https://www.bundestag.de/bundestag/ausschuesse18,https://www.bundestag.de/bundestag/ausschuesse18
 https://www.bundestag.de/bundestag/abgeordnete18/,https://www.bundestag.de/bundestag/abgeordnete18/
 https://www.bundestag.de/dokumente/lobbyliste,https://www.bundestag.de/dokumente/lobbyliste
 http://www.bundeshaushalt-info.de/startseite/#/2015/soll/ausgaben/einzelplan/02.html,http://www.bundeshaushalt-info.de/startseite/#/2015/soll/ausgaben/einzelplan/02.html
 https://www.bundestag.de/bundestag/verwaltung,https://www.bundestag.de/bundestag/verwaltung
 https://www.bundestag.de/service/kontakt,https://www.bundestag.de/service/kontakt
-Indonesia,Indonesia
+Indonesia,Indonésie
 http://ppid.dpr.go.id/index/statik/id/5,http://ppid.dpr.go.id/index/statik/id/5
 http://www.dpr.go.id,http://www.dpr.go.id
 http://www.dpr.go.id/id/tentang-dpr/tata-tertib,http://www.dpr.go.id/id/tentang-dpr/tata-tertib
@@ -867,10 +970,72 @@ http://www.dpr.go.id/id/serba-serbi/tv-parlemen,http://www.dpr.go.id/id/serba-se
 http://www.dpr.go.id/id/tentang-dpr/tata-tertib/bab-5,http://www.dpr.go.id/id/tentang-dpr/tata-tertib/bab-5
 http://www.dpr.go.id/id/komisi,http://www.dpr.go.id/id/komisi
 http://www.dpr.go.id/id/setjen/tentang-setjen,http://www.dpr.go.id/id/setjen/tentang-setjen
-Georgia,Georgia
+QUESTION TITLEY,QUESTION TITLEY
+QUESTION TITLES,TITRES DES QUESTIONS
+http://www.parliament.uk/business/committees/committees-a-z/commons-select/defence-committee/publications/,http://www.parliament.uk/business/committees/committees-a-z/commons-select/defence-committee/publications/
+http://www.parlament.hu/web/torvenyalkotasi-bizottsag/a-bizottsag-ulesei,http://www.parlament.hu/web/torvenyalkotasi-bizottsag/a-bizottsag-ulesei
+http://www.parliament.uk/business/committees/committees-a-z/commons-select/defence-committee/publications,http://www.parliament.uk/business/committees/committees-a-z/commons-select/defence-committee/publications
+http://web.eduskunta.fi/Resource.phx/valiokunnat/valiokunta-siv01/index.htx?url=/plaza/toimielimet/muut/zvkseuraavakokous_siv01_su.html&te=siv01&lng=fi,http://web.eduskunta.fi/Resource.phx/valiokunnat/valiokunta-siv01/index.htx?url=/plaza/toimielimet/muut/zvkseuraavakokous_siv01_su.html&te=siv01&lng=fi
+http://main.knesset.gov.il/Activity/Committees/Economics/Pages/CommiitteeReports.aspx,http://main.knesset.gov.il/Activity/Committees/Economics/Pages/CommiitteeReports.aspx
+http://www.riigikogu.ee/index.php?op=ems&page=ikaart&pid=fe748f4d-3f50-4af8-8069-92a460978d2b&,http://www.riigikogu.ee/index.php?op=ems&page=ikaart&pid=fe748f4d-3f50-4af8-8069-92a460978d2b&
+http://www.parliament.uk/business/committees/committees-a-z/commons-select/defence-committee/,http://www.parliament.uk/business/committees/committees-a-z/commons-select/defence-committee/
+http://www.congreso.es/portal/page/portal/Congreso/Congreso/Organos/Comision ,http://www.congreso.es/portal/page/portal/Congreso/Congreso/Organos/Comision 
+https://www.bundestag.de/bundestag/ausschuesse18/a11/beschlussempfehlung_und_bericht/beschlussempfehlung_und_bericht/214622,https://www.bundestag.de/bundestag/ausschuesse18/a11/beschlussempfehlung_und_bericht/beschlussempfehlung_und_bericht/214622
+http://www.eduskunta.fi/triphome/bin/tixhaku.sh?lyh=lo_siv?liite=14k?lomake=tix5200,http://www.eduskunta.fi/triphome/bin/tixhaku.sh?lyh=lo_siv?liite=14k?lomake=tix5200
+Plain language summaries are provided for the following types of information,Les résumés en langage clair et simples sont fournis pour les types d´informations suivants
+"By default, committee meetings are not public.","En général, les réunions des comités ne sont pas publiques."
+http://www.senado.gov.co,http://www.senado.gov.co
+There are no private committee meetings. ,Il n´y a pas de réunions du comité privées. 
+Prior approval is required to attend meetings. ,"Pour participer aux réunions, une autorisation préalable est exigée. "
+Can the public observe or listen to plenary sessions?,Est-ce que le public peut-il observer ou bien écouter les sessions plénières?
+http://www.riigikogu.ee/index.php?op=ems&page=ikaart&pid=fe748f4d-3f50-4af8-8069-92a460978d2b& ,http://www.riigikogu.ee/index.php?op=ems&page=ikaart&pid=fe748f4d-3f50-4af8-8069-92a460978d2b& 
+http://www.congreso.gob.gt/directorio-telefonico.php,http://www.congreso.gob.gt/directorio-telefonico.php
+Much of the publicly available information is either incomplete or inaccurate. ,"Beaucoup des informations accessibles au public sont soit incomplètes, soit imprécises. "
+Asset declarations are published online by the government anticorruption office. ,Les déclarations de patrimoine sont publiés en ligne par le bureau anti-corruption du gouvernement. 
+http://main.knesset.gov.il/News/Broadcast/Pages/CommitteeBroadcastArchive.aspx,http://main.knesset.gov.il/News/Broadcast/Pages/CommitteeBroadcastArchive.aspx
+Only media and CSOs can observe or attend the meetings.,Seuls les médias et les OSC peuvent observer ou assister aux réunions.
+"Committee deliberation is typically conducted in private, though evidence hearings are generally public.","La délibération du comité se déroule généralement en privé, bien que les audiences soient généralement publiques."
+http://www.parlament.hu/bizottsagok-elozo-ciklusbeli-adatai?p_auth=Qecg6WAo&p_p_id=pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8_pairAction=%2Finternet%2Fcplsql%2Fwebpar.paramform%3Fp_ckl%3D37%26p_modul%3DBIZMEGH_INT%26p_szulo%3D838,http://www.parlament.hu/bizottsagok-elozo-ciklusbeli-adatai?p_auth=Qecg6WAo&p_p_id=pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8_pairAction=%2Finternet%2Fcplsql%2Fwebpar.paramform%3Fp_ckl%3D37%26p_modul%3DBIZMEGH_INT%26p_szulo%3D838
+http://komsamovr.rada.gov.ua/komdbud/control/uk/publish/article?art_id=64960&cat_id=64959,http://komsamovr.rada.gov.ua/komdbud/control/uk/publish/article?art_id=64960&cat_id=64959
+There are not committee resolutions.,Il n´y a pas de résolutions du comité.
+http://w1.c1.rada.gov.ua/pls/zweb2/webproc4_1?pf3511=53217,http://w1.c1.rada.gov.ua/pls/zweb2/webproc4_1?pf3511=53217
+http://komsamovr.rada.gov.ua/komdbud/control/uk/publish/article?showHidden=1&art_id=72771&cat_id=72165&ctime=1419436439957,http://komsamovr.rada.gov.ua/komdbud/control/uk/publish/article?showHidden=1&art_id=72771&cat_id=72165&ctime=1419436439957
+http://www.parliament.uk/business/committees/committees-a-z/commons-select/home-affairs-committee/publications; http://www.parliament.uk/about/how/publications/government/,http://www.parliament.uk/business/committees/committees-a-z/commons-select/home-affairs-committee/publications; http://www.parliament.uk/about/how/publications/government/
+http://www.skupstina.me,http://www.skupstina.me
+"http://www.skupstina.me/index.php/me/skupstina/o-nama/uvodna-rijec, www.skupstina.me/images/dokumenti/brosure/Nadleznosti_i_funkcije.pdf","http://www.skupstina.me/index.php/me/skupstina/o-nama/uvodna-rijec, www.skupstina.me/images/dokumenti/brosure/Nadleznosti_i_funkcije.pdf"
+http://www.skupstina.me/images/dokumenti/brosure/Nadleznosti_i_funkcije.pdf,http://www.skupstina.me/images/dokumenti/brosure/Nadleznosti_i_funkcije.pdf
+http://www.skupstina.me/images/dokumenti/Izvjestaj_o_radu_Skupstine_za_2013.godinu.pdf,http://www.skupstina.me/images/dokumenti/Izvjestaj_o_radu_Skupstine_za_2013.godinu.pdf
+http://www.skupstina.me/index.php/me/skupstina/o-nama/nadleznosti,http://www.skupstina.me/index.php/me/skupstina/o-nama/nadleznosti
+http://www.skupstina.me/index.php/me/kalendar-zasijedanja,http://www.skupstina.me/index.php/me/kalendar-zasijedanja
+http://www.skupstina.me/index.php/me/sjednice/sjednice-skupstine,http://www.skupstina.me/index.php/me/sjednice/sjednice-skupstine
+"http://www.skupstina.me/index.php/me/sjednice/sjednice-skupstine, http://192.185.34.202/~skupcg/skupstina/cms/site_data/DOC25/ZAKONI%20I%20IZVJESTAJI/260/260_0.pdf","http://www.skupstina.me/index.php/me/sjednice/sjednice-skupstine, http://192.185.34.202/~skupcg/skupstina/cms/site_data/DOC25/ZAKONI%20I%20IZVJESTAJI/260/260_0.pdf"
+http://192.185.34.202/~skupcg/skupstina/cms/site_data/DOC25/ZAKONI%20I%20IZVJESTAJI/477/477_0.pdf,http://192.185.34.202/~skupcg/skupstina/cms/site_data/DOC25/ZAKONI%20I%20IZVJESTAJI/477/477_0.pdf
+http://www.skupstina.me/index.php/me/administrativni-odbor/aktuelnosti,http://www.skupstina.me/index.php/me/administrativni-odbor/aktuelnosti
+http://www.skupstina.me/index.php/me/odbor-za-evropske-integracije/sjednice,http://www.skupstina.me/index.php/me/odbor-za-evropske-integracije/sjednice
+Verbatim committee transcripts are made upon the proposal of the chair or one-third of the committee members.,Les compte-rendus textuels sont faits sur proposition du président ou d´un tiers des membres du comité.
+Voting records are available through committee reports and minutes. ,Les relevés de votes sont disponibles par l´intermédiaire des rapports et des procès-verbaux du comité. 
+http://www.skupstina.me/~skupcg/skupstina/cms/site_data/25%20saziv%20ODBORI/EKONOMIJA%20FINANSIJE%20/izvje%C5%A1taj1%20-%2049_%20sjednica.pdf,http://www.skupstina.me/~skupcg/skupstina/cms/site_data/25%20saziv%20ODBORI/EKONOMIJA%20FINANSIJE%20/izvje%C5%A1taj1%20-%2049_%20sjednica.pdf
+http://www.skupstina.me/~skupcg/skupstina//cms/site_data/PRVA%20SJEDNICA-Prestanak%20vazenja%20Odluke.pdf,http://www.skupstina.me/~skupcg/skupstina//cms/site_data/PRVA%20SJEDNICA-Prestanak%20vazenja%20Odluke.pdf
+Attendance recors are available through committee reports and minutes.,Les relevés de présence sont disponibles par l´intermédiaire des rapports et des procès-verbaux du comité.
+"According to the Law on Lobbying, there is a public registry of active lobbyists.","Selon la Loi sur le lobbying, il existe un registre public des lobbyistes actifs."
+With which technologies can citizens be alerted about plenary activities? ,Avec quelles technologies les citoyens peuvent-ils être alertés sur les activités plénières?
+"Does the parliament provide publicly available alert services? If yes, using which technologies? ","Est-ce que le parlement offre les services d´alerte accessibles au public? Si oui, c´est en utilisant quel type de technologie? "
+Alert services for plenary activities are available with which technologies? ,Les services d´alerte concernant les activités en plénière sont disponibles avec quelles technologies? 
+Alert services for committee activities are available with which technologies? ,Les services d´alerte concernant les activités du comité sont disponibles avec quelles technologies? 
+Alert services for the introduction of bills are available with which technologies? ,Les services d´alerte concernant l´introduction des projets de loi sont disponibles avec quelles technologies? 
+Alert services for changes to bills are available with which technologies? ,Les services d´alerte concernant les changements des projets de loi sont disponibles avec quelles technologies? 
+Alert services for passage of legislation are available with which technologies? ,Les services d´alerte concernant l´adoption de la législation sont disponibles avec quelles technologies? 
+Alert services for voting results are available with which technologies? ,Les services d´alerte concernant les résultats des votes sont disponibles avec quelles technologies? 
+"Board involvement information is available in the asset declaration, which is published by the government anticorruption office. ",Les informations sur la participation du conseil sont disponibles dans la déclaration de patrimoine qui est publié par le bureau anti-corruption du gouvernement. 
+"Citizen Participation, Plenary","Participation citoyenne, Plénière"
+"Citizen Participation, Committees","Participation citoyenne, Comités"
+"Citizen Participation, MPs","Participation citoyenne, Membres du parlement"
+"Ethics, MPs","Éthique, Membres du parlement"
+"Citizen Participation, Administration","Participation citoyenne, Administration"
+Georgia,Géorgie
 www.parliament.ge,www.parliament.ge
 http://parliament.ge/ge/kanonmdebloba/parlamentis-reglamenti,http://parliament.ge/ge/kanonmdebloba/parlamentis-reglamenti
-on demand as well,on demand as well
+on demand as well,sur demande aussi
 http://parliament.ge/ge/parlamentarebi,http://parliament.ge/ge/parlamentarebi
 http://parliament.ge/ge/parlamentarebi/majoritarebi-22,http://parliament.ge/ge/parlamentarebi/majoritarebi-22
 https://declaration.gov.ge/,https://declaration.gov.ge/
@@ -882,15 +1047,15 @@ http://rc.majlis.ir/fa/content/interior_rule,http://rc.majlis.ir/fa/content/inte
 http://rc.majlis.ir/fa,http://rc.majlis.ir/fa
 http://rc.majlis.ir/fa/legal_draft,http://rc.majlis.ir/fa/legal_draft
 http://rc.majlis.ir/fa/law/search,http://rc.majlis.ir/fa/law/search
-No way!,No way!
-In exceptional instances (where there is an important bill or issue) the agenda is being provided through media,In exceptional instances (where there is an important bill or issue) the agenda is being provided through media
-Usually not being notified,Usually not being notified
+No way!,Pas question !
+In exceptional instances (where there is an important bill or issue) the agenda is being provided through media,"Dans les cas exceptionnels (où il y a une loi ou bien une question importante), est-le calendrier est fourni par l´intermédiaire des médias?"
+Usually not being notified,D´habitude le public n´en est pas averti.
 http://rc.majlis.ir/fa/parliament_commission,http://rc.majlis.ir/fa/parliament_commission
-"In their own personal websites, if available","In their own personal websites, if available"
+"In their own personal websites, if available","Sur leurs propres sites web, si ceux-ci sont disponibles"
 Pakistan,Pakistan
 www.na.gov.pk/en/index.php,www.na.gov.pk/en/index.php
-Multiple times daily,Multiple times daily
-Committee transcripts,Committee transcripts
+Multiple times daily,Plusieurs fois par jour
+Committee transcripts,Compte-rendus du comité
 http://www.na.gov.pk/en/content.php?id=169,http://www.na.gov.pk/en/content.php?id=169
 http://www.na.gov.pk/en/ordersoftheday.php,http://www.na.gov.pk/en/ordersoftheday.php
 http://www.na.gov.pk/en/notices.php,http://www.na.gov.pk/en/notices.php
@@ -918,26 +1083,26 @@ http://www.congreso.gov.py/index.php/categoria-senado/18-reglamento and http://w
 http://www.congreso.gov.py/index.php/agenda,http://www.congreso.gov.py/index.php/agenda
 http://www.diputados.gov.py/ww1/index.php?pagina=sesiondigital,http://www.diputados.gov.py/ww1/index.php?pagina=sesiondigital
 http://www.tvcamara.gov.py/,http://www.tvcamara.gov.py/
-"I did not find, I thinks yes but is not accesible","I did not find, I thinks yes but is not accesible"
+"I did not find, I thinks yes but is not accesible","Je n´ai pas trouvé, je crois que oui mais ce n´est pas accessible."
 http://www.diputados.gov.py/ww1/?pagina=sesiondigital,http://www.diputados.gov.py/ww1/?pagina=sesiondigital
 http://www.diputados.gov.py/ww1/index.php?pagina=asuntos-entrados in diputies and http://odd.senado.gov.py/ in senate,http://www.diputados.gov.py/ww1/index.php?pagina=asuntos-entrados in diputies and http://odd.senado.gov.py/ in senate
 http://sil2py.diputados.gov.py/main.pmf,http://sil2py.diputados.gov.py/main.pmf
 http://digesto.senado.gov.py/index.php,http://digesto.senado.gov.py/index.php
 http://www.diputados.gov.py/ww1/index.php?pagina=permanente-lista diputies and www.congreso.gov.py/index.php/comisiones/no-asesoras/bicamerales-y-especiales in senate,http://www.diputados.gov.py/ww1/index.php?pagina=permanente-lista diputies and www.congreso.gov.py/index.php/comisiones/no-asesoras/bicamerales-y-especiales in senate
 http://www.congreso.gov.py/index.php/comisiones/asesoras/permanentes,http://www.congreso.gov.py/index.php/comisiones/asesoras/permanentes
-only final resolution,only final resolution
+only final resolution,Seulement la résolution finale
 http://www.congreso.gov.py/index.php/comisiones/asesoras/permanentes and http://www.diputados.gov.py/ww1/index.php?pagina=permanente-lista,http://www.congreso.gov.py/index.php/comisiones/asesoras/permanentes and http://www.diputados.gov.py/ww1/index.php?pagina=permanente-lista
 http://www.congreso.gov.py/index.php/senado/nomina/nomina-alfabetica,http://www.congreso.gov.py/index.php/senado/nomina/nomina-alfabetica
-Diputies: http://www.diputados.gov.py/ww1/index.php?pagina=dip-partido and Senate: http://www.congreso.gov.py/index.php/senado/bancadas,Diputies: http://www.diputados.gov.py/ww1/index.php?pagina=dip-partido and Senate: http://www.congreso.gov.py/index.php/senado/bancadas
-Senate http://www.congreso.gov.py/index.php/senado/nomina/nomina-alfabetica and Diputies: http://www.diputados.gov.py/ww1/index.php?pagina=dip-listado,Senate http://www.congreso.gov.py/index.php/senado/nomina/nomina-alfabetica and Diputies: http://www.diputados.gov.py/ww1/index.php?pagina=dip-listado
+Diputies: http://www.diputados.gov.py/ww1/index.php?pagina=dip-partido and Senate: http://www.congreso.gov.py/index.php/senado/bancadas,Membres du parlement: http://www.diputados.gov.py/ww1/index.php?pagina=dip-partido et le Sénat: http://www.congreso.gov.py/index.php/senado/bancadas
+Senate http://www.congreso.gov.py/index.php/senado/nomina/nomina-alfabetica and Diputies: http://www.diputados.gov.py/ww1/index.php?pagina=dip-listado,Le sénat http://www.congreso.gov.py/index.php/senado/nomina/nomina-alfabetica et les membres du parlement  http://www.diputados.gov.py/ww1/index.php?pagina=dip-listado
 http://www.diputados.gov.py/ww1/index.php?pagina=sesiondigital Only available in the Chamber of Deputies,http://www.diputados.gov.py/ww1/index.php?pagina=sesiondigital Only available in the Chamber of Deputies
 "http://www.diputados.gov.py/ww1/archivo/codigohcd.pdf There is a code of ethics but the page is down, so do not know what I must respond","http://www.diputados.gov.py/ww1/archivo/codigohcd.pdf There is a code of ethics but the page is down, so do not know what I must respond"
 http://www.congreso.gov.py/index.php/categoria-institucional/53-ley-5189-14/170165-nominas-y-listados,http://www.congreso.gov.py/index.php/categoria-institucional/53-ley-5189-14/170165-nominas-y-listados
 http://www.congreso.gov.py/index.php/general-hide/37-pggn/171811-informe-de-tablero-de-control?id_cat=52,http://www.congreso.gov.py/index.php/general-hide/37-pggn/171811-informe-de-tablero-de-control?id_cat=52
-More info only if requested offline,More info only if requested offline
+More info only if requested offline,Plus d´informations si demandé en ligne
 http://www.congreso.gov.py/index.php/menu-institucional/llamados,http://www.congreso.gov.py/index.php/menu-institucional/llamados
 http://www.congreso.gov.py/index.php/categoria-institucional/55-acceso-a-la-informacion-publica/170947-informacion-al-ciudadano,http://www.congreso.gov.py/index.php/categoria-institucional/55-acceso-a-la-informacion-publica/170947-informacion-al-ciudadano
-Mexico,Mexico
+Mexico,Mexique
 http://www.diputados.gob.mx/,http://www.diputados.gob.mx/
 http://www.diputados.gob.mx/servicios/datorele/LXIII_LEG/indextotal.htm,http://www.diputados.gob.mx/servicios/datorele/LXIII_LEG/indextotal.htm
 http://www5.diputados.gob.mx/index.php/camara/Transparencia/Ley-de-Transparencia/Facultades,http://www5.diputados.gob.mx/index.php/camara/Transparencia/Ley-de-Transparencia/Facultades
@@ -955,7 +1120,7 @@ http://www5.diputados.gob.mx/index.php/Transparencia,http://www5.diputados.gob.m
 http://transparencia.senado.gob.mx/marco.php,http://transparencia.senado.gob.mx/marco.php
 http://www.diputados.gob.mx/LeyesBiblio/pdf/LGTAIP.pdf,http://www.diputados.gob.mx/LeyesBiblio/pdf/LGTAIP.pdf
 http://www.senado.gob.mx/,http://www.senado.gob.mx/
-No personal information is collected.,No personal information is collected.
+No personal information is collected.,Aucunes données personnelles ne sont recueillies.
 http://www.senado.gob.mx/index.php?ver=sen&mn=1&sm=4; http://www.senado.gob.mx/index.php?ver=sen&mn=1&sm=5,http://www.senado.gob.mx/index.php?ver=sen&mn=1&sm=4; http://www.senado.gob.mx/index.php?ver=sen&mn=1&sm=5
 http://www.senado.gob.mx/index.php,http://www.senado.gob.mx/index.php
 http://www.senado.gob.mx/index.php?ver=sp&mn=2&sm=1,http://www.senado.gob.mx/index.php?ver=sp&mn=2&sm=1
@@ -963,40 +1128,40 @@ http://www.senado.gob.mx/index.php?ver=sp&mn=4,http://www.senado.gob.mx/index.ph
 http://www.senado.gob.mx/index.php?ver=sen&mn=8,http://www.senado.gob.mx/index.php?ver=sen&mn=8
 http://www.senado.gob.mx/lyd/index.html,http://www.senado.gob.mx/lyd/index.html
 http://www.senado.gob.mx/index.php?ver=sen&mn=1&sm=1 (each committee also has its own description),http://www.senado.gob.mx/index.php?ver=sen&mn=1&sm=1 (each committee also has its own description)
-It does not occur often.,It does not occur often.
-Neither is secure nor function on a regular basis.,Neither is secure nor function on a regular basis.
+It does not occur often.,Cela ne passe pas souvent.
+Neither is secure nor function on a regular basis.,Aucun(e) n´est sécurisé(e) ni fonctionne de façon régulière.
 http://www.senado.gob.mx/comisiones/hacienda/programa.php,http://www.senado.gob.mx/comisiones/hacienda/programa.php
 http://www.senado.gob.mx/comisiones/familia/docs/Informe3_LXII.pdf,http://www.senado.gob.mx/comisiones/familia/docs/Informe3_LXII.pdf
 http://www.senado.gob.mx/comisiones/proteccion_civil/dictamenes.php,http://www.senado.gob.mx/comisiones/proteccion_civil/dictamenes.php
 http://www.senado.gob.mx/comisiones/educacion/integrantes.php,http://www.senado.gob.mx/comisiones/educacion/integrantes.php
 http://www.senado.gob.mx/index.php?ver=int&mn=4&sm=5,http://www.senado.gob.mx/index.php?ver=int&mn=4&sm=5
 http://www.senado.gob.mx/index.php?ver=int&mn=4&sm=6&id=675,http://www.senado.gob.mx/index.php?ver=int&mn=4&sm=6&id=675
-It does not include the state office.,It does not include the state office.
+It does not include the state office.,Cela ne comprend pas le bureau de l´État.
 http://www.senado.gob.mx/index.php?ver=sen&mn=7&sm=3&id=675,http://www.senado.gob.mx/index.php?ver=sen&mn=7&sm=3&id=675
-"The record must be filed in the Committee so one should request it, formally, through the access to public information procedures and mechanisms (filing an information requirement).","The record must be filed in the Committee so one should request it, formally, through the access to public information procedures and mechanisms (filing an information requirement)."
-"Some sort of this information must be filed so one should request it, formally, through the access to public information procedures and mechanisms (filing an information requirement).","Some sort of this information must be filed so one should request it, formally, through the access to public information procedures and mechanisms (filing an information requirement)."
+"The record must be filed in the Committee so one should request it, formally, through the access to public information procedures and mechanisms (filing an information requirement).","Le procès-verbal doit être demandé au Comité de manière officielle, par l´intermédiaire de l´accès aux procédures et mécanismes d´informations publics (présentation d´une demande d´informations)."
+"Some sort of this information must be filed so one should request it, formally, through the access to public information procedures and mechanisms (filing an information requirement).","Quelques types de ces informations doivent être demandés de mani?re officielle, par l´intermédiaire de l´accès aux procédures et mécanismes d´informations publics (présentation d´une demande d´informations)."
 http://www.senado.gob.mx/documentos/Cabilderos_Senado_24092015.pdf,http://www.senado.gob.mx/documentos/Cabilderos_Senado_24092015.pdf
-It does not provide basic information on their activities.,It does not provide basic information on their activities.
-Assets and interests disclosure is not mandatory. There is a civil society platform in which many politicians have published this information voluntarily: www.3de3.mx,Assets and interests disclosure is not mandatory. There is a civil society platform in which many politicians have published this information voluntarily: www.3de3.mx
+It does not provide basic information on their activities.,Il ne fournit pas les informations de base concernant leurs activités.
+Assets and interests disclosure is not mandatory. There is a civil society platform in which many politicians have published this information voluntarily: www.3de3.mx,La déclaration de patrimoine et des intérêts n´est pas obligatoire. Il existe une plateforme de la société civile où nombreux politiciens ont publié cette information volontairement:  www.3de3.mx
 http://www.senado.gob.mx/admin/estado_ejercicio.php,http://www.senado.gob.mx/admin/estado_ejercicio.php
-Filing an information request,Filing an information request
+Filing an information request,Faire une demande d´informations?
 http://www.senado.gob.mx/admin/rec_materiales.php,http://www.senado.gob.mx/admin/rec_materiales.php
 http://www.senado.gob.mx/admin/docs/organizacion/organigramas/org14.html; http://www.senado.gob.mx/admin/marco_normativo.php,http://www.senado.gob.mx/admin/docs/organizacion/organigramas/org14.html; http://www.senado.gob.mx/admin/marco_normativo.php
 http://www.senado.gob.mx/admin/directorio_servidores/dir4_11p.php,http://www.senado.gob.mx/admin/directorio_servidores/dir4_11p.php
-Taiwan,Taiwan
+Taiwan,Taïwan
 http://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=I0020026,http://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=I0020026
 http://data.ly.gov.tw/principle.action,http://data.ly.gov.tw/principle.action
-nope,nope
+nope,Non
 http://www.ly.gov.tw/,http://www.ly.gov.tw/
-no,no
+no,Non
 http://www.ly.gov.tw/01_lyinfo/0109_meeting/meetingList.action,http://www.ly.gov.tw/01_lyinfo/0109_meeting/meetingList.action
 http://lci.ly.gov.tw/LyLCEW/,http://lci.ly.gov.tw/LyLCEW/
 http://npl.ly.gov.tw/do/www/homePage,http://npl.ly.gov.tw/do/www/homePage
 http://www.ly.gov.tw/02_introduce/0204_comm/0204_comm.jsp,http://www.ly.gov.tw/02_introduce/0204_comm/0204_comm.jsp
 http://www.ly.gov.tw/14_others/policy_security01.jsp,http://www.ly.gov.tw/14_others/policy_security01.jsp
-but no one knows...,but no one knows...
+but no one knows...,mais personne ne sait...
 http://law.moj.gov.tw/LawClass/LawContent.aspx?PCODE=A0010044,http://law.moj.gov.tw/LawClass/LawContent.aspx?PCODE=A0010044
-so real-time,so real-time
+so real-time,alors en temps réel
 http://ivod.ly.gov.tw/,http://ivod.ly.gov.tw/
 http://www.ly.gov.tw/03_leg/0301_main/legList.action,http://www.ly.gov.tw/03_leg/0301_main/legList.action
 http://lob.ly.gov.tw/lob/lob050100.action,http://lob.ly.gov.tw/lob/lob050100.action
@@ -1005,10 +1170,10 @@ http://www.ly.gov.tw/02_introduce/0203_unit/business/businessList.action?unitcd=
 http://www.ly.gov.tw/01_lyinfo/0102_bid/bidList.action,http://www.ly.gov.tw/01_lyinfo/0102_bid/bidList.action
 http://www.ly.gov.tw/02_introduce/0203_unit/0203_unit.jsp,http://www.ly.gov.tw/02_introduce/0203_unit/0203_unit.jsp
 Canadas,Canadas
-"The ""Speaker's Permission Regarding the Reproduction of the Proceedings of the House of Commons and its Committees"" (http://www.parl.gc.ca/SpeakerPermission.aspx?Language=E) and the ""Permission Regarding the Reproduction of the Proceedings of the Senate and its Committees"" (http://www.parl.gc.ca/ImportantNotices.aspx?Language=E&view=S) allow non-commercial reproduction of the proceedings of the House and Senate and their Committees, in whole or in part and in any medium, provided that the reproduction is accurate and is not presented as official.","The ""Speaker's Permission Regarding the Reproduction of the Proceedings of the House of Commons and its Committees"" (http://www.parl.gc.ca/SpeakerPermission.aspx?Language=E) and the ""Permission Regarding the Reproduction of the Proceedings of the Senate and its Committees"" (http://www.parl.gc.ca/ImportantNotices.aspx?Language=E&view=S) allow non-commercial reproduction of the proceedings of the House and Senate and their Committees, in whole or in part and in any medium, provided that the reproduction is accurate and is not presented as official."
-"The ""Speaker's Permission Regarding the Reproduction of the Proceedings of the House of Commons and its Committees"" (http://www.parl.gc.ca/SpeakerPermission.aspx?Language=E) and the ""Permission Regarding the Reproduction of the Proceedings of the Senate and its Committees"" (http://www.parl.gc.ca/ImportantNotices.aspx?Language=E&view=S) allow non-commercial reproduction of the proceedings of the House and Senate and their Committees, in whole or in part and in any medium, provided that the reproduction is accurate and is not presented as official. Besides proceedings, all other information is under copyright and not licensed. http://www.parl.gc.ca/ImportantNotices.aspx?Language=E","The ""Speaker's Permission Regarding the Reproduction of the Proceedings of the House of Commons and its Committees"" (http://www.parl.gc.ca/SpeakerPermission.aspx?Language=E) and the ""Permission Regarding the Reproduction of the Proceedings of the Senate and its Committees"" (http://www.parl.gc.ca/ImportantNotices.aspx?Language=E&view=S) allow non-commercial reproduction of the proceedings of the House and Senate and their Committees, in whole or in part and in any medium, provided that the reproduction is accurate and is not presented as official. Besides proceedings, all other information is under copyright and not licensed. http://www.parl.gc.ca/ImportantNotices.aspx?Language=E"
+"The ""Speaker's Permission Regarding the Reproduction of the Proceedings of the House of Commons and its Committees"" (http://www.parl.gc.ca/SpeakerPermission.aspx?Language=E) and the ""Permission Regarding the Reproduction of the Proceedings of the Senate and its Committees"" (http://www.parl.gc.ca/ImportantNotices.aspx?Language=E&view=S) allow non-commercial reproduction of the proceedings of the House and Senate and their Committees, in whole or in part and in any medium, provided that the reproduction is accurate and is not presented as official.","La « permission du Président concernant la reproduction des délibérations de la Chambre des communes et de ses comités » (http://www.parl.gc.ca/SpeakerPermission.aspx?Language=E) and the ""Permission Regarding the Reproduction of the Proceedings of the Senate and its Committees"" (http://www.parl.gc.ca/ImportantNotices.aspx?Language=E&view=S) permet une diffusions non-commerciale des délibérations de la Chambre des communes et du Sénat et leur comités, en totalité ou en partie et dans tous les médias, à condition que la reproduction soit précise et n´est pas présentée en tant que la reproduction officielle. A part les délibérations, toutes les autres informations sont protégées par les droits d´auteur et ne sont pas autorisées. http://www.parl.gc.ca/ImportantNotices.aspx?Language=E"
+"The ""Speaker's Permission Regarding the Reproduction of the Proceedings of the House of Commons and its Committees"" (http://www.parl.gc.ca/SpeakerPermission.aspx?Language=E) and the ""Permission Regarding the Reproduction of the Proceedings of the Senate and its Committees"" (http://www.parl.gc.ca/ImportantNotices.aspx?Language=E&view=S) allow non-commercial reproduction of the proceedings of the House and Senate and their Committees, in whole or in part and in any medium, provided that the reproduction is accurate and is not presented as official. Besides proceedings, all other information is under copyright and not licensed. http://www.parl.gc.ca/ImportantNotices.aspx?Language=E","La « permission du Président concernant la reproduction des délibérations de la Chambre des communes et de ses comités » (http://www.parl.gc.ca/SpeakerPermission.aspx?Language=E) and the ""Permission Regarding the Reproduction of the Proceedings of the Senate and its Committees"" (http://www.parl.gc.ca/ImportantNotices.aspx?Language=E&view=S) permet une diffusions non-commerciale des délibérations de la Chambre des communes et du Sénat et leur comités, en totalité ou en partie et dans tous les médias, à condition que la reproduction soit précise et n´est pas présentée en tant que la reproduction officielle. A part les délibérations, toutes les autres informations sont protégées par les droits d´auteur et ne sont pas autorisées. http://www.parl.gc.ca/ImportantNotices.aspx?Language=E"
 http://www.parl.gc.ca/,http://www.parl.gc.ca/
-"Bills, votes, speeches, members, legislative summaries and occasionally further reading are interlinked.","Bills, votes, speeches, members, legislative summaries and occasionally further reading are interlinked."
+"Bills, votes, speeches, members, legislative summaries and occasionally further reading are interlinked.","Les projets de lois, votes, discours, membres, résumés législatifs et de temps en temps les ressources de lecture complémentaire sont interconnectés."
 http://www.parl.gc.ca/HouseChamberBusiness/ChamberCalendar.aspx?Language=E,http://www.parl.gc.ca/HouseChamberBusiness/ChamberCalendar.aspx?Language=E
 http://www.parl.gc.ca/housechamberbusiness/ChamberHome.aspx?Language=E&Mode=1,http://www.parl.gc.ca/housechamberbusiness/ChamberHome.aspx?Language=E&Mode=1
 http://www.parl.gc.ca/Committees/en/Meetings,http://www.parl.gc.ca/Committees/en/Meetings
@@ -1023,7 +1188,7 @@ http://www.parl.gc.ca/About/House/Compendium/Web-Content/c_a_index-e.htm,http://
 http://www.parl.gc.ca/Content/LOP/ResearchPublications/ls412-e.htm,http://www.parl.gc.ca/Content/LOP/ResearchPublications/ls412-e.htm
 http://www.parl.gc.ca/LEGISInfo/BillDetails.aspx?Language=E&Mode=1&billId=6398775&View=7,http://www.parl.gc.ca/LEGISInfo/BillDetails.aspx?Language=E&Mode=1&billId=6398775&View=7
 http://www.parl.gc.ca/ImportantNotices.aspx?Language=E,http://www.parl.gc.ca/ImportantNotices.aspx?Language=E
-"Votes are not RSS/Atom, but are available in a custom XML format.","Votes are not RSS/Atom, but are available in a custom XML format."
+"Votes are not RSS/Atom, but are available in a custom XML format.","Les votes ne sont pas disponibles par un flux RSS/Atom, mais dans le format XML personnalisé"
 http://www.parl.gc.ca/about/parliament/senatoreugeneforsey/home/index-e.html,http://www.parl.gc.ca/about/parliament/senatoreugeneforsey/home/index-e.html
 http://www.parl.gc.ca/ProceduralReference.aspx?Language=E,http://www.parl.gc.ca/ProceduralReference.aspx?Language=E
 http://www.parl.gc.ca/HouseChamberBusiness/ChamberCalendar.aspx?Language=E&Mode=1&Parl=41&Ses=2,http://www.parl.gc.ca/HouseChamberBusiness/ChamberCalendar.aspx?Language=E&Mode=1&Parl=41&Ses=2

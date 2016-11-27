@@ -1,0 +1,7 @@
+# En Inde, une déclaration du patrimoine est obligatoire dans les 90 jours à partir de l´entrée en fonction en tant que membre du parlement
+
+En Inde, les voteurs ont le droit fondamental de connaître les antécédents financiers de toute personne présentant sa candidature dans les élections au parlement. Depuis 2003, il est devenu une pratique courante chez les candidats participant aux élections au parlement de présenter une déclaration du patrimoine officielle révélant les informations détaillées sur les actifs et les passifs de soi-même, leur épouse et trois personnes à charge.  La commission électorale de l´Inde est obligée de rendre ces affidavits publics afin que les voteurs puissent connaître les antécédents des candidats aux élections.
+
+Après que le candidat remporte les élections dans une des deux chambres du parlement, il devient obligatoire pour lui de faire une déclaration du patrimoine (des biens meubles et immeubles de soi-même, son épouse, et des enfants à charge) dans les 90 jours de prêter le serment d´office en tant que membre du parlement. Les engagements aux institutions financières publiques et au gouvernement central et n´importe quel gouvernement d´un état doivent également être révélés.
+
+Source: [www.humanrightsinitiative.org/publications/rti/parl_citizens_bridging_gap_thro_greater_transparency.pdf](http://www.humanrightsinitiative.org/publications/rti/parl_citizens_bridging_gap_thro_greater_transparency.pdf)

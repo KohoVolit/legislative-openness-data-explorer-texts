@@ -1,0 +1,6 @@
+code,text,link
+title,Télécharger les données,
+button_download,Obtenir en format CSV,
+download_excel,Obtenir en format XLSX (Excel),
+csv_link,,Legislative-Openness-Data-Explorer-Source-Data.csv
+xls_link,,Legislative-Openness-Data-Explorer-Source-Data.xlsx

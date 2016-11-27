@@ -1,0 +1,3 @@
+# En Slovénie, aux Pays-Bas et au Royaume-Uni, le public peut participer à la plénière ou bien à la session du comité sans un consentement préalable.
+
+En Slovénie, 100 sièges sont disponibles pour le public pendant les sessions plénières, et le bâtiment du parlement est ouvert au public deux fois par semaine. Aux Pays-Bas, il y a 240 sièges disponibles pour le public pendant les sessions plénières. Les sessions du comité sont tenues dans plusieurs salles disposant d´entre 24 à 208 sièges pour les visiteurs. Au Royaume-Uni, le public peut observer les sessions plénières dans les deux chambres, et les débats à Westminster Hall des galeries destinées au public.

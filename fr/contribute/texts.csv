@@ -1,0 +1,15 @@
+code,text,link
+title,Contribuer,
+add_data,Ajouter les données,
+add_data_text,"Est-ce que les données sur votre chambre du parlement manquent? Compléter une enqu?te pour ajouter les données. Si vous ?tes intéressé(e) par une question concr?te, veuillez remplir l´enqu?te sur: <a href='http://www.surveygizmo.com/s3/2699205/Plenary-Survey'>plenary</a>, <a href='http://www.surveygizmo.com/s3/2730023/Committee-Survey'>committees</a>, <a href='http://www.surveygizmo.com/s3/1766975/MP-Survey'>MPs</a>, <a href='http://www.surveygizmo.com/s3/2730793/Administration-Survey'>parliamentary administration</a>, <a href='http://www.surveygizmo.com/s3/2730928/Accessibility-Survey'>accessibility</a>, <a href='http://www.surveygizmo.com/s3/2730673/Ethics-Survey'>ethics</a>, or <a href='http://www.surveygizmo.com/s3/2730810/Citizen-Participation-Survey'>citizen participation</a>. L´enqu?te compl?te qui se trouve en lien ci-dessous, couvre touts les domaines des enjeux.",
+add_data_button,Remplir l´Enqu?te Compl?te,http://www.surveygizmo.com/s3/1660766/Global-Legislative-Openness-Survey
+suggest_edits,Affiner les données,
+suggest_edits_text,"Est-ce quelques-unes des données sont-elles imprécises? Propose des modifications, additions ou bien change les données.",
+suggest_edits_button,Propose les modifications des données,
+suggest_edits_google_form,-,https://docs.google.com/forms/d/1_RpRTjV3RffgmZOOXZZPgY2e312QP2KpAE0i5asN2j4/viewform?embedded=true
+suggest_edits_form_hide,Cacher le formulaire,
+add_best_practices,Ajouter les exemples des bonnes pratiques,
+add_best_practices_text,Qu´est-ce que les parlements dans votre pays ou votre région font pour promouvoir la transparence législative? Ajoutez les bonnes pratiques ? la collection globale des exemples en pleine croissance.,
+add_best_practices_button,Contribuer aux bonnes pratiques,
+add_best_practices_google_form,-,https://docs.google.com/forms/d/1zxUs8OgNoFLtzKZmCVGmoNmktICQck5IiwnDdXzOT9s/viewform?embedded=true
+add_best_practices_form_hide,Cacher le formulaire,
